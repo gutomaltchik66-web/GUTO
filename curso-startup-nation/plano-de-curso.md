@@ -30,52 +30,29 @@ Ao final da unidade, o aluno deve ser capaz de:
 
 ## 3. Estrutura das aulas
 
-### Aula 1 — O que é a "Startup Nation"?
-- Provocação inicial: "Israel tem 9 milhões de habitantes e nenhum petróleo. Como virou a 2ª maior concentração de startups do mundo, atrás só dos EUA?"
-- Dados de impacto: startups per capita, % do PIB em P&D, exemplos de produtos do cotidiano dos alunos criados por israelenses (Waze, ICQ, pen drive/USB flash drive, chip Intel, Mobileye).
-- Introdução ao livro *Start-Up Nation* (Senor & Singer) como referência do curso.
+Plano de aula completo (objetivo, materiais, roteiro minuto a minuto e produto de cada aula) em [`aulas/`](aulas/):
 
-### Aula 2 — Raízes históricas: da sobrevivência à inovação
-- Linha do tempo: imigração (aliyot), kibutz e escassez de recursos (água/agricultura — irrigação por gotejamento), guerras e necessidade de autossuficiência tecnológica.
-- Discussão: como restrição de recursos pode gerar criatividade ("necessidade como mãe da inovação").
+| Aula | Tema | Plano detalhado |
+|---|---|---|
+| 1 | O que é a "Startup Nation"? | [`aulas/aula-01.md`](aulas/aula-01.md) |
+| 2 | Raízes históricas: da sobrevivência à inovação | [`aulas/aula-02.md`](aulas/aula-02.md) |
+| 3 | Chutzpah: a cultura de questionar | [`aulas/aula-03.md`](aulas/aula-03.md) |
+| 4 | Tolerância ao fracasso | [`aulas/aula-04.md`](aulas/aula-04.md) |
+| 5 | O papel do Estado e do Exército | [`aulas/aula-05.md`](aulas/aula-05.md) |
+| 6 | Estudos de caso: empresas que os alunos usam | [`aulas/aula-06.md`](aulas/aula-06.md) |
+| 7 | Tikun olam + lançamento do desafio final | [`aulas/aula-07.md`](aulas/aula-07.md) |
+| 8 | Ideação: criando minha ideia | [`aulas/aula-08.md`](aulas/aula-08.md) |
+| 9 | Preparando o pitch | [`aulas/aula-09.md`](aulas/aula-09.md) |
+| 10 | Pitch Day | [`aulas/aula-10.md`](aulas/aula-10.md) |
 
-### Aula 3 — Chutzpah: a cultura de questionar
-- O conceito de chutzpah e a hierarquia horizontal (soldado pode questionar general; aluno pode questionar professor/rabino).
-- Conexão com a tradição judaica de debate: Talmud, chevruta, beit midrash — aprender é discordar e perguntar, não memorizar.
-- Atividade: rodas de "chevruta" discutindo um estudo de caso de startup.
+### Ferramentas usadas pelos alunos (nas aulas 8–10)
 
-### Aula 4 — Tolerância ao fracasso
-- Cultura israelense do "fracasso inteligente" (failure resilience) vs. medo do erro.
-- Estudo de caso de uma startup que fracassou e o que se aprendeu.
-- Atividade: cada aluno compartilha um "fracasso" pessoal e o que aprendeu com ele (conexão socioemocional).
+Templates prontos para imprimir/copiar em [`ferramentas/`](ferramentas/):
 
-### Aula 5 — O papel do Estado e do Exército
-- Fundo Yozma (venture capital estatal nos anos 1990) como catalisador da indústria de VC.
-- Unidade 8200 (inteligência tecnológica militar) como "escola" de empreendedores.
-- Debate: o papel do governo deveria ser esse em outros países? E no Brasil?
-
-### Aula 6 — Estudos de caso: empresas que os alunos usam
-- Grupos analisam uma empresa israelense cada (Waze, Wix, Mobileye, SolarEdge, ICQ, Sisense, Fiverr etc.): que problema resolve, quem fundou, o que a torna "startup nation" em miniatura.
-- Apresentação rápida de cada grupo (3 min).
-
-### Aula 7 — Tikun olam: inovação com propósito
-- Startups israelenses de impacto social/ambiental (ex.: irrigação, dessalinização, saúde).
-- Discussão: inovação só vale quando gera lucro, ou também quando "conserta o mundo"?
-- Introdução ao desafio do projeto final: os alunos vão propor uma solução (startup) para um problema real da escola, da comunidade ou do mundo.
-
-### Aula 8 — Ideação: criando sua ideia
-- Mini-oficina de design thinking simplificado: identificar um problema → gerar ideias → escolher uma → desenhar a solução em um "canvas" simples (1 página).
-- Trabalho em grupos de 3–4 alunos.
-
-### Aula 9 — Preparando o pitch
-- O que é um pitch (elevator pitch): problema, solução, "por que eu", chamada para ação.
-- Cada grupo prepara uma apresentação de 2 minutos.
-- Ensaio com feedback entre pares.
-
-### Aula 10 — Pitch Day
-- Apresentação final dos grupos para uma banca (pode incluir outros professores, coordenação, ou convidados externos ligados à comunidade/empreendedorismo).
-- Avaliação por rubrica (ver seção 5).
-- Fechamento: retomada dos valores judaicos discutidos e como eles apareceram nos próprios projetos dos alunos.
+- [`ferramentas/mapa-de-empatia.md`](ferramentas/mapa-de-empatia.md) — entender a pessoa real por trás do problema (Aula 8)
+- [`ferramentas/canvas-projeto-pessoal.md`](ferramentas/canvas-projeto-pessoal.md) — Canvas de 8 caixas para estruturar a ideia (Aula 8)
+- [`ferramentas/roteiro-pitch.md`](ferramentas/roteiro-pitch.md) — roteiro de pitch de 2 minutos (Aulas 9–10)
+- [`ferramentas/rubrica-avaliacao.md`](ferramentas/rubrica-avaliacao.md) — rubrica de avaliação do Pitch Day (Aula 10)
 
 ## 4. Metodologia
 
