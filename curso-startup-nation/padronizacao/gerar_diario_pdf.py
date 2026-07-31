@@ -4,10 +4,11 @@ Diário do Empreendedor — cabeçalho padrão CIB (Ensino Fundamental 2),
 replicando o modelo oficial extraído de CABEÇALHO EDITÁVEL EF2.docx e o
 enquadramento de página (borda) extraído de PAUTA PEQUENA.pdf.
 
-Cada página traz um trecho de fonte judaica diferente (Torá, Neviim,
-Ketuvim, Mishná/Pirkei Avot ou Talmud) e duas "Questões do Dia" — uma
-ligada ao trecho, outra ao tema da aula — além da linha contínua
-"Minha ideia hoje".
+Cada página traz uma citação livre de fonte judaica diferente (Torá,
+Neviim, Ketuvim, Mishná/Pirkei Avot ou Talmud), centralizada e
+enquadrada, seguida de uma pergunta padrão ("O que eu aprendi na aula
+de hoje?") e da linha contínua "Minha ideia hoje". A capa traz o
+título, o escudo do colégio e uma caixa grande para o aluno desenhar.
 """
 import os
 from reportlab.lib.pagesizes import A4
@@ -30,6 +31,11 @@ logo_img = ImageReader(LOGO_PATH)
 LOGO_W_PX, LOGO_H_PX = logo_img.getSize()
 LOGO_ASPECT = LOGO_W_PX / LOGO_H_PX
 
+ESCUDO_PATH = os.path.join(ASSETS, "cib-escudo.png")
+escudo_img = ImageReader(ESCUDO_PATH)
+ESCUDO_W_PX, ESCUDO_H_PX = escudo_img.getSize()
+ESCUDO_ASPECT = ESCUDO_W_PX / ESCUDO_H_PX
+
 PAGE_W, PAGE_H = A4
 BORDER_MARGIN = 10 * mm     # page-frame border, like PAUTA PEQUENA
 CONTENT_MARGIN = 16 * mm    # text content margin from page edge
@@ -37,109 +43,77 @@ BLACK = colors.black
 GREY = colors.HexColor("#8C8C8C")
 LIGHTGREY = colors.HexColor("#EDEDED")
 
-# Cada entrada: (n, data, tema, fonte, trecho, q1_ligada_ao_trecho, q2_tema_do_dia)
+PERGUNTA_PADRAO = "O que eu aprendi na aula de hoje?"
+
+# Cada entrada: (n, data, tema, fonte, trecho)
 aulas = [
     (1, "03/08", "Abertura: além do que você já sabe sobre Israel",
      "Pirkei Avot 2:21 (Rabi Tarfon)",
-     "“Não te cabe completar a tarefa, mas também não estás livre para dela te eximir.”",
-     "O Rabino Tarfon diz que não precisamos terminar uma tarefa grande sozinhos, mas também não podemos deixar de começar. Que “tarefa grande” você imagina que vai construir neste semestre?",
-     "Antes de começar: em uma frase, o que você já sabia sobre Israel?"),
+     "“Não te cabe completar a tarefa, mas também não estás livre para dela te eximir.”"),
 
     (2, "10/08", "Raízes históricas, sob uma nova ótica",
      "Isaías 35:1",
-     "“O deserto e o lugar solitário se alegrarão; e o ermo exultará e florescerá como a rosa.”",
-     "Isaías imaginou o deserto florescendo — e Israel tornou essa imagem realidade com tecnologia de irrigação. Que “deserto” (falta de algo) você já viu alguém transformar em oportunidade?",
-     "O que você faria se não tivesse água, dinheiro ou tempo suficiente para algo que precisa muito?"),
+     "“O deserto e o lugar solitário se alegrarão; e o ermo exultará e florescerá como a rosa.”"),
 
     (3, "17/08", "Chutzpah: da palavra à atitude empreendedora",
      "Gênesis 18:23-25",
-     "“Não farás isso... Não fará justiça o Juiz de toda a terra?” — Abraão, questionando D'us sobre a destruição de Sodoma.",
-     "Abraão teve coragem de questionar até D'us, pedindo justiça. Você acha que questionar uma autoridade pode ser um ato de respeito, e não de desrespeito? Por quê?",
-     "Você já teve uma ideia que achava “ousada demais” e não contou pra ninguém? Qual?"),
+     "“Não farás isso... Não fará justiça o Juiz de toda a terra?” — Abraão, questionando D'us sobre a destruição de Sodoma."),
 
     (4, "24/08", "Tolerância ao fracasso",
      "Provérbios 24:16",
-     "“Porque sete vezes cai o justo, e se levanta.”",
-     "Provérbios diz que o justo cai sete vezes e se levanta. Qual foi a última vez que você “caiu” e conseguiu se levantar?",
-     "O que você sente quando erra alguma coisa na frente dos outros?"),
+     "“Porque sete vezes cai o justo, e se levanta.”"),
 
     (5, "31/08", "O papel do Estado e do Exército",
      "Pirkei Avot 3:2 (Rabi Chanina)",
-     "“Reza pelo bem-estar do governo, pois sem o temor a ele, um homem engoliria vivo o seu próximo.”",
-     "Rabi Chanina ensinava que devemos torcer pelo bem-estar do governo, porque as instituições nos protegem do caos. Você concorda que instituições (governo, escola, exército) são necessárias para a sociedade funcionar bem? Por quê?",
-     "Você acha que o governo deveria ajudar jovens com ideias de negócio? Por quê?"),
+     "“Reza pelo bem-estar do governo, pois sem o temor a ele, um homem engoliria vivo o seu próximo.”"),
 
     (6, "14/09", "Estudos de caso: empresas que os alunos usam",
      "Pirkei Avot 4:1 (Ben Zoma)",
-     "“Quem é sábio? Aquele que aprende com todo homem.”",
-     "Ben Zoma dizia que sábio é quem aprende com qualquer pessoa. O que você pode aprender observando uma empresa, mesmo sem ser dono dela?",
-     "Qual desses produtos (Waze, Wix, Mobileye...) você já usou? Como seria sua rotina sem ele?"),
+     "“Quem é sábio? Aquele que aprende com todo homem.”"),
 
     (7, "28/09", "Tikun olam + lançamento do desafio final",
      "Pirkei Avot 1:14 (Hillel)",
-     "“Se eu não for por mim, quem será por mim? E quando eu for só por mim, o que sou eu? E se não agora, quando?”",
-     "Hillel pergunta “se não agora, quando?”. Por que agora é um bom momento para você começar seu próprio projeto?",
-     "Você prefere criar algo que dá lucro, ou algo que ajuda alguém, mesmo sem ganhar dinheiro com isso? Por quê?"),
+     "“Se eu não for por mim, quem será por mim? E quando eu for só por mim, o que sou eu? E se não agora, quando?”"),
 
     (8, "05/10", "Mapa de Empatia: entendendo o problema de verdade",
      "Talmud, Shabat 31a (Hillel)",
-     "“O que é odioso para ti, não faças ao teu próximo — essa é toda a Torá; o resto é comentário.”",
-     "Hillel resumiu toda a Torá nessa frase. Como ela se conecta com se colocar no lugar de outra pessoa (empatia)?",
-     "Pense em alguém (colega, família, vizinho) que sofre com o problema que você quer resolver. Quem é essa pessoa?"),
+     "“O que é odioso para ti, não faças ao teu próximo — essa é toda a Torá; o resto é comentário.”"),
 
     (9, "19/10", "Canvas do Projeto Pessoal: primeira ideia",
      "Mishná, Sanhedrin 4:5",
-     "“Um homem cunha muitas moedas com o mesmo selo, e todas são iguais entre si; mas o Rei dos reis cunhou todo ser humano com o selo de Adão, e nenhum se parece com outro.”",
-     "Cada pessoa é única, mesmo “cunhada com o mesmo selo”. Por que sua ideia, mesmo parecida com outras, pode ser única?",
-     "Se você pudesse resolver o problema do seu Mapa de Empatia com uma varinha mágica, o que aconteceria?"),
+     "“Um homem cunha muitas moedas com o mesmo selo, e todas são iguais entre si; mas o Rei dos reis cunhou todo ser humano com o selo de Adão, e nenhum se parece com outro.”"),
 
     (10, "26/10", "Protótipo: tirando a ideia do papel",
      "Pirkei Avot 1:17 (Shimon ben Gamliel)",
-     "“Não o estudo é o principal, mas a ação.”",
-     "Se não é o estudo, mas a ação, o que é principal — por que só pensar numa ideia não é suficiente, é preciso construir algo?",
-     "Se você tivesse que mostrar sua ideia sem falar nenhuma palavra, como faria?"),
+     "“Não o estudo é o principal, mas a ação.”"),
 
     (11, "09/11", "Roteiro de Pitch: contando minha ideia em 2 min",
      "Provérbios 18:21",
-     "“A morte e a vida estão no poder da língua.”",
-     "Provérbios diz que a língua tem poder sobre a vida e a morte. Como as palavras certas (ou erradas) podem definir o sucesso do seu pitch?",
-     "Se você tivesse só 2 minutos para convencer alguém a apoiar sua ideia, qual seria a primeira frase que diria?"),
+     "“A morte e a vida estão no poder da língua.”"),
 
     (12, "16/11", "Ensaio geral + ajustes finais",
      "Talmud, Chagigá 9b",
-     "“Aquele que repete seu estudo cem vezes não se compara ao que o repete cento e uma vezes.”",
-     "O Talmud valoriza quem ensaia mais uma vez. Por que ensaiar de novo pode fazer toda diferença no seu pitch?",
-     "O que ainda te deixa nervoso(a) sobre apresentar seu pitch? O que pode te ajudar a ficar mais tranquilo(a)?"),
+     "“Aquele que repete seu estudo cem vezes não se compara ao que o repete cento e uma vezes.”"),
 
     (13, "23/11", "PITCH DAY — Semana Avaliativa EF2",
      "Números 13:30 (Calebe)",
-     "“Subamos, subamos, e a possuiremos, pois totalmente poderemos com ela.”",
-     "Calebe disse isso mesmo com outros espiões com medo. De onde você tira coragem para apresentar hoje?",
-     "Em uma palavra, como você está se sentindo antes de apresentar hoje?"),
+     "“Subamos, subamos, e a possuiremos, pois totalmente poderemos com ela.”"),
 
     (14, "30/11", "Devolutivas + Feira de Ideias",
      "Pirkei Avot 1:6 (Yehoshua ben Perachyah)",
-     "“Julga toda pessoa favoravelmente.”",
-     "Como julgar favoravelmente pode te ajudar a dar — e a receber — feedback hoje na Feira de Ideias?",
-     "O que você espera ouvir hoje sobre o seu pitch?"),
+     "“Julga toda pessoa favoravelmente.”"),
 
     (15, "07/12", "E depois do pitch? Da ideia ao negócio de verdade",
      "Talmud, Taanit 23a (Choni e a alfarrobeira)",
-     "Um homem plantava uma alfarrobeira sabendo que não veria seus frutos: “Assim como meus antepassados plantaram para mim, eu planto para meus filhos.”",
-     "Que “árvore” você estaria plantando com essa ideia, mesmo sem ver todo o resultado agora?",
-     "Você acha que sua ideia poderia continuar existindo depois do fim do semestre? O que precisaria acontecer?"),
+     "Um homem plantava uma alfarrobeira sabendo que não veria seus frutos: “Assim como meus antepassados plantaram para mim, eu planto para meus filhos.”"),
 
     (16, "14/12", "Banca de investidores (convidado ou simulação)",
      "Provérbios 15:22",
-     "“Onde não há conselho, os projetos se frustram; mas com muitos conselheiros se confirmam.”",
-     "Por que ouvir perguntas difíceis de uma banca pode fortalecer sua ideia, em vez de enfraquecê-la?",
-     "Se um investidor fizesse só uma pergunta sobre sua ideia, qual você tem mais medo que seja?"),
+     "“Onde não há conselho, os projetos se frustram; mas com muitos conselheiros se confirmam.”"),
 
     (17, "21/12", "Encerramento do semestre",
      "Salmos 90:12",
-     "“Ensina-nos a contar os nossos dias, de tal maneira que alcancemos coração sábio.”",
-     "Olhando para trás nas páginas deste diário, o que você aprendeu sobre você mesmo?",
-     "Em uma frase, o que você sabia sobre empreendedorismo/Israel no primeiro dia de aula?"),
+     "“Ensina-nos a contar os nossos dias, de tal maneira que alcancemos coração sábio.”"),
 ]
 
 c = canvas.Canvas("Diario do Empreendedor - Caderno do Aluno.pdf", pagesize=A4)
@@ -225,15 +199,39 @@ def wrap_text(text, font, size, max_w):
     return lines
 
 
-def draw_wrapped(x, right, y, text, font, size, leading_mm):
-    for ln in wrap_text(text, font, size, right - x):
-        c.setFont(font, size)
-        c.drawString(x, y, ln)
-        y -= leading_mm * mm
-    return y
+def draw_citation_box(x, right, y, trecho, fonte):
+    """Citação livre, centralizada, dentro de uma caixa enquadrada — sem rótulo."""
+    inner_pad_x = 6 * mm
+    inner_pad_y = 5 * mm
+    text_w = (right - x) - 2 * inner_pad_x
+    lines = wrap_text(trecho, "Montserrat-Italic", 12, text_w)
+    line_h = 6 * mm
+    box_h = inner_pad_y * 2 + len(lines) * line_h + 6 * mm  # + espaço para a fonte
+
+    box_top = y
+    box_bottom = y - box_h
+    c.setStrokeColor(BLACK)
+    c.setLineWidth(0.8)
+    c.rect(x, box_bottom, right - x, box_h, stroke=1, fill=0)
+
+    ty = box_top - inner_pad_y - 4 * mm
+    center_x = (x + right) / 2
+    c.setFillColor(BLACK)
+    for ln in lines:
+        c.setFont("Montserrat-Italic", 12)
+        c.drawCentredString(center_x, ty, ln)
+        ty -= line_h
+
+    ty -= 1 * mm
+    c.setFont("Montserrat-Bold", 9.5)
+    c.setFillColor(GREY)
+    c.drawCentredString(center_x, ty, f"— {fonte}")
+    c.setFillColor(BLACK)
+
+    return box_bottom
 
 
-def draw_aula_page(n, data, tema, fonte, trecho, q1, q2):
+def draw_aula_page(n, data, tema, fonte, trecho):
     page_frame()
     x = CONTENT_MARGIN
     right = PAGE_W - CONTENT_MARGIN
@@ -247,38 +245,21 @@ def draw_aula_page(n, data, tema, fonte, trecho, q1, q2):
     c.setFont("Montserrat-Italic", 12)
     c.drawString(x + aula_label_w, y, tema)
 
-    # --- Trecho da Tradição Judaica ---
-    y -= 9 * mm
-    y = section_label(x, right, y, "TRECHO DA TRADIÇÃO JUDAICA")
-    y -= 6 * mm
-    y = draw_wrapped(x, right, y, trecho, "Montserrat-Italic", 11, 5.6)
-    y -= 1 * mm
-    c.setFont("Montserrat-Bold", 9.5)
-    c.setFillColor(GREY)
-    c.drawString(x, y, f"— {fonte}")
+    # --- Citação livre, centralizada e enquadrada (sem rótulo) ---
+    y -= 10 * mm
+    y = draw_citation_box(x, right, y, trecho, fonte)
+
+    # --- Pergunta padrão do dia ---
+    y -= 10 * mm
+    c.setFont("Montserrat-Bold", 11)
     c.setFillColor(BLACK)
-    y -= 7 * mm
-
-    # --- Questões do Dia ---
-    y = section_label(x, right, y, "QUESTÕES DO DIA")
-    y -= 6 * mm
-    c.setFont("Montserrat", 10.5)
-    c.drawString(x, y, "1. Ligada ao trecho acima:")
-    y -= 5.4 * mm
-    y = draw_wrapped(x, right, y, q1, "Montserrat-Italic", 10.5, 5.2)
-    y -= 1 * mm
-    y = writing_line(x, right, y); y -= 7 * mm
-    y = writing_line(x, right, y); y -= 8 * mm
-
-    c.setFont("Montserrat", 10.5)
-    c.drawString(x, y, "2. Sobre o tema de hoje:")
-    y -= 5.4 * mm
-    y = draw_wrapped(x, right, y, q2, "Montserrat-Italic", 10.5, 5.2)
-    y -= 1 * mm
-    y = writing_line(x, right, y); y -= 7 * mm
-    y = writing_line(x, right, y); y -= 8 * mm
+    c.drawString(x, y, PERGUNTA_PADRAO)
+    y -= 8 * mm
+    for _ in range(4):
+        y = writing_line(x, right, y); y -= 8 * mm
 
     # --- Minha Ideia Hoje ---
+    y -= 2 * mm
     y = section_label(x, right, y, "MINHA IDEIA HOJE  —  uma frase, mesmo que ainda não tenha certeza")
     y -= 8 * mm
     y = writing_line(x, right, y); y -= 8 * mm
@@ -289,11 +270,13 @@ def draw_aula_page(n, data, tema, fonte, trecho, q1, q2):
 
 def draw_cover():
     page_frame()
-    c.setFont("Montserrat-Bold", 11)
-    c.setFillColor(BLACK)
     x = CONTENT_MARGIN
     right = PAGE_W - CONTENT_MARGIN
+
+    # Cabeçalho oficial (compacto, no topo)
     y = PAGE_H - BORDER_MARGIN - 11 * mm
+    c.setFont("Montserrat-Bold", 11)
+    c.setFillColor(BLACK)
     c.drawString(x, y, "Ensino Fundamental 2")
     logo_h = 11 * mm
     logo_w = logo_h * LOGO_ASPECT
@@ -309,29 +292,40 @@ def draw_cover():
     y -= 4 * mm
     c.line(x, y, right, y)
 
-    c.setFont("Montserrat-Bold", 30)
-    c.drawCentredString(PAGE_W / 2, PAGE_H / 2 + 20 * mm, "Diário do Empreendedor")
-    c.setFont("Montserrat-Italic", 13)
-    c.drawCentredString(PAGE_W / 2, PAGE_H / 2 + 11 * mm, "Eletiva Start Up Nation — Colégio Israelita Brasileiro")
+    # Escudo do colégio, grande e centralizado
+    y -= 14 * mm
+    escudo_h = 38 * mm
+    escudo_w = escudo_h * ESCUDO_ASPECT
+    c.drawImage(escudo_img, (PAGE_W - escudo_w) / 2, y - escudo_h, width=escudo_w, height=escudo_h,
+                preserveAspectRatio=True, mask="auto")
+    y -= escudo_h
 
-    notes = [
-        "Este caderno acompanha você nas 17 aulas do semestre.",
-        "Toda aula começa com um trecho da tradição judaica e duas Questões do Dia.",
-        "A linha “Minha ideia hoje” se repete em toda página — releia-a inteira na Aula 17",
-        "e veja o quanto sua ideia evoluiu.",
-    ]
-    ny = PAGE_H / 2 - 4 * mm
-    c.setFont("Montserrat", 10.5)
-    for line in notes:
-        c.drawCentredString(PAGE_W / 2, ny, line)
-        ny -= 6 * mm
+    # Título
+    y -= 14 * mm
+    c.setFont("Montserrat-Bold", 28)
+    c.setFillColor(BLACK)
+    c.drawCentredString(PAGE_W / 2, y, "Diário do Empreendedor")
+    y -= 9 * mm
+    c.setFont("Montserrat-Italic", 13)
+    c.drawCentredString(PAGE_W / 2, y, "Eletiva Start Up Nation — Colégio Israelita Brasileiro")
+
+    # Caixa grande para desenhar
+    y -= 12 * mm
+    c.setFont("Montserrat-Bold", 11)
+    c.drawCentredString(PAGE_W / 2, y, "Desenhe aqui a sua ideia (ou o que você quiser!)")
+    y -= 6 * mm
+    box_top = y
+    box_bottom = BORDER_MARGIN + 8 * mm
+    c.setStrokeColor(BLACK)
+    c.setLineWidth(0.8)
+    c.rect(x, box_bottom, right - x, box_top - box_bottom, stroke=1, fill=0)
 
     c.showPage()
 
 
 draw_cover()
-for n, data, tema, fonte, trecho, q1, q2 in aulas:
-    draw_aula_page(n, data, tema, fonte, trecho, q1, q2)
+for n, data, tema, fonte, trecho in aulas:
+    draw_aula_page(n, data, tema, fonte, trecho)
 
 c.save()
 print("PDF gerado com sucesso")

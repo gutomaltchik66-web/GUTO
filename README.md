@@ -4,7 +4,7 @@ Material didático completo da eletiva **"Start Up Nation"** do **Colégio Israe
 
 Aulas às segundas-feiras, 14h–15h30, ao longo de 17 datas letivas do semestre. O trabalho final é a apresentação, por cada aluno/dupla, de um projeto pessoal de empreendedorismo no Pitch Day (23/11, semana avaliativa das eletivas EF2) — este material fornece o conteúdo e as ferramentas para chegar lá.
 
-Três regras valem para todas as 17 aulas, pensadas para uma turma que já sabe o básico sobre Israel e é agitada: **as Aulas 1–3 não repetem conteúdo já visto** em Cultura Judaica/História, indo direto ao ângulo de tecnologia/empreendedorismo; **nenhuma atividade usa celular** (pesquisas são feitas com fichas informativas já prontas); e **toda aula começa com a mesma tarefa contínua** — o Diário do Empreendedor, um único caderno preenchido do início ao fim do semestre, com um trecho de fonte judaica diferente e duas Questões do Dia por aula — para reduzir a bagunça na entrada e mostrar a evolução da ideia de cada aluno.
+Três regras valem para todas as 17 aulas, pensadas para uma turma que já sabe o básico sobre Israel e é agitada: **as Aulas 1–3 não repetem conteúdo já visto** em Cultura Judaica/História, indo direto ao ângulo de tecnologia/empreendedorismo; **nenhuma atividade usa celular** (pesquisas são feitas com fichas informativas já prontas); e **toda aula fecha com a mesma tarefa contínua** — o Diário do Empreendedor, um único caderno preenchido do início ao fim do semestre, com uma citação de fonte judaica diferente e a pergunta padrão "O que eu aprendi hoje?" por aula — para reduzir a bagunça no fechamento e mostrar a evolução da ideia de cada aluno.
 
 ## Conteúdo
 

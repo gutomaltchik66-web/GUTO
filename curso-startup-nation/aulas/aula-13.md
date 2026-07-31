@@ -13,11 +13,10 @@
 
 ## Roteiro (90 min)
 
-1. **Diário — Trecho da Tradição Judaica + Questões do Dia (10 min)** — Os alunos leem no Diário o trecho de Números 13:30 (Calebe: *"Subamos, subamos, e a possuiremos, pois totalmente poderemos com ela"*) e respondem as duas Questões do Dia — a ligada ao trecho (de onde tiram coragem para apresentar hoje) e *"Em uma palavra, como você está se sentindo antes de apresentar hoje?"* — além de atualizar "Minha ideia hoje". Texto completo em `ferramentas/diario-do-empreendedor.md`.
-2. **Abertura (5 min)** — Retomar em 1 minuto a jornada do semestre: da história de Israel até a ideia de cada um. Relembrar as regras: 2 min de fala + 1 min de pergunta, silêncio e respeito durante a fala dos colegas.
-3. **Apresentações (55–60 min)** — Cada grupo apresenta seu pitch com protótipo em mãos (2 min de fala + até 1 min de pergunta da banca/turma). Professor (e avaliadores, se houver) preenchem a rubrica durante cada apresentação. Com turmas maiores, considerar dividir em dois dias/turnos se não couber no horário — ajustar conforme número real de grupos.
-4. **Devolutiva coletiva (10 min)** — Sem citar nomes, comentar 2–3 pontos fortes que apareceram repetidamente entre os projetos.
-5. **Fechamento (5 min)** — Roda rápida em voz alta: *"Qual valor da Startup Nation mais apareceu na sua própria ideia — chutzpah, tolerância ao fracasso ou tikun olam?"*
+1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Números 13:30 (Calebe): *"Subamos, subamos, e a possuiremos, pois totalmente poderemos com ela."* Retomar em 1 minuto a jornada do semestre: da história de Israel até a ideia de cada um. Relembrar as regras: 2 min de fala + 1 min de pergunta, silêncio e respeito durante a fala dos colegas.
+2. **Apresentações (55–60 min)** — Cada grupo apresenta seu pitch com protótipo em mãos (2 min de fala + até 1 min de pergunta da banca/turma). Professor (e avaliadores, se houver) preenchem a rubrica durante cada apresentação. Com turmas maiores, considerar dividir em dois dias/turnos se não couber no horário — ajustar conforme número real de grupos.
+3. **Devolutiva coletiva (10 min)** — Sem citar nomes, comentar 2–3 pontos fortes que apareceram repetidamente entre os projetos.
+4. **Diário — Citação + "O que eu aprendi hoje?" (10 min)** — Para fechar, os alunos releem no Diário a citação de Números 13:30 (Calebe) e respondem a pergunta padrão *"O que eu aprendi na aula de hoje?"*, além de atualizar "Minha ideia hoje" pela última vez antes da reta final. Texto completo em `ferramentas/diario-do-empreendedor.md`.
 
 ## Produto da aula
 Diário do Empreendedor preenchido + pitch apresentado + fichas de rubrica preenchidas (nota oficial da avaliação EF2).

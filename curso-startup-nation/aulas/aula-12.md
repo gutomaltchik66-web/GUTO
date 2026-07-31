@@ -8,12 +8,12 @@
 
 ## Roteiro (90 min)
 
-1. **Diário — Trecho da Tradição Judaica + Questões do Dia (10 min)** — Os alunos leem no Diário o trecho do Talmud, Chagigá 9b (*"Quem repete seu estudo cem vezes não se compara ao que o repete cento e uma vezes"*) e respondem as duas Questões do Dia — a ligada ao trecho (por que ensaiar mais uma vez pode fazer diferença) e *"O que ainda te deixa nervoso(a) sobre apresentar seu pitch? O que pode te ajudar a ficar mais tranquilo(a)?"* — além de atualizar "Minha ideia hoje". Texto completo em `ferramentas/diario-do-empreendedor.md`.
-2. **Abertura (5 min)** — Relembrar formato do Pitch Day (23/11): 2 min de fala + 1 min de pergunta, banca avaliando pela rubrica.
-3. **Ensaio geral em pequenos grupos (40 min)** — Formar "mini-bancas" de 4–5 alunos/duplas. Cada um apresenta o pitch completo, com protótipo, para o pequeno grupo, cronometrado. O grupo preenche uma ficha de rubrica simplificada como treino de avaliação (isso também ensina os critérios pela prática).
-4. **Rodada de ajustes (20 min)** — Cada aluno/dupla ajusta o que não ficou bom (tempo estourado, parte confusa, protótipo que não ajudou) — tempo dedicado exclusivamente a polir.
-5. **Checklist final em duplas (5 min)** — Revisar juntos o checklist do Roteiro de Pitch (cabe em 2 min? começa com gancho? tem número/exemplo concreto? termina com pedido claro?).
-6. **Sorteio da ordem (5 min)** — Sortear a ordem de apresentação do Pitch Day, para reduzir ansiedade de última hora, e confirmar quem trará o quê (protótipo, materiais extras).
+1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Talmud, Chagigá 9b: *"Quem repete seu estudo cem vezes não se compara ao que o repete cento e uma vezes."* Relembrar formato do Pitch Day (23/11): 2 min de fala + 1 min de pergunta, banca avaliando pela rubrica.
+2. **Ensaio geral em pequenos grupos (40 min)** — Formar "mini-bancas" de 4–5 alunos/duplas. Cada um apresenta o pitch completo, com protótipo, para o pequeno grupo, cronometrado. O grupo preenche uma ficha de rubrica simplificada como treino de avaliação (isso também ensina os critérios pela prática).
+3. **Rodada de ajustes (20 min)** — Cada aluno/dupla ajusta o que não ficou bom (tempo estourado, parte confusa, protótipo que não ajudou) — tempo dedicado exclusivamente a polir.
+4. **Checklist final em duplas (5 min)** — Revisar juntos o checklist do Roteiro de Pitch (cabe em 2 min? começa com gancho? tem número/exemplo concreto? termina com pedido claro?).
+5. **Sorteio da ordem (5 min)** — Sortear a ordem de apresentação do Pitch Day, para reduzir ansiedade de última hora, e confirmar quem trará o quê (protótipo, materiais extras).
+6. **Diário — Citação + "O que eu aprendi hoje?" (10 min)** — Para fechar, os alunos releem no Diário a citação do Talmud, Chagigá 9b e respondem a pergunta padrão *"O que eu aprendi na aula de hoje?"*, além de atualizar "Minha ideia hoje". Texto completo em `ferramentas/diario-do-empreendedor.md`.
 
 ## Produto da aula
 Diário do Empreendedor preenchido + pitch ensaiado e ajustado + ficha de rubrica de treino preenchida por colegas.
