@@ -2,20 +2,22 @@
 
 **Objetivo:** cada aluno/dupla transforma o Canvas e o protótipo em um roteiro de pitch de 2 minutos.
 
-**Materiais:** cópias de `ferramentas/rotina-entrada-saida.md` e de `ferramentas/roteiro-pitch.md`, cronômetro físico da sala (ou do professor — não dos alunos).
+**Materiais de apoio**
+- *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`)
+- *Desta aula:* cópias de `ferramentas/roteiro-pitch.md` · cronômetro físico da sala (ou do professor — não dos alunos)
 
 ## Roteiro (90 min)
 
-1. **Ficha de Entrada (5 min)** — Pergunta do dia: *"Se você tivesse só 2 minutos para convencer alguém a apoiar sua ideia, qual seria a primeira frase que diria?"*
+1. **Diário — Entrada (5 min)** — Pergunta do dia: *"Se você tivesse só 2 minutos para convencer alguém a apoiar sua ideia, qual seria a primeira frase que diria?"*
 2. **O que é um pitch (10 min)** — Explicar a estrutura de 5 partes (gancho, problema, solução, por que eu, chamada final). Professor apresenta um exemplo pronto de 2 min, usando uma das empresas da Aula 6, cronometrado na frente da turma (modelo de comportamento esperado).
 3. **Escrita do roteiro (30 min)** — Cada aluno/dupla preenche o Roteiro de Pitch a partir do Canvas e do protótipo já prontos. Professor circula ajudando quem travar no "gancho" (parte mais difícil).
 4. **Primeiro ensaio individual, em pé (15 min)** — Cada aluno/dupla lê o roteiro em voz alta sozinho (ou "sussurrado" se a sala for pequena), cronometrando — objetivo aqui não é performance, é sentir o tempo.
 5. **Ensaio em duplas cruzadas (20 min)** — Trocar de parceiro (não o da dupla do projeto): cada um apresenta o pitch para o colega, cronometrando. O colega dá **1 elogio + 1 sugestão** usando o checklist do Roteiro de Pitch.
 6. **Ajustes finais (5 min)** — Cada aluno/dupla ajusta o roteiro com base no feedback recebido e entrega a versão ajustada.
-7. **Ficha de Saída (5 min)**.
+7. **Diário — Saída (5 min)**.
 
 ## Produto da aula
-Roteiro de Pitch escrito, ensaiado e ajustado após feedback + Ficha de Saída.
+Roteiro de Pitch escrito, ensaiado e ajustado após feedback + Diário — Saída.
 
 ## Aviso importante
 Relembrar que o Pitch Day é dia 23/11 (semana avaliativa das eletivas EF2) — reforçar os 4 critérios da Rubrica de Avaliação antes de encerrar a aula.

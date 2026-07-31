@@ -6,9 +6,9 @@
 
 | # | Data | Bloco | Tema | Plano de aula |
 |---|---|---|---|---|
-| 1 | 03/08 | Fundamentos | Abertura: O que é a Startup Nation? | [`aulas/aula-01.md`](aulas/aula-01.md) |
-| 2 | 10/08 | Fundamentos | Raízes históricas: da escassez à inovação | [`aulas/aula-02.md`](aulas/aula-02.md) |
-| 3 | 17/08 | Fundamentos | Chutzpah: a cultura de questionar | [`aulas/aula-03.md`](aulas/aula-03.md) |
+| 1 | 03/08 | Fundamentos | Abertura: além do que você já sabe sobre Israel | [`aulas/aula-01.md`](aulas/aula-01.md) |
+| 2 | 10/08 | Fundamentos | Raízes históricas, sob uma nova ótica | [`aulas/aula-02.md`](aulas/aula-02.md) |
+| 3 | 17/08 | Fundamentos | Chutzpah: da palavra à atitude empreendedora | [`aulas/aula-03.md`](aulas/aula-03.md) |
 | 4 | 24/08 | Fundamentos | Tolerância ao fracasso | [`aulas/aula-04.md`](aulas/aula-04.md) |
 | 5 | 31/08 | Fundamentos | O papel do Estado e do Exército | [`aulas/aula-05.md`](aulas/aula-05.md) |
 | 6 | 14/09 | Ecossistema | Estudos de caso: empresas que uso todo dia | [`aulas/aula-06.md`](aulas/aula-06.md) |
@@ -39,4 +39,4 @@ Turma agitada → **nenhuma aula é só exposição**. Todo plano de aula deste 
 Duas regras fixas, válidas nas 17 aulas:
 
 - **Sem celular.** Nenhuma atividade depende de celular do aluno — pesquisas usam fichas informativas já preparadas pelo professor (`ferramentas/fichas-*.md`). Em semanas com sala de informática disponível, isso é indicado como opcional no plano daquela aula específica.
-- **Rotina fixa igual em toda aula.** Todas começam com a Ficha de Entrada (5 min, individual e silenciosa) e terminam com a Ficha de Saída (5 min) — ver `ferramentas/rotina-entrada-saida.md`. É o hábito que se repete 17 vezes, para a turma sempre saber o que fazer ao entrar e antes de sair.
+- **Diário do Empreendedor em toda aula.** Todas começam com a Entrada (5 min, individual e silenciosa) e terminam com a Saída (5 min), no mesmo caderno contínuo — ver `ferramentas/diario-do-empreendedor.md`. É a tarefa que se repete nas 17 aulas, tanto para dar rotina fixa (a turma sempre sabe o que fazer ao entrar e antes de sair) quanto para registrar a evolução da própria ideia semana a semana.

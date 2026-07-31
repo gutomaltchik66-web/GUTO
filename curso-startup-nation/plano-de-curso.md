@@ -16,11 +16,12 @@ Israel é o país com mais startups per capita do mundo — surge, em média, um
 1. **Judaísmo**: entender como valores, história e experiência do povo judeu — chutzpah (audácia), tikun olam (reparar o mundo), tradição de estudo e debate (chevruta/beit midrash), experiência da diáspora e da imigração — se conectam com a cultura de inovação israelense.
 2. **Empreendedorismo e competências do século XXI**: pensamento crítico, criatividade, tolerância ao erro, trabalho em equipe e comunicação, através de uma metodologia ativa que culmina em um projeto real de empreendedorismo criado pelos próprios alunos.
 
-Adequado à faixa etária de 13–15 anos: contextos curtos, muito estudo de caso concreto (empresas e produtos que os alunos já usam — Waze, ICQ, Wix), trabalho em grupo e um produto final tangível (pitch de uma ideia própria). Como a turma é agitada, três regras valem para as 17 aulas:
+Adequado à faixa etária de 13–15 anos: contextos curtos, muito estudo de caso concreto (empresas e produtos que os alunos já usam — Waze, ICQ, Wix), trabalho em grupo e um produto final tangível (pitch de uma ideia própria). Como os alunos de uma escola judaica já chegam com base de história e cultura de Israel, e a turma é agitada, quatro regras valem para as 17 aulas:
 
-1. **Rotina fixa em toda aula** — todas começam com a Ficha de Entrada e terminam com a Ficha de Saída (`ferramentas/rotina-entrada-saida.md`), sempre no mesmo formato, para reduzir a bagunça na entrada/saída da sala.
-2. **Sem celular** — nenhuma atividade depende de celular do aluno. Pesquisas usam fichas informativas já preparadas pelo professor (`ferramentas/fichas-*.md`); quando a sala de informática está disponível em alguma semana, isso é indicado como opcional no plano daquela aula.
-3. **Maior parte dos 90 minutos é atividade prática com produto entregável** — nunca exposição contínua.
+1. **Sem repetir o básico** — as Aulas 1 a 3 partem do que os alunos já sabem (história, kibutz, chutzpah como palavra) e vão direto ao ângulo novo: o lado de tecnologia/empreendedorismo. Nenhum cartão ou atividade reexplica o que já foi visto em Cultura Judaica/História — o que já é sabido vira ponto de partida para análise, não conteúdo a reapresentar.
+2. **Tarefa contínua em toda aula** — todas começam e terminam com o Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`), o mesmo caderno preenchido do início ao fim do semestre, sempre no mesmo formato, para reduzir a bagunça na entrada/saída da sala e mostrar a evolução da própria ideia aula a aula.
+3. **Sem celular** — nenhuma atividade depende de celular do aluno. Pesquisas usam fichas informativas já preparadas pelo professor (`ferramentas/fichas-*.md`); quando a sala de informática está disponível em alguma semana, isso é indicado como opcional no plano daquela aula.
+4. **Maior parte dos 90 minutos é atividade prática com produto entregável** — nunca exposição contínua.
 
 ## 2. Objetivos de aprendizagem
 
@@ -39,9 +40,9 @@ Calendário com as 17 datas reais do semestre (segundas-feiras letivas) em [`cal
 
 | Aula | Data | Bloco | Tema | Plano detalhado |
 |---|---|---|---|---|
-| 1 | 03/08 | Fundamentos | O que é a "Startup Nation"? | [`aulas/aula-01.md`](aulas/aula-01.md) |
-| 2 | 10/08 | Fundamentos | Raízes históricas: da sobrevivência à inovação | [`aulas/aula-02.md`](aulas/aula-02.md) |
-| 3 | 17/08 | Fundamentos | Chutzpah: a cultura de questionar | [`aulas/aula-03.md`](aulas/aula-03.md) |
+| 1 | 03/08 | Fundamentos | Abertura: além do que você já sabe sobre Israel | [`aulas/aula-01.md`](aulas/aula-01.md) |
+| 2 | 10/08 | Fundamentos | Raízes históricas, sob uma nova ótica | [`aulas/aula-02.md`](aulas/aula-02.md) |
+| 3 | 17/08 | Fundamentos | Chutzpah: da palavra à atitude empreendedora | [`aulas/aula-03.md`](aulas/aula-03.md) |
 | 4 | 24/08 | Fundamentos | Tolerância ao fracasso | [`aulas/aula-04.md`](aulas/aula-04.md) |
 | 5 | 31/08 | Fundamentos | O papel do Estado e do Exército | [`aulas/aula-05.md`](aulas/aula-05.md) |
 | 6 | 14/09 | Ecossistema | Estudos de caso: empresas que os alunos usam | [`aulas/aula-06.md`](aulas/aula-06.md) |
@@ -61,12 +62,12 @@ Calendário com as 17 datas reais do semestre (segundas-feiras letivas) em [`cal
 
 Templates prontos para imprimir/copiar em [`ferramentas/`](ferramentas/):
 
-**Rotina de toda aula**
-- [`ferramentas/rotina-entrada-saida.md`](ferramentas/rotina-entrada-saida.md) — Ficha de Entrada e Ficha de Saída, usadas em todas as 17 aulas
+**Tarefa contínua de toda aula**
+- [`ferramentas/diario-do-empreendedor.md`](ferramentas/diario-do-empreendedor.md) — caderno único com Entrada, "Minha ideia hoje" e Saída, preenchido nas 17 aulas
 
-**Fichas informativas (substituem pesquisa por celular)**
-- [`ferramentas/fichas-produtos-israelenses.md`](ferramentas/fichas-produtos-israelenses.md) — 8 empresas israelenses, usado nas Aulas 1 e 6
-- [`ferramentas/fichas-linha-do-tempo.md`](ferramentas/fichas-linha-do-tempo.md) — 5 períodos históricos, usado na Aula 2
+**Fichas informativas (substituem pesquisa por celular, sem repetir o que já é sabido)**
+- [`ferramentas/fichas-produtos-israelenses.md`](ferramentas/fichas-produtos-israelenses.md) — 8 empresas israelenses + 2 pegadinhas, usado nas Aulas 1, 3 e 6
+- [`ferramentas/fichas-linha-do-tempo.md`](ferramentas/fichas-linha-do-tempo.md) — 5 cartões-prompt (tópico + pergunta, sem resposta pronta), usado na Aula 2
 - [`ferramentas/fichas-debate-estado.md`](ferramentas/fichas-debate-estado.md) — argumentos para o debate, usado na Aula 5
 
 **Meu Projeto (Aulas 8–13)**
@@ -78,7 +79,8 @@ Templates prontos para imprimir/copiar em [`ferramentas/`](ferramentas/):
 
 ## 4. Metodologia
 
-- **Rotina fixa idêntica em toda aula:** Ficha de Entrada (5 min, individual e silenciosa, ao sentar) e Ficha de Saída (5 min, antes de sair) — ver `ferramentas/rotina-entrada-saida.md`. É o "hábito comum" que a turma repete 17 vezes, o que reduz a dispersão na entrada e na saída.
+- **Sem repetir conteúdo já visto:** as Aulas 1–3 (Fundamentos) partem do que os alunos já sabem sobre Israel e vão direto ao ângulo de tecnologia/empreendedorismo — diagnóstico rápido do que já é sabido, depois aprofundamento no que é novo.
+- **Diário do Empreendedor idêntico em toda aula:** Entrada (5 min, individual e silenciosa, ao sentar), "Minha ideia hoje" (1 frase) e Saída (5 min, antes de sair) — ver `ferramentas/diario-do-empreendedor.md`. É a tarefa contínua que a turma repete nas 17 aulas, reduzindo a dispersão na entrada/saída e registrando a evolução da ideia de cada aluno.
 - **Sem celular em nenhuma atividade:** pesquisas usam fichas informativas já preparadas pelo professor. Em semanas com sala de informática disponível (indicado no plano da aula), o computador pode ser usado como aprofundamento opcional.
 - Aulas expositivo-dialogadas curtas (máx. 15–20 min) intercaladas com atividades em grupo — em cada uma das 17 aulas, a maior parte dos 90 min é tempo de mão na massa, com produto entregue ao final (cartaz, ficha, canvas, protótipo, ensaio).
 - Dinâmicas em pé, rodízio de duplas e murais coletivos (Mural das Ideias, Baú de Aprendizados) para manter a turma engajada e em movimento.
