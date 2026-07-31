@@ -52,17 +52,19 @@ Solução: chamadas de vídeo e voz gratuitas pela internet, entre qualquer luga
 
 ## Gabarito do professor (revelar só depois da rodada de adivinhação)
 
-| Produto | País de origem | Fato extra |
+| Produto | País de origem | Fato extra (checado em fontes públicas) |
 |---|---|---|
-| Waze | 🇮🇱 Israel | Fundado em 2006/2008; comprado pelo Google em 2013 por cerca de 1 bilhão de dólares. |
-| ICQ | 🇮🇱 Israel | Criado em 1996, quando a internet discada era lenta e cara. |
-| Mobileye | 🇮🇱 Israel | Fundada em 1999; hoje é parte da Intel. |
-| Wix | 🇮🇱 Israel | Fundada em Tel Aviv em 2006. |
-| SolarEdge | 🇮🇱 Israel | Fundada em 2006, hoje uma das maiores empresas de energia solar do mundo. |
-| Fiverr | 🇮🇱 Israel | Fundada em Tel Aviv em 2010. |
-| Pen drive / USB | 🇮🇱 Israel | Uma das primeiras patentes da tecnologia veio da M-Systems, empresa israelense, no fim dos anos 1990. |
-| Sisense | 🇮🇱 Israel | Fundada em Israel em 2004. |
-| Spotify | 🇸🇪 Suécia | **Pegadinha** — não é israelense, mas também nasceu de um "problema real" resolvido com criatividade. |
-| Skype | 🇪🇪 Estônia | **Pegadinha** — não é israelense; usado para mostrar que outros países também inovam, cada um à sua maneira. |
+| Waze | 🇮🇱 Israel | Fundado por Ehud Shabtai, Uri Levine e Amir Shinar (lançado em 2006 como Freemap Israel, rebatizado Waze em 2009). Comprado pelo Google em 2013 por cerca de 970 milhões de dólares (fontes variam entre ~970 mi e 1,3 bi, a depender do que é contado no valor). |
+| ICQ | 🇮🇱 Israel | Criado em julho de 1996 pela Mirabilis (Yair Goldfinger, Arik Vardi, Sefi Vigiser e Amnon Amir), o primeiro mensageiro instantâneo popular da internet. Comprado pela AOL em 1998 por 287 milhões de dólares. |
+| Mobileye | 🇮🇱 Israel | Fundada em 1999 por Amnon Shashua e Ziv Aviram. Comprada pela Intel em 2017 por 15,3 bilhões de dólares — uma das maiores aquisições da história de Israel. |
+| Wix | 🇮🇱 Israel | Fundada em Tel Aviv em 2006, por Avishai Abrahami, Nadav Abrahami e Giora Kaplan. |
+| SolarEdge | 🇮🇱 Israel | Fundada em 2006 por Guy Sella e equipe, hoje uma das maiores empresas de tecnologia de energia solar do mundo. |
+| Fiverr | 🇮🇱 Israel | Fundada em Tel Aviv em 2010, por Micha Kaufman e Shai Wininger. |
+| Pen drive / USB | 🇮🇱 Israel | Patente registrada em 1999 pela M-Systems (Amir Ban, Dov Moran e Oron Ogdan); produto DiskOnKey lançado em 2000. Há disputa histórica de invenção com empresas de Singapura e China, mas a patente israelense é a mais antiga — por isso Dov Moran é amplamente citado como o inventor do pen drive. |
+| Sisense | 🇮🇱 Israel | Fundada em Tel Aviv em 2004, por Elad Israeli, Eldad Farkash, Aviad Harell, Guy Boyangu e Adi Azaria. |
+| Spotify | 🇸🇪 Suécia | **Pegadinha** — fundada em abril de 2006 por Daniel Ek e Martin Lorentzon, em Estocolmo. Não é israelense, mas também nasceu de um "problema real" (pirataria musical) resolvido com criatividade. |
+| Skype | 🇸🇪🇩🇰🇪🇪 Suécia/Dinamarca/Estônia | **Pegadinha** — fundada em 2003 pelo sueco Niklas Zennström e pelo dinamarquês Janus Friis; o software foi desenvolvido por uma equipe de engenheiros estonianos (Ahti Heinla, Priit Kasesalu, Jaan Tallinn, Toivo Annus). Não é israelense — bom exemplo de como uma mesma empresa pode ter fundadores, equipe técnica e sede em países diferentes. |
+
+**Fontes:** dados de fundação, fundadores e valores de aquisição checados em registros públicos (Wikipedia, Forbes, arquivos da SEC e histórico das próprias empresas) em julho de 2026 — evitar repassar aos alunos números "de memória" sem essa checagem, porque fontes variam bastante (ex: o valor da compra do Waze).
 
 **Uso pelo professor:** o objetivo do jogo não é "decorar que Israel é inovador" (os alunos já sabem disso) — é treinar o raciocínio de identificar problema → solução em qualquer produto, israelense ou não, e só depois perceber a escala do fenômeno: 8 em cada 10 produtos do dia a dia dos alunos, nesse jogo, vieram de um país do tamanho de Israel.
