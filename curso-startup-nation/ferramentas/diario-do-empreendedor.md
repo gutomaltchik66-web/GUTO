@@ -18,7 +18,7 @@ AULA Nº: ___   DATA: ___/___   TEMA: _______________________
 ┌─────────────────────────────────────────────────────┐
 │  "[citação livre da Torá — diferente em cada uma      │
 │  das 17 aulas, centralizada, sem rótulo]"              │
-│              — [referência: livro, capítulo:versículo] │
+│    — [livro em português]  [livro em hebraico]  [cap:versículo] │
 └─────────────────────────────────────────────────────┘
 
 1) [pergunta ligada ao trecho — diferente em cada aula]
@@ -31,12 +31,12 @@ AULA Nº: ___   DATA: ___/___   TEMA: _______________________
 
 ## As duas perguntas
 
-1. **Pergunta 1 — ligada ao trecho** — diferente em cada uma das 17 aulas, conecta a citação da Torá ao tema do dia (ex: Êxodo 17:6, Moisés faz água sair da rocha, ligado à pergunta "que obstáculo você já viu virar solução?", na aula de escassez/inovação). O repertório completo das 17 citações e perguntas está em [`../padronizacao/gerar_diario_pdf.py`](../padronizacao/gerar_diario_pdf.py).
+1. **Pergunta 1 — ligada ao trecho** — diferente em cada uma das 17 aulas, conecta a citação da Torá ao tema do dia (ex: Êxodo 17:6, Moshé faz água sair da rocha, ligado à pergunta "que obstáculo você já viu virar solução?", na aula de escassez/inovação). O repertório completo das 17 citações e perguntas está em [`../padronizacao/gerar_diario_pdf.py`](../padronizacao/gerar_diario_pdf.py).
 2. **Pergunta 2 — fixa** — sempre a mesma nas 17 páginas: *"O que eu aprendi na aula de hoje?"*. Respondida no fechamento da aula (não faz sentido perguntar isso na entrada, antes do conteúdo do dia).
 
 ## Sobre as citações
 
-Todas as 17 citações são exclusivamente da **Torá** (os cinco livros de Moisés: Gênesis, Êxodo, Levítico, Números e Deuteronômio) — sem Mishná, Pirkei Avot ou Talmud. A citação aparece direto na página, sem rótulo, centralizada e enquadrada numa caixa.
+Todas as 17 citações são exclusivamente da **Torá** (os cinco livros de Moshé: Gênesis, Êxodo, Levítico, Números e Deuteronômio) — sem Mishná, Pirkei Avot ou Talmud. A citação aparece direto na página, sem rótulo, centralizada e enquadrada numa caixa. Na linha de referência, o nome do livro em português vem acompanhado do nome em hebraico (ex: "Gênesis בְּרֵאשִׁית", "Êxodo שְׁמוֹת"), reforçando o vínculo com a fonte original.
 
 ## Por que funciona com turma agitada
 

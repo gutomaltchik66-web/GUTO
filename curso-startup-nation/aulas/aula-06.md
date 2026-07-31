@@ -18,7 +18,7 @@ Waze · Wix · Mobileye · SolarEdge · ICQ · Fiverr · Sisense · pen drive/US
 3. **Preparação da apresentação relâmpago (10 min)** — Grupo organiza uma fala de até 3 minutos, definindo quem fala o quê.
 4. **Apresentações (30 min)** — Cada grupo apresenta (até 3 min cada + 1 min de perguntas da turma).
 5. **Votação (10 min)** — Cada aluno vota (levantando a mão ou post-it) em qual empresa apresentada "mais parece com uma ideia que eu teria" e explica em 1 frase por quê — registrar no caderno.
-6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos leem no Diário a citação de Números 13:17-18 (Moisés manda espiar e estudar de perto a terra) e respondem 1) a pergunta ligada ao trecho (por que observar de perto um exemplo real ajuda antes de criar algo novo) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
+6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos leem no Diário a citação de Números 13:17-18 (Moshé manda espiar e estudar de perto a terra) e respondem 1) a pergunta ligada ao trecho (por que observar de perto um exemplo real ajuda antes de criar algo novo) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
 
 ## Produto da aula
 Diário do Empreendedor preenchido + cartaz de grupo + apresentação relâmpago + frase de votação individual.

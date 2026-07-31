@@ -5,7 +5,7 @@ replicando o modelo oficial extraído de CABEÇALHO EDITÁVEL EF2.docx e o
 enquadramento de página (borda) extraído de PAUTA PEQUENA.pdf.
 
 Cada página traz uma citação livre da Torá (Tanach, foco nos 5 livros
-de Moisés), centralizada e enquadrada, seguida de duas perguntas: a
+de Moshé), centralizada e enquadrada, seguida de duas perguntas: a
 Pergunta 1 é sempre ligada ao trecho (diferente em cada aula) e a
 Pergunta 2 é fixa em todas as 17 páginas: "O que eu aprendi na aula de
 hoje?". A capa traz o título, o escudo do colégio e uma caixa grande
@@ -19,6 +19,7 @@ from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.lib.utils import ImageReader
+from bidi.algorithm import get_display
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ASSETS = os.path.join(HERE, "assets")
@@ -26,6 +27,17 @@ ASSETS = os.path.join(HERE, "assets")
 pdfmetrics.registerFont(TTFont("Montserrat", os.path.join(ASSETS, "MontserratMedium-regular.ttf")))
 pdfmetrics.registerFont(TTFont("Montserrat-Bold", os.path.join(ASSETS, "MontserratMedium-bold.ttf")))
 pdfmetrics.registerFont(TTFont("Montserrat-Italic", os.path.join(ASSETS, "MontserratMedium-italic.ttf")))
+pdfmetrics.registerFont(TTFont("Hebrew", os.path.join(ASSETS, "NotoSansHebrew-Regular.ttf")))
+pdfmetrics.registerFont(TTFont("Hebrew-Bold", os.path.join(ASSETS, "NotoSansHebrew-Bold.ttf")))
+
+# Nome hebraico de cada um dos 5 livros da Torá, para exibir ao lado da referência.
+LIVRO_HEBRAICO = {
+    "Gênesis": "בְּרֵאשִׁית",
+    "Êxodo": "שְׁמוֹת",
+    "Levítico": "וַיִּקְרָא",
+    "Números": "בְּמִדְבַּר",
+    "Deuteronômio": "דְּבָרִים",
+}
 
 LOGO_PATH = os.path.join(ASSETS, "cib-logo-header.png")
 logo_img = ImageReader(LOGO_PATH)
@@ -47,7 +59,7 @@ LIGHTGREY = colors.HexColor("#EDEDED")
 PERGUNTA_2_FIXA = "O que eu aprendi na aula de hoje?"
 
 # Cada entrada: (n, data, tema, fonte, trecho, pergunta1_ligada_ao_trecho)
-# Todas as citações são da Torá (Tanach, com foco nos 5 livros de Moisés).
+# Todas as citações são da Torá (Tanach, com foco nos 5 livros de Moshé).
 aulas = [
     (1, "03/08", "Abertura: além do que você já sabe sobre Israel",
      "Gênesis 12:1",
@@ -57,7 +69,7 @@ aulas = [
     (2, "10/08", "Raízes históricas, sob uma nova ótica",
      "Êxodo 17:6",
      "“Eis que eu estarei ali diante de ti sobre a rocha em Horebe; e ferirás a rocha, e dela sairá água, para que o povo beba.”",
-     "Moisés encontrou água onde parecia impossível, batendo numa pedra. Que “pedra” (obstáculo) você já viu virar solução, com a abordagem certa?"),
+     "Moshé encontrou água onde parecia impossível, batendo numa pedra. Que “pedra” (obstáculo) você já viu virar solução, com a abordagem certa?"),
 
     (3, "17/08", "Chutzpah: da palavra à atitude empreendedora",
      "Gênesis 18:23-25",
@@ -72,17 +84,17 @@ aulas = [
     (5, "31/08", "O papel do Estado e do Exército",
      "Êxodo 18:21",
      "“Procura dentre o povo homens capazes [...] e põe estes sobre eles por chefes de mil, chefes de cem, chefes de cinquenta e chefes de dez.”",
-     "Jetro ajudou Moisés a organizar o povo em grupos, com líderes definidos. Por que até o maior líder precisa de uma boa estrutura/instituição ao seu redor?"),
+     "Jetro ajudou Moshé a organizar o povo em grupos, com líderes definidos. Por que até o maior líder precisa de uma boa estrutura/instituição ao seu redor?"),
 
     (6, "14/09", "Estudos de caso: empresas que os alunos usam",
      "Números 13:17-18",
      "“Subi por aqui para a banda do sul, e subi à montanha; e vede a terra, que tal é.”",
-     "Antes de agir, Moisés mandou espiar e estudar de perto a terra prometida. Por que observar de perto um exemplo real (como uma empresa) ajuda antes de criar algo novo?"),
+     "Antes de agir, Moshé mandou espiar e estudar de perto a terra prometida. Por que observar de perto um exemplo real (como uma empresa) ajuda antes de criar algo novo?"),
 
     (7, "28/09", "Tikun olam + lançamento do desafio final",
      "Êxodo 3:9-10",
      "“E agora, eis que o clamor dos filhos de Israel chegou a mim [...] Vem, pois, agora, e enviar-te-ei a Faraó, para que tires do Egito o meu povo.”",
-     "D'us chamou Moisés para agir agora, sem esperar mais. Por que agora é um bom momento para você começar seu próprio projeto?"),
+     "D'us chamou Moshé para agir agora, sem esperar mais. Por que agora é um bom momento para você começar seu próprio projeto?"),
 
     (8, "05/10", "Mapa de Empatia: entendendo o problema de verdade",
      "Levítico 19:18",
@@ -102,7 +114,7 @@ aulas = [
     (11, "09/11", "Roteiro de Pitch: contando minha ideia em 2 min",
      "Êxodo 4:11-12",
      "“Quem fez a boca do homem? [...] Vai, pois, agora, e eu serei com a tua boca, e te ensinarei o que hás de falar.”",
-     "Moisés tinha medo de não saber falar direito, e D'us prometeu as palavras certas. Como preparar bem o que vai dizer pode te dar mais confiança no pitch?"),
+     "Moshé tinha medo de não saber falar direito, e D'us prometeu as palavras certas. Como preparar bem o que vai dizer pode te dar mais confiança no pitch?"),
 
     (12, "16/11", "Ensaio geral + ajustes finais",
      "Deuteronômio 6:6-7",
@@ -127,7 +139,7 @@ aulas = [
     (16, "14/12", "Banca de investidores (convidado ou simulação)",
      "Êxodo 18:19",
      "“Ouve agora a minha voz, e aconselhar-te-ei, e D'us seja contigo.”",
-     "Jetro ofereceu um conselho de fora, e Moisés ouviu. Por que ouvir perguntas difíceis de uma banca pode fortalecer sua ideia, em vez de enfraquecê-la?"),
+     "Jetro ofereceu um conselho de fora, e Moshé ouviu. Por que ouvir perguntas difíceis de uma banca pode fortalecer sua ideia, em vez de enfraquecê-la?"),
 
     (17, "21/12", "Encerramento do semestre",
      "Deuteronômio 8:2",
@@ -209,16 +221,67 @@ def wrap_text(text, font, size, max_w):
     return lines
 
 
-def draw_wrapped(x, right, y, text, font, size, leading_mm):
-    for ln in wrap_text(text, font, size, right - x):
-        c.setFont(font, size)
+def wrap_with_first_line_offset(text, font, size, full_width, first_line_width):
+    """Quebra de linha em que a 1ª linha tem menos espaço (por causa do rótulo
+    inline, ex: "1) ") e as linhas seguintes usam a largura cheia."""
+    words = text.split()
+    lines = []
+    line = ""
+    max_w = first_line_width
+    for w in words:
+        test = (line + " " + w).strip()
+        if pdfmetrics.stringWidth(test, font, size) > max_w:
+            if line:
+                lines.append(line)
+            line = w
+            max_w = full_width
+        else:
+            line = test
+    if line:
+        lines.append(line)
+    return lines
+
+
+def draw_numbered_question(x, right, y, number, text, leading_mm=5.2):
+    """Desenha "N) texto..." com o número na mesma linha do início da pergunta."""
+    label = f"{number}) "
+    label_w = pdfmetrics.stringWidth(label, "Montserrat-Bold", 11)
+    full_w = right - x
+    first_w = full_w - label_w
+    lines = wrap_with_first_line_offset(text, "Montserrat-Italic", 10.5, full_w, first_w)
+
+    c.setFont("Montserrat-Bold", 11)
+    c.setFillColor(BLACK)
+    c.drawString(x, y, label)
+    c.setFont("Montserrat-Italic", 10.5)
+    if lines:
+        c.drawString(x + label_w, y, lines[0])
+    y -= leading_mm * mm
+    for ln in lines[1:]:
+        c.setFont("Montserrat-Italic", 10.5)
         c.drawString(x, y, ln)
         y -= leading_mm * mm
     return y
 
 
+def draw_centered_segments(center_x, y, segments):
+    """segments: lista de (texto, fonte, tamanho, cor). Centraliza o conjunto
+    todo, tratando texto hebraico (fonte começando com "Hebrew") com bidi."""
+    total_w = sum(pdfmetrics.stringWidth(t, f, s) for (t, f, s, _col) in segments)
+    cx = center_x - total_w / 2
+    for t, f, s, col in segments:
+        c.setFont(f, s)
+        c.setFillColor(col)
+        draw_t = get_display(t) if f.startswith("Hebrew") else t
+        c.drawString(cx, y, draw_t)
+        cx += pdfmetrics.stringWidth(t, f, s)
+    c.setFillColor(BLACK)
+
+
 def draw_citation_box(x, right, y, trecho, fonte):
-    """Citação livre, centralizada, dentro de uma caixa enquadrada — sem rótulo."""
+    """Citação livre, centralizada, dentro de uma caixa enquadrada — sem rótulo.
+    A referência (fonte) traz o nome do livro em português e, ao lado, em
+    hebraico (ex: "Gênesis בְּרֵאשִׁית 12:1")."""
     inner_pad_x = 6 * mm
     inner_pad_y = 5 * mm
     text_w = (right - x) - 2 * inner_pad_x
@@ -241,9 +304,20 @@ def draw_citation_box(x, right, y, trecho, fonte):
         ty -= line_h
 
     ty -= 1 * mm
-    c.setFont("Montserrat-Bold", 9.5)
-    c.setFillColor(GREY)
-    c.drawCentredString(center_x, ty, f"— {fonte}")
+    livro, _, resto = fonte.partition(" ")
+    hebraico = LIVRO_HEBRAICO.get(livro, "")
+    segments = [("— ", "Montserrat-Bold", 9.5, GREY), (livro, "Montserrat-Bold", 9.5, GREY)]
+    if hebraico:
+        # Espaços ficam em segmentos próprios (fonte latina), nunca dentro da
+        # string hebraica — presos ali, o bidi os reordena para o lado errado
+        # e "cola" o texto seguinte no trecho em hebraico.
+        segments.append(("  ", "Montserrat-Bold", 9.5, GREY))
+        segments.append((hebraico, "Hebrew-Bold", 10.5, GREY))
+        segments.append(("  ", "Montserrat-Bold", 9.5, GREY))
+    else:
+        segments.append((" ", "Montserrat-Bold", 9.5, GREY))
+    segments.append((resto, "Montserrat-Bold", 9.5, GREY))
+    draw_centered_segments(center_x, ty, segments)
     c.setFillColor(BLACK)
 
     return box_bottom
@@ -267,13 +341,9 @@ def draw_aula_page(n, data, tema, fonte, trecho, pergunta1):
     y -= 10 * mm
     y = draw_citation_box(x, right, y, trecho, fonte)
 
-    # --- Pergunta 1 (ligada ao trecho) ---
+    # --- Pergunta 1 (ligada ao trecho) — número na mesma linha do texto ---
     y -= 9 * mm
-    c.setFont("Montserrat-Bold", 11)
-    c.setFillColor(BLACK)
-    c.drawString(x, y, "1)")
-    y -= 6 * mm
-    y = draw_wrapped(x, right, y, pergunta1, "Montserrat-Italic", 10.5, 5.2)
+    y = draw_numbered_question(x, right, y, 1, pergunta1)
     y -= 1 * mm
     y = writing_line(x, right, y); y -= 8 * mm
     y = writing_line(x, right, y); y -= 8 * mm
