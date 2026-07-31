@@ -16,7 +16,11 @@ Israel é o país com mais startups per capita do mundo — surge, em média, um
 1. **Judaísmo**: entender como valores, história e experiência do povo judeu — chutzpah (audácia), tikun olam (reparar o mundo), tradição de estudo e debate (chevruta/beit midrash), experiência da diáspora e da imigração — se conectam com a cultura de inovação israelense.
 2. **Empreendedorismo e competências do século XXI**: pensamento crítico, criatividade, tolerância ao erro, trabalho em equipe e comunicação, através de uma metodologia ativa que culmina em um projeto real de empreendedorismo criado pelos próprios alunos.
 
-Adequado à faixa etária de 13–15 anos: contextos curtos, muito estudo de caso concreto (empresas e produtos que os alunos já usam — Waze, ICQ, Wix), trabalho em grupo e um produto final tangível (pitch de uma ideia própria). Como a turma é agitada, **todo plano de aula reserva a maior parte dos 90 minutos para atividade prática com produto entregável** — nunca exposição contínua.
+Adequado à faixa etária de 13–15 anos: contextos curtos, muito estudo de caso concreto (empresas e produtos que os alunos já usam — Waze, ICQ, Wix), trabalho em grupo e um produto final tangível (pitch de uma ideia própria). Como a turma é agitada, três regras valem para as 17 aulas:
+
+1. **Rotina fixa em toda aula** — todas começam com a Ficha de Entrada e terminam com a Ficha de Saída (`ferramentas/rotina-entrada-saida.md`), sempre no mesmo formato, para reduzir a bagunça na entrada/saída da sala.
+2. **Sem celular** — nenhuma atividade depende de celular do aluno. Pesquisas usam fichas informativas já preparadas pelo professor (`ferramentas/fichas-*.md`); quando a sala de informática está disponível em alguma semana, isso é indicado como opcional no plano daquela aula.
+3. **Maior parte dos 90 minutos é atividade prática com produto entregável** — nunca exposição contínua.
 
 ## 2. Objetivos de aprendizagem
 
@@ -53,10 +57,19 @@ Calendário com as 17 datas reais do semestre (segundas-feiras letivas) em [`cal
 | 16 | 14/12 | Fechamento | Banca de investidores (convidado ou simulação) | [`aulas/aula-16.md`](aulas/aula-16.md) |
 | 17 | 21/12 | Fechamento | Encerramento do semestre | [`aulas/aula-17.md`](aulas/aula-17.md) |
 
-### Ferramentas usadas pelos alunos (nas aulas 8–13)
+### Ferramentas
 
 Templates prontos para imprimir/copiar em [`ferramentas/`](ferramentas/):
 
+**Rotina de toda aula**
+- [`ferramentas/rotina-entrada-saida.md`](ferramentas/rotina-entrada-saida.md) — Ficha de Entrada e Ficha de Saída, usadas em todas as 17 aulas
+
+**Fichas informativas (substituem pesquisa por celular)**
+- [`ferramentas/fichas-produtos-israelenses.md`](ferramentas/fichas-produtos-israelenses.md) — 8 empresas israelenses, usado nas Aulas 1 e 6
+- [`ferramentas/fichas-linha-do-tempo.md`](ferramentas/fichas-linha-do-tempo.md) — 5 períodos históricos, usado na Aula 2
+- [`ferramentas/fichas-debate-estado.md`](ferramentas/fichas-debate-estado.md) — argumentos para o debate, usado na Aula 5
+
+**Meu Projeto (Aulas 8–13)**
 - [`ferramentas/mapa-de-empatia.md`](ferramentas/mapa-de-empatia.md) — entender a pessoa real por trás do problema (Aula 8)
 - [`ferramentas/canvas-projeto-pessoal.md`](ferramentas/canvas-projeto-pessoal.md) — Canvas de 8 caixas para estruturar a ideia (Aula 9)
 - [`ferramentas/prototipo-rapido.md`](ferramentas/prototipo-rapido.md) — protótipo tangível da solução (Aula 10)
@@ -65,8 +78,10 @@ Templates prontos para imprimir/copiar em [`ferramentas/`](ferramentas/):
 
 ## 4. Metodologia
 
+- **Rotina fixa idêntica em toda aula:** Ficha de Entrada (5 min, individual e silenciosa, ao sentar) e Ficha de Saída (5 min, antes de sair) — ver `ferramentas/rotina-entrada-saida.md`. É o "hábito comum" que a turma repete 17 vezes, o que reduz a dispersão na entrada e na saída.
+- **Sem celular em nenhuma atividade:** pesquisas usam fichas informativas já preparadas pelo professor. Em semanas com sala de informática disponível (indicado no plano da aula), o computador pode ser usado como aprofundamento opcional.
 - Aulas expositivo-dialogadas curtas (máx. 15–20 min) intercaladas com atividades em grupo — em cada uma das 17 aulas, a maior parte dos 90 min é tempo de mão na massa, com produto entregue ao final (cartaz, ficha, canvas, protótipo, ensaio).
-- Uso de vídeos curtos, dinâmicas em pé, rodízio de duplas e murais coletivos (Mural das Ideias, Baú de Aprendizados) para manter a turma engajada e em movimento.
+- Dinâmicas em pé, rodízio de duplas e murais coletivos (Mural das Ideias, Baú de Aprendizados) para manter a turma engajada e em movimento.
 - Aprendizagem baseada em projeto (PBL): o semestre inteiro converge para o Pitch Day de 23/11 e se desdobra depois em feira, revisão e banca de investidores.
 - Trabalho em chevruta (duplas/trios) como método pedagógico alinhado à tradição judaica de estudo.
 

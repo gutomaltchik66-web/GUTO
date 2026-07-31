@@ -2,7 +2,7 @@
 
 **Objetivo:** os alunos revisitam seus projetos numa segunda rodada, mais leve, recebendo perguntas de uma "banca de investidores" — convidado externo real ou simulação entre os próprios alunos.
 
-**Materiais:** protótipos e Canvas de cada projeto, cartões de perguntas para simulação (se não houver convidado).
+**Materiais:** cópias de `ferramentas/rotina-entrada-saida.md`, protótipos e Canvas de cada projeto, cartões de perguntas para simulação (se não houver convidado).
 
 ## Preparação prévia (antes da aula)
 - Opção A (preferível): convidar um empreendedor, ex-aluno, familiar da comunidade ou profissional ligado a inovação/investimento para fazer perguntas curtas aos projetos, em clima leve (não é mais avaliação com nota — já ocorreu na Aula 13).
@@ -10,11 +10,12 @@
 
 ## Roteiro (90 min)
 
-1. **Abertura (10 min)** — Explicar que essa é uma segunda chance de apresentar, sem pressão de nota — foco em receber perguntas difíceis e pensar rápido.
-2. **Rodada de mini-pitches (50 min)** — Cada aluno/dupla faz um pitch bem curto (1 min) para o convidado/mini-banca de colegas, seguido de 2 perguntas usando os cartões ou perguntas livres do convidado.
-3. **Registro das respostas (15 min)** — Cada aluno anota, por escrito, a pergunta mais difícil que recebeu e como respondeu (ou como responderia agora, com calma).
-4. **Roda de aprendizados (10 min)** — Compartilhar em voz alta: qual pergunta pegou todo mundo de surpresa?
-5. **Fechamento (5 min)** — Agradecer o convidado (se houver) e anunciar a Aula 17 como encerramento do semestre.
+1. **Ficha de Entrada (5 min)** — Pergunta do dia: *"Se um investidor fizesse só uma pergunta sobre sua ideia, qual você tem mais medo que seja?"*
+2. **Abertura (5 min)** — Explicar que essa é uma segunda chance de apresentar, sem pressão de nota — foco em receber perguntas difíceis e pensar rápido.
+3. **Rodada de mini-pitches (50 min)** — Cada aluno/dupla faz um pitch bem curto (1 min) para o convidado/mini-banca de colegas, seguido de 2 perguntas usando os cartões ou perguntas livres do convidado.
+4. **Registro das respostas (15 min)** — Cada aluno anota, por escrito, a pergunta mais difícil que recebeu e como respondeu (ou como responderia agora, com calma).
+5. **Roda de aprendizados (10 min)** — Compartilhar em voz alta: qual pergunta pegou todo mundo de surpresa?
+6. **Ficha de Saída (5 min)** — Agradecer o convidado (se houver) e anunciar a Aula 17 como encerramento do semestre.
 
 ## Produto da aula
-Ficha "pergunta mais difícil + minha resposta" preenchida.
+Ficha "pergunta mais difícil + minha resposta" preenchida + Ficha de Saída.

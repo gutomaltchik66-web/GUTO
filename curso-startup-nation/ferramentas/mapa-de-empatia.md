@@ -2,7 +2,7 @@
 
 **Para que serve:** entender de verdade a pessoa (colega, familiar, alguém da comunidade) para quem o aluno vai criar sua ideia — antes de pensar em solução, entender o problema pelos olhos de quem o vive.
 
-**Quando usar:** Aula 8 (Ideação), como primeiro passo antes do Canvas.
+**Quando usar:** Aula 8 (Mapa de Empatia), como primeiro passo antes do Canvas (Aula 9).
 
 ## Como preencher (individual ou em dupla, 15 min)
 

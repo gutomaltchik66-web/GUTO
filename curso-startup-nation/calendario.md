@@ -35,3 +35,8 @@
 ## Princípio pedagógico de toda aula
 
 Turma agitada → **nenhuma aula é só exposição**. Todo plano de aula deste calendário reserva a maior parte dos 90 minutos para atividade prática, em grupo ou individual, com um produto concreto entregue ao final (ficha, canvas, ensaio, apresentação) — nunca mais de 20–25 min seguidos de fala do professor.
+
+Duas regras fixas, válidas nas 17 aulas:
+
+- **Sem celular.** Nenhuma atividade depende de celular do aluno — pesquisas usam fichas informativas já preparadas pelo professor (`ferramentas/fichas-*.md`). Em semanas com sala de informática disponível, isso é indicado como opcional no plano daquela aula específica.
+- **Rotina fixa igual em toda aula.** Todas começam com a Ficha de Entrada (5 min, individual e silenciosa) e terminam com a Ficha de Saída (5 min) — ver `ferramentas/rotina-entrada-saida.md`. É o hábito que se repete 17 vezes, para a turma sempre saber o que fazer ao entrar e antes de sair.
