@@ -1,23 +1,19 @@
-# Aula 10 — Pitch Day
+# Aula 10 — 26/10 — Protótipo: tirando a ideia do papel
 
-**Objetivo:** cada aluno/dupla apresenta seu projeto pessoal de empreendedorismo, fechando a unidade Startup Nation.
+**Objetivo:** cada aluno/dupla constrói uma primeira versão tangível (protótipo rápido) da sua solução, a partir do Canvas revisado.
 
-**Materiais:** `ferramentas/rubrica-avaliacao.md` (uma ficha impressa por apresentação), cronômetro, projetor se algum grupo quiser usar imagem/slide de apoio (opcional, não obrigatório).
+**Materiais:** cópias de `ferramentas/prototipo-rapido.md`, papel, tesoura, cola, canetinhas, sucata reciclável (caixas, tampinhas, rolos) — pedir com antecedência ou disponibilizar caixa de materiais da sala de arte.
 
-## Preparação prévia (antes da aula)
-- Convidar, se possível, 1–2 avaliadores externos (outro professor, coordenação, alguém da comunidade ligado a empreendedorismo) — reforça o clima de "banca real".
-- Organizar a sala em formato de plateia + "palco".
-- Imprimir as fichas de rubrica (uma por grupo, para o professor, e cópias extras se for usar coavaliação entre pares).
+## Roteiro (90 min)
 
-## Roteiro (50 min, ajustar conforme número de grupos)
-
-1. **Abertura (5 min)** — Retomar em 1 minuto a jornada do semestre: da história de Israel até a ideia de cada um. Relembrar as regras: 2 minutos por pitch, silêncio e respeito durante a fala dos colegas.
-2. **Apresentações (30–35 min)** — Cada grupo apresenta seu pitch (2 min de fala + ~1 min para 1 pergunta rápida da banca/turma). Professor (e avaliadores, se houver) preenchem a rubrica durante cada apresentação.
-3. **Devolutiva coletiva (5 min)** — Sem citar nomes, comentar 2–3 pontos fortes que apareceram repetidamente entre os projetos.
-4. **Fechamento da unidade (5–10 min)** — Retomar os grandes conceitos do semestre (chutzpah, tolerância ao fracasso, tikun olam, papel de instituições) e perguntar: *"Qual desses valores mais apareceu na sua própria ideia?"* Colher 3–4 respostas em voz alta.
+1. **Retomada (5 min)** — Rápida checagem: quem revisou o Canvas em casa (versão 2)?
+2. **Explicação do Protótipo Rápido (10 min)** — Apresentar os 5 formatos possíveis (desenho/storyboard, maquete, telas de app, encenação, cartaz) com exemplo rápido de cada um.
+3. **Escolha e planejamento (10 min)** — Cada aluno/dupla escolhe o formato e anota rapidamente o que vai construir.
+4. **Mão na massa (50 min)** — Tempo de construção do protótipo. Professor circula pela sala, provocando com perguntas ("como uma pessoa que nunca viu isso entenderia sozinha?"). Reforçar: rabiscado e feito vale mais que perfeito e não feito.
+5. **Rodada de "teste relâmpago" (15 min)** — Cada dupla mostra o protótipo para outra dupla (2 min cada) e pergunta: *"Você entendeu como isso funciona? O que ficou confuso?"* Anotar 1 aprendizado no template.
 
 ## Produto da aula
-Pitch apresentado + fichas de rubrica preenchidas.
+Protótipo físico/desenhado + ficha de reflexão preenchida (`ferramentas/prototipo-rapido.md`).
 
-## Depois da aula
-Devolver a ficha de rubrica com nota e comentário para cada aluno/dupla, e (opcional) pedir a autoavaliação/reflexão escrita citada no plano de curso (seção 5), como fechamento formal da unidade.
+## Conexão com o projeto pessoal
+O protótipo e o teste relâmpago geram material real para o "gancho" e a "solução" do Roteiro de Pitch (Aula 11).

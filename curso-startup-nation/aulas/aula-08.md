@@ -1,22 +1,22 @@
-# Aula 8 — Ideação: criando minha ideia
+# Aula 8 — 05/10 — Mapa de Empatia: entendendo o problema de verdade
 
-**Objetivo:** cada aluno (ou grupo pequeno, se preferir trabalho em dupla) sai da aula com uma primeira versão escrita da própria ideia de projeto, usando o Mapa de Empatia e o Canvas.
+**Objetivo:** cada aluno/dupla escolhe uma pessoa real que sofre o problema identificado na Aula 7 e preenche o Mapa de Empatia sobre ela.
 
-**Materiais:** cópias impressas (ou digitais) de `ferramentas/mapa-de-empatia.md` e `ferramentas/canvas-projeto-pessoal.md`, lápis/caneta.
+**Materiais:** cópias impressas de `ferramentas/mapa-de-empatia.md`, lápis/caneta.
 
 ## Decisão prévia do professor
-Definir se o projeto será **individual** ou em **duplas/trios**. Recomendação: duplas, para facilitar o Pitch Day e reduzir número de apresentações — mas manter a reflexão de "por que eu" pessoal mesmo em dupla.
+Definir se o projeto será individual ou em duplas/trios (recomendação: duplas, para facilitar o Pitch Day e manter a turma engajada em par).
 
-## Roteiro (50 min)
+## Roteiro (90 min)
 
-1. **Retomada (5 min)** — Relembrar as 3 frases reunidas na Aula 7.
-2. **Mapa de Empatia (15 min)** — Distribuir o template. Cada aluno/dupla escolhe uma pessoa real (colega, familiar, alguém da comunidade) que sofre o problema identificado, e preenche as 6 caixas.
-3. **Mini-brainstorm (10 min)** — Antes do Canvas, cada aluno/dupla escreve rapidamente 3 possíveis soluções para o problema (sem filtrar, sem julgar — quantidade importa mais que qualidade agora) e escolhe a que mais gostou.
-4. **Canvas do Projeto (15 min)** — Distribuir o template do Canvas e preencher as 8 caixas com a ideia escolhida.
-5. **Fechamento (5 min)** — Cada aluno/dupla troca o Canvas com outra dupla por 2 minutos, para uma primeira leitura de um colega (sem comentar ainda — só "ler com olhos de fora").
+1. **Retomada (10 min)** — Reler em voz alta 2–3 fichas-síntese da Aula 7 (com autorização dos alunos), para reaquecer o grupo.
+2. **Explicação do Mapa de Empatia (10 min)** — Apresentar as 6 caixas (pensa/sente, vê, ouve, diz/faz, dores, ganhos) com um exemplo rápido feito junto com a turma no quadro.
+3. **Trabalho prático: preenchendo o mapa (45 min)** — Cada aluno/dupla escolhe a pessoa real (colega, familiar, alguém da comunidade) e preenche as 6 caixas. Quem terminar rápido faz um segundo mapa de outra pessoa, para comparar pontos de vista.
+4. **Entrevista relâmpago, se possível (15 min)** — Sempre que der (ex: a "pessoa real" for um colega de outra dupla presente na sala), fazer uma entrevista de verdade de 3 min para completar o mapa com respostas reais, não só suposições.
+5. **Fechamento (10 min)** — Em grupos de 4, cada aluno/dupla lê a linha "dores" para os colegas — é normalmente ali que a ideia de negócio fica mais clara. Colher 1 comentário de cada grupo.
 
 ## Produto da aula
-Mapa de Empatia preenchido + primeira versão do Canvas do Projeto.
+Mapa de Empatia preenchido (uma pessoa real, no mínimo).
 
 ## Tarefa de casa
-Revisar o Canvas em casa e chegar na próxima aula com uma versão 2 (pode reescrever partes que ficaram fracas).
+Se possível, fazer uma pergunta real para a pessoa do mapa (ou outra parecida) sobre o problema, e trazer a resposta anotada para a próxima aula.

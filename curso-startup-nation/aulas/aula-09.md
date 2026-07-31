@@ -1,19 +1,19 @@
-# Aula 9 — Preparando o pitch
+# Aula 9 — 19/10 — Canvas do Projeto Pessoal: primeira ideia
 
-**Objetivo:** cada aluno/dupla transforma o Canvas em um roteiro de pitch de 2 minutos, ensaia e recebe feedback de um colega.
+**Objetivo:** cada aluno/dupla preenche a primeira versão completa do Canvas do Projeto Pessoal.
 
-**Materiais:** cópias de `ferramentas/roteiro-pitch.md`, cronômetro (celular serve).
+**Materiais:** cópias impressas de `ferramentas/canvas-projeto-pessoal.md`, lápis/caneta (rascunho, não caneta definitiva).
 
-## Roteiro (50 min)
+## Roteiro (90 min)
 
-1. **O que é um pitch (10 min)** — Explicar a estrutura de 5 partes do Roteiro de Pitch (gancho, problema, solução, por que eu, chamada final) e mostrar rapidamente um exemplo pronto (o professor pode montar um pitch fictício de 2 min como modelo, usando uma das empresas da Aula 6).
-2. **Escrita do roteiro (15 min)** — Cada aluno/dupla preenche o Roteiro de Pitch a partir do Canvas já pronto (Aula 8).
-3. **Ensaio em duplas cruzadas (15 min)** — Trocar de parceiro (não o da dupla do projeto): cada um apresenta o pitch para o colega, cronometrando. O colega dá **1 elogio + 1 sugestão** usando o checklist do Roteiro de Pitch.
-4. **Ajuste final (7 min)** — Cada aluno/dupla ajusta o roteiro com base no feedback recebido.
-5. **Sorteio da ordem do Pitch Day (3 min)** — Definir a ordem de apresentação da próxima aula, para reduzir ansiedade de última hora.
+1. **Retomada (5 min)** — Compartilhamento rápido do "dever de casa" (resposta real coletada) por quem trouxe.
+2. **Mini-brainstorm antes do Canvas (15 min)** — Antes de preencher, cada aluno/dupla escreve rapidamente 3 possíveis soluções para o problema do Mapa de Empatia (sem filtrar — quantidade importa mais que qualidade agora) e escolhe a que mais gostou.
+3. **Explicação do Canvas (10 min)** — Apresentar as 8 caixas com um exemplo rápido no quadro (pode reaproveitar uma empresa da Aula 6).
+4. **Trabalho prático: preenchendo o Canvas (40 min)** — Cada aluno/dupla preenche as 8 caixas com a ideia escolhida. Professor circula pela sala, sentando 2–3 min com cada grupo para desafiar com perguntas ("isso é mesmo um problema real?", "quem compraria/usaria isso?").
+5. **Troca entre pares (20 min)** — Cada aluno/dupla troca o Canvas com outra dupla por 5 min: o colega lê e escreve, em um post-it colado no Canvas, 1 pergunta e 1 elogio. Devolver.
 
 ## Produto da aula
-Roteiro de Pitch finalizado, ensaiado e ajustado.
+Primeira versão completa do Canvas do Projeto Pessoal, com post-it de feedback de um colega.
 
-## Aviso importante
-Reforçar que o Pitch Day (Aula 10) vale nota pela Rubrica de Avaliação — relembrar os 4 critérios antes de encerrar a aula.
+## Tarefa de casa
+Revisar o Canvas em casa considerando o feedback recebido — chegar na próxima aula com uma versão 2.

@@ -1,21 +1,22 @@
 # Startup Nation: Inovação e Empreendedorismo em Israel
 
-**Disciplina:** Cultura Judaica
+**Disciplina:** Eletiva "Start Up Nation" (une empreendedorismo e judaísmo)
 **Escola:** Colégio Israelita Brasileiro (CIB), Porto Alegre
-**Público:** 8º e 9º ano do Ensino Fundamental
+**Público:** 8º e 9º ano do Ensino Fundamental (EF2)
 **Professor:** Augusto Maltchik
-**Carga horária sugerida:** 10 aulas de 50 minutos (pode ser comprimida para 6–8 aulas)
+**Horário:** segundas-feiras, 14h às 15h30 (90 min)
+**Carga horária:** 17 aulas letivas no semestre (ver calendário real em [`calendario.md`](calendario.md)), incluindo o Pitch Day em 23/11, data oficial da semana avaliativa das eletivas EF2.
 
 ---
 
 ## 1. Justificativa
 
-Israel é o país com mais startups per capita do mundo — surge, em média, uma nova empresa a cada seis horas, com mais de 9 mil startups ativas e investimento em P&D que ultrapassa 5% do PIB, o maior índice do planeta. Essa unidade usa o fenômeno da "Startup Nation" (termo popularizado pelo livro de Dan Senor e Saul Singer) como porta de entrada para dois objetivos que se reforçam:
+Israel é o país com mais startups per capita do mundo — surge, em média, uma nova empresa a cada seis horas, com mais de 9 mil startups ativas e investimento em P&D que ultrapassa 5% do PIB, o maior índice do planeta. Essa eletiva usa o fenômeno da "Startup Nation" (termo popularizado pelo livro de Dan Senor e Saul Singer) como porta de entrada para dois objetivos que se reforçam:
 
-1. **Cultura Judaica**: entender como valores, história e experiência do povo judeu — chutzpah (audácia), tikun olam (reparar o mundo), tradição de estudo e debate (chevruta/beit midrash), experiência da diáspora e da imigração — se conectam com a cultura de inovação israelense.
-2. **Competências do século XXI**: pensamento crítico, criatividade, tolerância ao erro, trabalho em equipe e comunicação, através de uma metodologia ativa que culmina em um projeto real de empreendedorismo criado pelos próprios alunos.
+1. **Judaísmo**: entender como valores, história e experiência do povo judeu — chutzpah (audácia), tikun olam (reparar o mundo), tradição de estudo e debate (chevruta/beit midrash), experiência da diáspora e da imigração — se conectam com a cultura de inovação israelense.
+2. **Empreendedorismo e competências do século XXI**: pensamento crítico, criatividade, tolerância ao erro, trabalho em equipe e comunicação, através de uma metodologia ativa que culmina em um projeto real de empreendedorismo criado pelos próprios alunos.
 
-Adequado à faixa etária de 13–15 anos: contextos curtos, muito estudo de caso concreto (empresas e produtos que os alunos já usam — Waze, ICQ, Wix), trabalho em grupo e um produto final tangível (pitch de uma ideia própria).
+Adequado à faixa etária de 13–15 anos: contextos curtos, muito estudo de caso concreto (empresas e produtos que os alunos já usam — Waze, ICQ, Wix), trabalho em grupo e um produto final tangível (pitch de uma ideia própria). Como a turma é agitada, **todo plano de aula reserva a maior parte dos 90 minutos para atividade prática com produto entregável** — nunca exposição contínua.
 
 ## 2. Objetivos de aprendizagem
 
@@ -30,47 +31,55 @@ Ao final da unidade, o aluno deve ser capaz de:
 
 ## 3. Estrutura das aulas
 
-Plano de aula completo (objetivo, materiais, roteiro minuto a minuto e produto de cada aula) em [`aulas/`](aulas/):
+Calendário com as 17 datas reais do semestre (segundas-feiras letivas) em [`calendario.md`](calendario.md). Plano de aula completo (objetivo, materiais, roteiro minuto a minuto e produto de cada aula) em [`aulas/`](aulas/):
 
-| Aula | Tema | Plano detalhado |
-|---|---|---|
-| 1 | O que é a "Startup Nation"? | [`aulas/aula-01.md`](aulas/aula-01.md) |
-| 2 | Raízes históricas: da sobrevivência à inovação | [`aulas/aula-02.md`](aulas/aula-02.md) |
-| 3 | Chutzpah: a cultura de questionar | [`aulas/aula-03.md`](aulas/aula-03.md) |
-| 4 | Tolerância ao fracasso | [`aulas/aula-04.md`](aulas/aula-04.md) |
-| 5 | O papel do Estado e do Exército | [`aulas/aula-05.md`](aulas/aula-05.md) |
-| 6 | Estudos de caso: empresas que os alunos usam | [`aulas/aula-06.md`](aulas/aula-06.md) |
-| 7 | Tikun olam + lançamento do desafio final | [`aulas/aula-07.md`](aulas/aula-07.md) |
-| 8 | Ideação: criando minha ideia | [`aulas/aula-08.md`](aulas/aula-08.md) |
-| 9 | Preparando o pitch | [`aulas/aula-09.md`](aulas/aula-09.md) |
-| 10 | Pitch Day | [`aulas/aula-10.md`](aulas/aula-10.md) |
+| Aula | Data | Bloco | Tema | Plano detalhado |
+|---|---|---|---|---|
+| 1 | 03/08 | Fundamentos | O que é a "Startup Nation"? | [`aulas/aula-01.md`](aulas/aula-01.md) |
+| 2 | 10/08 | Fundamentos | Raízes históricas: da sobrevivência à inovação | [`aulas/aula-02.md`](aulas/aula-02.md) |
+| 3 | 17/08 | Fundamentos | Chutzpah: a cultura de questionar | [`aulas/aula-03.md`](aulas/aula-03.md) |
+| 4 | 24/08 | Fundamentos | Tolerância ao fracasso | [`aulas/aula-04.md`](aulas/aula-04.md) |
+| 5 | 31/08 | Fundamentos | O papel do Estado e do Exército | [`aulas/aula-05.md`](aulas/aula-05.md) |
+| 6 | 14/09 | Ecossistema | Estudos de caso: empresas que os alunos usam | [`aulas/aula-06.md`](aulas/aula-06.md) |
+| 7 | 28/09 | Ecossistema | Tikun olam + lançamento do desafio final | [`aulas/aula-07.md`](aulas/aula-07.md) |
+| 8 | 05/10 | Meu Projeto | Mapa de Empatia: entendendo o problema de verdade | [`aulas/aula-08.md`](aulas/aula-08.md) |
+| 9 | 19/10 | Meu Projeto | Canvas do Projeto Pessoal: primeira ideia | [`aulas/aula-09.md`](aulas/aula-09.md) |
+| 10 | 26/10 | Meu Projeto | Protótipo: tirando a ideia do papel | [`aulas/aula-10.md`](aulas/aula-10.md) |
+| 11 | 09/11 | Meu Projeto | Roteiro de Pitch: contando minha ideia em 2 min | [`aulas/aula-11.md`](aulas/aula-11.md) |
+| 12 | 16/11 | Meu Projeto | Ensaio geral + ajustes finais | [`aulas/aula-12.md`](aulas/aula-12.md) |
+| 13 | **23/11** | **Avaliação** | **PITCH DAY — Semana Avaliativa EF2** | [`aulas/aula-13.md`](aulas/aula-13.md) |
+| 14 | 30/11 | Fechamento | Devolutivas + Feira de Ideias | [`aulas/aula-14.md`](aulas/aula-14.md) |
+| 15 | 07/12 | Fechamento | E depois do pitch? Da ideia ao negócio de verdade | [`aulas/aula-15.md`](aulas/aula-15.md) |
+| 16 | 14/12 | Fechamento | Banca de investidores (convidado ou simulação) | [`aulas/aula-16.md`](aulas/aula-16.md) |
+| 17 | 21/12 | Fechamento | Encerramento do semestre | [`aulas/aula-17.md`](aulas/aula-17.md) |
 
-### Ferramentas usadas pelos alunos (nas aulas 8–10)
+### Ferramentas usadas pelos alunos (nas aulas 8–13)
 
 Templates prontos para imprimir/copiar em [`ferramentas/`](ferramentas/):
 
 - [`ferramentas/mapa-de-empatia.md`](ferramentas/mapa-de-empatia.md) — entender a pessoa real por trás do problema (Aula 8)
-- [`ferramentas/canvas-projeto-pessoal.md`](ferramentas/canvas-projeto-pessoal.md) — Canvas de 8 caixas para estruturar a ideia (Aula 8)
-- [`ferramentas/roteiro-pitch.md`](ferramentas/roteiro-pitch.md) — roteiro de pitch de 2 minutos (Aulas 9–10)
-- [`ferramentas/rubrica-avaliacao.md`](ferramentas/rubrica-avaliacao.md) — rubrica de avaliação do Pitch Day (Aula 10)
+- [`ferramentas/canvas-projeto-pessoal.md`](ferramentas/canvas-projeto-pessoal.md) — Canvas de 8 caixas para estruturar a ideia (Aula 9)
+- [`ferramentas/prototipo-rapido.md`](ferramentas/prototipo-rapido.md) — protótipo tangível da solução (Aula 10)
+- [`ferramentas/roteiro-pitch.md`](ferramentas/roteiro-pitch.md) — roteiro de pitch de 2 minutos (Aulas 11–13)
+- [`ferramentas/rubrica-avaliacao.md`](ferramentas/rubrica-avaliacao.md) — rubrica de avaliação do Pitch Day (Aula 13)
 
 ## 4. Metodologia
 
-- Aulas expositivo-dialogadas curtas (máx. 15 min) intercaladas com atividades em grupo.
-- Uso de vídeos curtos (TED Talks, trechos de documentários sobre Israel/inovação).
-- Aprendizagem baseada em projeto (PBL): o curso inteiro converge para o Pitch Day.
+- Aulas expositivo-dialogadas curtas (máx. 15–20 min) intercaladas com atividades em grupo — em cada uma das 17 aulas, a maior parte dos 90 min é tempo de mão na massa, com produto entregue ao final (cartaz, ficha, canvas, protótipo, ensaio).
+- Uso de vídeos curtos, dinâmicas em pé, rodízio de duplas e murais coletivos (Mural das Ideias, Baú de Aprendizados) para manter a turma engajada e em movimento.
+- Aprendizagem baseada em projeto (PBL): o semestre inteiro converge para o Pitch Day de 23/11 e se desdobra depois em feira, revisão e banca de investidores.
 - Trabalho em chevruta (duplas/trios) como método pedagógico alinhado à tradição judaica de estudo.
 
 ## 5. Avaliação
 
-| Instrumento | Peso | Critério |
-|---|---|---|
-| Participação nas discussões (aulas 1–7) | 20% | Engajamento, qualidade dos argumentos |
-| Canvas de ideação (aula 8) | 20% | Clareza do problema e da solução proposta |
-| Pitch final (aula 10) | 40% | Clareza, criatividade, conexão com valores discutidos, trabalho em equipe |
-| Autoavaliação/reflexão escrita | 20% | Capacidade de relacionar conteúdo com aprendizado pessoal |
+| Instrumento | Peso | Quando | Critério |
+|---|---|---|---|
+| Participação e produtos das aulas (1–12) | 30% | Aulas 1–12 | Entrega do produto de cada aula (cartaz, ficha, canvas, protótipo) — ver "Produto da aula" em cada plano |
+| Pitch Day | 40% | Aula 13 (23/11 — semana avaliativa EF2) | Rubrica oficial: clareza do problema, viabilidade/criatividade, conexão com valores judaicos, comunicação e trabalho em equipe |
+| Feira de Ideias e banca de investidores | 15% | Aulas 14 e 16 | Engajamento na exposição e nas respostas às perguntas |
+| Reflexão final escrita | 15% | Aula 17 | Capacidade de relacionar conteúdo com aprendizado pessoal |
 
-Rubrica do pitch (0–10 cada): **Clareza do problema** · **Viabilidade/criatividade da solução** · **Conexão com valores judaicos (chutzpah/tikun olam)** · **Comunicação e trabalho em equipe**.
+Rubrica do Pitch Day (0–10 cada): **Clareza do problema** · **Viabilidade/criatividade da solução** · **Conexão com valores judaicos (chutzpah/tikun olam)** · **Comunicação e trabalho em equipe** — detalhada em [`ferramentas/rubrica-avaliacao.md`](ferramentas/rubrica-avaliacao.md).
 
 ## 6. Bibliografia e recursos
 
@@ -81,6 +90,6 @@ Rubrica do pitch (0–10 cada): **Clareza do problema** · **Viabilidade/criativ
 
 ## 7. Possíveis extensões
 
-- Convidar um empreendedor ou alguém ligado à comunidade com experiência em Israel/tecnologia para uma roda de conversa.
+- Convite a um empreendedor ou alguém ligado à comunidade já incorporado na Aula 16 (banca de investidores) — pode ser reforçado com mais de um convidado se houver disponibilidade.
 - Parceria com a trilha de Inovação & Empreendedorismo do Ensino Médio: alunos do EM como mentores dos grupos do Fundamental.
 - Viagem de estudos ou intercâmbio virtual com uma escola em Israel para trocar pitches entre turmas.
