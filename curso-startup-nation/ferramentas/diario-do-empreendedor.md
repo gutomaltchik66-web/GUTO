@@ -4,6 +4,8 @@
 
 **Quando usar:** em todas as aulas, sem exceção. É o "ritual" fixo da eletiva.
 
+**Padronização CIB:** a versão impressa (PDF) segue o cabeçalho oficial obrigatório do colégio para material de Ensino Fundamental 2 — ver especificação completa em [`../padronizacao/README.md`](../padronizacao/README.md) e o gerador em [`../padronizacao/gerar_diario_pdf.py`](../padronizacao/gerar_diario_pdf.py). Toda página traz "Ensino Fundamental 2" + logo do CIB, campos "Aluno(a) / Ano Escolar / Turma / Data" e moldura de página, no padrão dos modelos oficiais (Cabeçalho Editável EF2 e Pauta Pequena).
+
 ## Montagem (antes da Aula 1)
 
 Cada aluno recebe (ou monta, grampeando folhas) um caderno simples de 17 páginas numeradas, uma por aula, com o mesmo modelo de página abaixo. Pode ser um caderno físico dedicado só à eletiva, ou uma seção separada do caderno da disciplina.

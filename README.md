@@ -12,6 +12,7 @@ Três regras valem para todas as 17 aulas, pensadas para uma turma que já sabe 
 - [`curso-startup-nation/plano-de-curso.md`](curso-startup-nation/plano-de-curso.md) — plano completo: justificativa, objetivos, metodologia, avaliação e bibliografia.
 - [`curso-startup-nation/aulas/`](curso-startup-nation/aulas/) — plano de aula detalhado das 17 aulas (roteiro minuto a minuto para os 90 min, com "Materiais de apoio" separados em fixo/desta aula, e produto de cada aula).
 - [`curso-startup-nation/ferramentas/`](curso-startup-nation/ferramentas/) — templates: Diário do Empreendedor (tarefa contínua), fichas informativas (sem celular), Mapa de Empatia, Canvas do Projeto Pessoal, Protótipo Rápido, Roteiro de Pitch e Rubrica de Avaliação.
+- [`curso-startup-nation/padronizacao/`](curso-startup-nation/padronizacao/) — especificação e ativos do padrão institucional do CIB (cabeçalho EF2, moldura de página, tipografia Montserrat) extraídos dos modelos oficiais do colégio, usados na geração de todo material impresso.
 
 ## Autor
 
