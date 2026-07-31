@@ -9,7 +9,7 @@ Reproduz o modelo de `CABEÇALHO EDITÁVEL EF2.docx`, repetido no topo de toda p
 1. **"Ensino Fundamental 2"** — negrito, alinhado à esquerda.
 2. **Logo do CIB** — recorte horizontal (ícone + "Colégio Israelita ישראלית", sem o slogan), alinhado no canto superior direito, mesma altura da linha do título.
 3. **"Aluno(a): ______________________________"** — linha em branco, largura total.
-4. **"Ano Escolar: ____ Turma: ____ Data: ____"** — os três campos na mesma linha. Quando a data da aula é conhecida (como no Diário do Empreendedor), o campo "Data" vem pré-preenchido; "Ano Escolar" e "Turma" ficam em branco para o professor/aluno completar.
+4. **"Ano Escolar: ____ Turma: ____ Data: ____"** — os três campos na mesma linha, todos em branco para o professor/aluno completar (nenhum campo vem pré-preenchido, já que as datas das aulas podem mudar ao longo do semestre).
 5. Linha fina horizontal fechando o bloco de cabeçalho.
 
 ## Moldura de página

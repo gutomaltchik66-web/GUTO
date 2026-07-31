@@ -58,90 +58,90 @@ LIGHTGREY = colors.HexColor("#EDEDED")
 
 PERGUNTA_2_FIXA = "O que eu aprendi na aula de hoje?"
 
-# Cada entrada: (n, data, tema, fonte, trecho, pergunta1_ligada_ao_trecho)
+# Cada entrada: (n, tema, fonte, trecho, pergunta1_ligada_ao_trecho)
 # Todas as citações são da Torá (Tanach, com foco nos 5 livros de Moshé).
 aulas = [
-    (1, "03/08", "Abertura: além do que você já sabe sobre Israel",
+    (1, "Abertura: além do que você já sabe sobre Israel",
      "Gênesis 12:1",
      "“Sai-te da tua terra, e da tua parentela, e da casa de teu pai, para a terra que eu te mostrarei.”",
-     "Abrão teve que partir para uma terra desconhecida, sem saber exatamente onde chegaria. O que você sente ao começar algo novo, sem saber onde vai dar?"),
+     "Avraham teve que partir para uma terra desconhecida, sem saber exatamente onde chegaria. O que você sente ao começar algo novo, sem saber onde vai dar?"),
 
-    (2, "10/08", "Raízes históricas, sob uma nova ótica",
+    (2, "Raízes históricas, sob uma nova ótica",
      "Êxodo 17:6",
      "“Eis que eu estarei ali diante de ti sobre a rocha em Horebe; e ferirás a rocha, e dela sairá água, para que o povo beba.”",
      "Moshé encontrou água onde parecia impossível, batendo numa pedra. Que “pedra” (obstáculo) você já viu virar solução, com a abordagem certa?"),
 
-    (3, "17/08", "Chutzpah: da palavra à atitude empreendedora",
+    (3, "Chutzpah: da palavra à atitude empreendedora",
      "Gênesis 18:23-25",
-     "“Destruirás também o justo com o ímpio? [...] Não fará justiça o Juiz de toda a terra?” — Abraão, questionando D'us sobre a destruição de Sodoma.",
-     "Abraão teve coragem de questionar até D'us, pedindo justiça. Você acha que questionar uma autoridade pode ser um ato de respeito, e não de desrespeito? Por quê?"),
+     "“Destruirás também o justo com o ímpio? [...] Não fará justiça o Juiz de toda a terra?” — Avraham, questionando D'us sobre a destruição de Sodoma.",
+     "Avraham teve coragem de questionar até D'us, pedindo justiça. Você acha que questionar uma autoridade pode ser um ato de respeito, e não de desrespeito? Por quê?"),
 
-    (4, "24/08", "Tolerância ao fracasso",
+    (4, "Tolerância ao fracasso",
      "Gênesis 32:25-29",
-     "“E Jacó ficou só; e lutava com ele um homem, até que a alva subia. [...] Não te chamarás mais Jacó, mas Israel; pois lutaste com D'us e com os homens, e prevaleceste.”",
-     "Jacó saiu machucado da luta, mas não desistiu até ser abençoado — e ganhou o nome Israel. Por que insistir mesmo “machucado” pode transformar quem você é?"),
+     "“E Iaácov ficou só; e lutava com ele um homem, até que a alva subia. [...] Não te chamarás mais Iaácov, mas Israel; pois lutaste com D'us e com os homens, e prevaleceste.”",
+     "Iaácov saiu machucado da luta, mas não desistiu até ser abençoado — e ganhou o nome Israel. Por que insistir mesmo “machucado” pode transformar quem você é?"),
 
-    (5, "31/08", "O papel do Estado e do Exército",
+    (5, "O papel do Estado e do Exército",
      "Êxodo 18:21",
      "“Procura dentre o povo homens capazes [...] e põe estes sobre eles por chefes de mil, chefes de cem, chefes de cinquenta e chefes de dez.”",
      "Jetro ajudou Moshé a organizar o povo em grupos, com líderes definidos. Por que até o maior líder precisa de uma boa estrutura/instituição ao seu redor?"),
 
-    (6, "14/09", "Estudos de caso: empresas que os alunos usam",
+    (6, "Estudos de caso: empresas que os alunos usam",
      "Números 13:17-18",
      "“Subi por aqui para a banda do sul, e subi à montanha; e vede a terra, que tal é.”",
      "Antes de agir, Moshé mandou espiar e estudar de perto a terra prometida. Por que observar de perto um exemplo real (como uma empresa) ajuda antes de criar algo novo?"),
 
-    (7, "28/09", "Tikun olam + lançamento do desafio final",
+    (7, "Tikun olam + lançamento do desafio final",
      "Êxodo 3:9-10",
      "“E agora, eis que o clamor dos filhos de Israel chegou a mim [...] Vem, pois, agora, e enviar-te-ei a Faraó, para que tires do Egito o meu povo.”",
      "D'us chamou Moshé para agir agora, sem esperar mais. Por que agora é um bom momento para você começar seu próprio projeto?"),
 
-    (8, "05/10", "Mapa de Empatia: entendendo o problema de verdade",
+    (8, "Mapa de Empatia: entendendo o problema de verdade",
      "Levítico 19:18",
      "“Não te vingarás, nem guardarás ira [...]; mas amarás o teu próximo como a ti mesmo.”",
      "Amar o próximo como a si mesmo pede que você se coloque de verdade no lugar do outro. Como isso se conecta com a empatia que você praticou hoje?"),
 
-    (9, "19/10", "Canvas do Projeto Pessoal: primeira ideia",
+    (9, "Canvas do Projeto Pessoal: primeira ideia",
      "Gênesis 1:27",
      "“E criou D'us o homem à sua imagem; à imagem de D'us o criou; homem e mulher os criou.”",
      "Se cada pessoa é única, criada à imagem de D'us, por que sua ideia — mesmo parecida com outras — também pode ser única?"),
 
-    (10, "26/10", "Protótipo: tirando a ideia do papel",
+    (10, "Protótipo: tirando a ideia do papel",
      "Êxodo 24:7",
      "“Tudo o que o Senhor tem dito faremos, e obedeceremos.”",
      "O povo disse “faremos” antes mesmo de entender tudo direito. Por que agir e testar pode ensinar mais do que só planejar?"),
 
-    (11, "09/11", "Roteiro de Pitch: contando minha ideia em 2 min",
+    (11, "Roteiro de Pitch: contando minha ideia em 2 min",
      "Êxodo 4:11-12",
      "“Quem fez a boca do homem? [...] Vai, pois, agora, e eu serei com a tua boca, e te ensinarei o que hás de falar.”",
      "Moshé tinha medo de não saber falar direito, e D'us prometeu as palavras certas. Como preparar bem o que vai dizer pode te dar mais confiança no pitch?"),
 
-    (12, "16/11", "Ensaio geral + ajustes finais",
+    (12, "Ensaio geral + ajustes finais",
      "Deuteronômio 6:6-7",
      "“E estas palavras [...] as intimarás a teus filhos, e delas falarás assentado em tua casa, e andando pelo caminho, e deitando-te, e levantando-te.”",
      "A Torá manda repetir e ensinar as palavras o tempo todo, em qualquer lugar. Por que repetir o pitch várias vezes muda como você o apresenta?"),
 
-    (13, "23/11", "PITCH DAY — Semana Avaliativa EF2",
+    (13, "PITCH DAY — Semana Avaliativa EF2",
      "Números 13:30",
      "“Subamos, subamos, e a possuiremos, pois totalmente poderemos com ela.” — Calebe",
      "Calebe disse isso mesmo com outros espiões com medo. De onde você tira coragem para apresentar hoje?"),
 
-    (14, "30/11", "Devolutivas + Feira de Ideias",
+    (14, "Devolutivas + Feira de Ideias",
      "Levítico 19:15",
      "“Não farás injustiça no juízo [...] com justiça julgarás o teu próximo.”",
      "A Torá pede para julgar com justiça, sem favorecer ninguém. Como isso ajuda a dar — e a receber — feedback de verdade hoje?"),
 
-    (15, "07/12", "E depois do pitch? Da ideia ao negócio de verdade",
+    (15, "E depois do pitch? Da ideia ao negócio de verdade",
      "Gênesis 2:15",
      "“E tomou o Senhor D'us o homem, e pô-lo no jardim do Éden para o lavrar e o guardar.”",
      "O primeiro trabalho do ser humano foi cuidar de um jardim que continuaria crescendo. Que “jardim” você estaria cultivando com essa ideia, mesmo sem ver todo o resultado agora?"),
 
-    (16, "14/12", "Banca de investidores (convidado ou simulação)",
+    (16, "Banca de investidores (convidado ou simulação)",
      "Êxodo 18:19",
      "“Ouve agora a minha voz, e aconselhar-te-ei, e D'us seja contigo.”",
      "Jetro ofereceu um conselho de fora, e Moshé ouviu. Por que ouvir perguntas difíceis de uma banca pode fortalecer sua ideia, em vez de enfraquecê-la?"),
 
-    (17, "21/12", "Encerramento do semestre",
+    (17, "Encerramento do semestre",
      "Deuteronômio 8:2",
      "“E te lembrarás de todo o caminho pelo qual o Senhor teu D'us te guiou [...] para saber o que estava no teu coração.”",
      "A Torá pede para lembrar todo o caminho percorrido, não só o destino final. Olhando para trás nas páginas deste diário, o que você aprendeu sobre você mesmo?"),
@@ -157,8 +157,10 @@ def page_frame():
     c.rect(BORDER_MARGIN, BORDER_MARGIN, PAGE_W - 2 * BORDER_MARGIN, PAGE_H - 2 * BORDER_MARGIN)
 
 
-def cib_header(data_aula):
-    """Replicates the official 'Cabeçalho Editável EF2' block."""
+def cib_header():
+    """Replicates the official 'Cabeçalho Editável EF2' block. O campo "Data"
+    fica em branco (não pré-preenchido), já que as datas das aulas podem
+    mudar ao longo do semestre."""
     x = CONTENT_MARGIN
     right = PAGE_W - CONTENT_MARGIN
     y = PAGE_H - BORDER_MARGIN - 11 * mm
@@ -182,13 +184,12 @@ def cib_header(data_aula):
     c.line(x + label_w, y - 1, right, y - 1)
 
     y -= 8 * mm
-    parts = [("Ano Escolar: ", "________"), ("   Turma: ", "________"), ("   Data: ", data_aula)]
+    parts = [("Ano Escolar: ", "________"), ("   Turma: ", "________"), ("   Data: ", "________")]
     cx = x
     for label, value in parts:
         c.setFont("Montserrat", 11)
         c.drawString(cx, y, label)
         cx += pdfmetrics.stringWidth(label, "Montserrat", 11)
-        c.setFont("Montserrat-Bold" if value != "________" else "Montserrat", 11)
         c.drawString(cx, y, value)
         cx += pdfmetrics.stringWidth(value, "Montserrat", 11)
 
@@ -323,11 +324,11 @@ def draw_citation_box(x, right, y, trecho, fonte):
     return box_bottom
 
 
-def draw_aula_page(n, data, tema, fonte, trecho, pergunta1):
+def draw_aula_page(n, tema, fonte, trecho, pergunta1):
     page_frame()
     x = CONTENT_MARGIN
     right = PAGE_W - CONTENT_MARGIN
-    y = cib_header(data)
+    y = cib_header()
 
     y -= 8 * mm
     c.setFont("Montserrat-Bold", 12)
@@ -335,7 +336,7 @@ def draw_aula_page(n, data, tema, fonte, trecho, pergunta1):
     c.drawString(x, y, f"Aula Nº {n}")
     aula_label_w = pdfmetrics.stringWidth(f"Aula Nº {n}   ", "Montserrat-Bold", 12)
     c.setFont("Montserrat-Italic", 12)
-    c.drawString(x + aula_label_w, y, tema)
+    c.drawString(x + aula_label_w, y, f"{tema}.")
 
     # --- Citação livre, centralizada e enquadrada (sem rótulo) ---
     y -= 10 * mm
@@ -413,8 +414,8 @@ def draw_cover():
 
 
 draw_cover()
-for n, data, tema, fonte, trecho, pergunta1 in aulas:
-    draw_aula_page(n, data, tema, fonte, trecho, pergunta1)
+for n, tema, fonte, trecho, pergunta1 in aulas:
+    draw_aula_page(n, tema, fonte, trecho, pergunta1)
 
 c.save()
 print("PDF gerado com sucesso")
