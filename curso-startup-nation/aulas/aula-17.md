@@ -8,16 +8,16 @@
 
 ## Roteiro (90 min)
 
-1. **Diário — Entrada (5 min)** — Pergunta do dia: *"Em uma frase, o que você sabia sobre empreendedorismo/Israel no primeiro dia de aula?"*
-2. **Linha do tempo do semestre (15 min)** — Em roda, o professor retoma rapidamente cada bloco: Fundamentos (chutzpah, fracasso, Estado/Exército), Ecossistema (estudos de caso, tikun olam), Meu Projeto (mapa de empatia, canvas, protótipo, pitch), Avaliação e Fechamento.
-3. **Revisita ao Mural e ao Baú (15 min)** — Alunos vão até o Mural das Ideias (post-it da Aula 1) e o Baú de Aprendizados (cartas da Aula 4) e recuperam o próprio material do início do semestre — comparar com onde o projeto chegou.
+1. **Diário — Trecho da Tradição Judaica + Questões do Dia (10 min)** — Os alunos leem no Diário o trecho de Salmos 90:12 (*"Ensina-nos a contar os nossos dias, de tal maneira que alcancemos coração sábio"*) e respondem as duas Questões do Dia — a ligada ao trecho (olhando para trás nas páginas do diário, o que aprenderam sobre si mesmos) e *"Em uma frase, o que você sabia sobre empreendedorismo/Israel no primeiro dia de aula?"* — além de atualizar "Minha ideia hoje" pela última vez. Texto completo em `ferramentas/diario-do-empreendedor.md`.
+2. **Linha do tempo do semestre (10 min)** — Em roda, o professor retoma rapidamente cada bloco: Fundamentos (chutzpah, fracasso, Estado/Exército), Ecossistema (estudos de caso, tikun olam), Meu Projeto (mapa de empatia, canvas, protótipo, pitch), Avaliação e Fechamento.
+3. **Revisita ao Mural, ao Baú e ao Diário (15 min)** — Alunos vão até o Mural das Ideias (post-it da Aula 1), o Baú de Aprendizados (cartas da Aula 4) e releem o próprio Diário do início ao fim — comparar com onde o projeto chegou.
 4. **Reflexão final escrita (30 min)** — Cada aluno escreve uma carta para si mesmo (formato livre, pode ser bilhete curto) respondendo: *O que eu sabia sobre empreendedorismo/Israel no início do semestre? O que eu sei agora? Qual valor da Startup Nation (chutzpah, tolerância ao fracasso, tikun olam) eu quero levar comigo? O que eu faria diferente se começasse esse projeto de novo?*
 5. **Compartilhamento voluntário (15 min)** — Quem quiser, lê um trecho da carta em voz alta. Sem obrigar ninguém.
-6. **Diário — Saída (5 min)** — Roda de agradecimento: cada aluno diz uma palavra que resume o semestre, além de preencher a ficha normalmente.
+6. **Roda de agradecimento (5 min)** — Cada aluno diz uma palavra que resume o semestre.
 7. **Encerramento formal (5 min)** — Fechar a eletiva agradecendo a turma.
 
 ## Produto da aula
-Carta final de reflexão — pode compor a nota de participação/processo do semestre, junto com a nota do Pitch Day (Aula 13) — + Diário — Saída.
+Diário do Empreendedor completo (17 páginas) + carta final de reflexão — pode compor a nota de participação/processo do semestre, junto com a nota do Pitch Day (Aula 13).
 
 ## Observação para o professor
 Guardar as cartas (com autorização dos alunos) — são um ótimo material para abrir a eletiva do próximo semestre, mostrando aos novos alunos o que turmas anteriores escreveram.

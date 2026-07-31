@@ -8,15 +8,14 @@
 
 ## Roteiro (90 min)
 
-1. **Diário — Entrada (5 min)** — Pergunta do dia: *"O que você sente quando erra alguma coisa na frente dos outros?"*
+1. **Diário — Trecho da Tradição Judaica + Questões do Dia (10 min)** — Os alunos leem no Diário o trecho de Provérbios 24:16 (*"Porque sete vezes cai o justo, e se levanta"*) e respondem as duas Questões do Dia — a ligada ao trecho (qual foi a última vez que "caíram" e se levantaram) e *"O que você sente quando erra alguma coisa na frente dos outros?"* — além de atualizar "Minha ideia hoje". Texto completo em `ferramentas/diario-do-empreendedor.md`.
 2. **Conceito (10 min)** — Explicar que, no ecossistema israelense, uma startup que fecha não é vista como vergonha, mas como aprendizado — investidores muitas vezes preferem apostar em quem já "quebrou a cara" uma vez.
 3. **Estudo de caso (10 min)** — Contar brevemente a história de fundadores que tentaram um primeiro negócio que não vingou antes de criar uma empresa de sucesso.
 4. **Atividade: "Carta do Fracasso" (40 min)** — Cada aluno escreve, em uma folha, uma carta curta contando um fracasso pessoal (um projeto, uma prova, uma tentativa que não deu certo) e o que aprendeu com ele — pode ser anônima. Depois, em grupos de 4, cada um lê sua carta em voz alta para o grupo (regra: ninguém ri, ninguém julga, só escuta). Fechar recolhendo as cartas no "Baú de Aprendizados", que fica guardado até o fim do semestre.
-5. **Rodada de adivinhação (15 min)** — Em pé, o professor lê (sem dizer o autor) 3–4 cartas em voz alta e a turma tenta adivinhar "que aprendizado ficou disso".
-6. **Diário — Saída (5 min)** — além do padrão, registrar: *"Um erro que já cometi me ensinou..."*
+5. **Rodada de adivinhação (20 min)** — Em pé, o professor lê (sem dizer o autor) 3–4 cartas em voz alta e a turma tenta adivinhar "que aprendizado ficou disso".
 
 ## Produto da aula
-Carta do Fracasso entregue + Diário — Saída com a frase de aprendizado.
+Diário do Empreendedor preenchido (com a reflexão sobre um erro que ensinou algo) + Carta do Fracasso entregue.
 
 ## Conexão com o projeto pessoal
 A frase ajuda a preencher a caixa "Maior risco e o que faço se acontecer" do Canvas (Aula 9) — os alunos já treinaram falar sobre risco/erro sem medo.

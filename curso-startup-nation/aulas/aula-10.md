@@ -8,16 +8,15 @@
 
 ## Roteiro (90 min)
 
-1. **Diário — Entrada (5 min)** — Pergunta do dia: *"Se você tivesse que mostrar sua ideia sem falar nenhuma palavra, como faria?"*
+1. **Diário — Trecho da Tradição Judaica + Questões do Dia (10 min)** — Os alunos leem no Diário o trecho de Pirkei Avot 1:17 (Shimon ben Gamliel: *"Não o estudo é o principal, mas a ação"*) e respondem as duas Questões do Dia — a ligada ao trecho (por que só pensar numa ideia não é suficiente) e *"Se você tivesse que mostrar sua ideia sem falar nenhuma palavra, como faria?"* — além de atualizar "Minha ideia hoje". Texto completo em `ferramentas/diario-do-empreendedor.md`.
 2. **Checagem (5 min)** — Rápida checagem: quem revisou o Canvas em casa (versão 2)?
 3. **Explicação do Protótipo Rápido (10 min)** — Apresentar os 5 formatos possíveis (desenho/storyboard, maquete, telas de app, encenação, cartaz) com exemplo rápido de cada um.
 4. **Escolha e planejamento (10 min)** — Cada aluno/dupla escolhe o formato e anota rapidamente o que vai construir.
-5. **Mão na massa (45 min)** — Tempo de construção do protótipo. Professor circula pela sala, provocando com perguntas ("como uma pessoa que nunca viu isso entenderia sozinha?"). Reforçar: rabiscado e feito vale mais que perfeito e não feito.
-6. **Rodada de "teste relâmpago" (10 min)** — Cada dupla mostra o protótipo para outra dupla (2 min cada) e pergunta: *"Você entendeu como isso funciona? O que ficou confuso?"* Anotar 1 aprendizado no template.
-7. **Diário — Saída (5 min)**.
+5. **Mão na massa (40 min)** — Tempo de construção do protótipo. Professor circula pela sala, provocando com perguntas ("como uma pessoa que nunca viu isso entenderia sozinha?"). Reforçar: rabiscado e feito vale mais que perfeito e não feito.
+6. **Rodada de "teste relâmpago" (15 min)** — Cada dupla mostra o protótipo para outra dupla (2 min cada) e pergunta: *"Você entendeu como isso funciona? O que ficou confuso?"* Anotar 1 aprendizado no template.
 
 ## Produto da aula
-Protótipo físico/desenhado + ficha de reflexão preenchida (`ferramentas/prototipo-rapido.md`) + Diário — Saída.
+Diário do Empreendedor preenchido + protótipo físico/desenhado + ficha de reflexão preenchida (`ferramentas/prototipo-rapido.md`).
 
 ## Conexão com o projeto pessoal
 O protótipo e o teste relâmpago geram material real para o "gancho" e a "solução" do Roteiro de Pitch (Aula 11).

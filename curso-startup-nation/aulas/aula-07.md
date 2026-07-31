@@ -8,16 +8,15 @@
 
 ## Roteiro (90 min)
 
-1. **Diário — Entrada (5 min)** — Pergunta do dia: *"Você prefere criar algo que dá lucro, ou algo que ajuda alguém, mesmo sem ganhar dinheiro com isso? Por quê?"*
+1. **Diário — Trecho da Tradição Judaica + Questões do Dia (10 min)** — Os alunos leem no Diário o trecho de Pirkei Avot 1:14 (Hillel: *"Se eu não for por mim, quem será por mim? [...] E se não agora, quando?"*) e respondem as duas Questões do Dia — a ligada ao trecho (por que agora é um bom momento para começar o próprio projeto) e *"Você prefere criar algo que dá lucro, ou algo que ajuda alguém, mesmo sem ganhar dinheiro com isso? Por quê?"* — além de atualizar "Minha ideia hoje". Texto completo em `ferramentas/diario-do-empreendedor.md`.
 2. **Tikun olam (10 min)** — Explicar o conceito: a ideia judaica de que cada pessoa tem o papel de "consertar" um pedaço do mundo. Conectar com startups israelenses de impacto social/ambiental (irrigação, dessalinização, saúde acessível).
-3. **Debate rápido em roda (10 min)** — Retomar a pergunta da Diário — Entrada em voz alta, colhendo opiniões variadas, sem fechar uma resposta certa.
-4. **Lançamento oficial do desafio final (20 min)** — Anunciar: *"Cada um de vocês (ou dupla) vai propor uma ideia própria de projeto/negócio — para resolver um problema da escola, da família, da comunidade ou do mundo — e vai apresentá-la no Pitch Day, dia 23/11, valendo nota (semana avaliativa das eletivas)."* Mostrar a Rubrica de Avaliação e explicar os 4 critérios.
+3. **Debate rápido em roda (10 min)** — Retomar a pergunta da Questão do Dia em voz alta, colhendo opiniões variadas, sem fechar uma resposta certa.
+4. **Lançamento oficial do desafio final (20 min)** — Anunciar: *"Cada um de vocês (ou dupla) vai propor uma ideia própria de projeto/negócio — para resolver um problema da escola, da família, da comunidade ou do mundo — e vai apresentá-la no Pitch Day, dia 23/11, valendo nota (semana avaliativa das eletivas)."* Retomar a frase de Hillel do Diário: "se não agora, quando?". Mostrar a Rubrica de Avaliação e explicar os 4 critérios.
 5. **Oficina "voltando ao Mural" (30 min)** — Cada aluno (ou dupla) vai até o Mural das Ideias e o Baú de Aprendizados, relê seu próprio post-it (Aula 1), a chevruta sobre "ideia ousada" (Aula 3) e sua Carta do Fracasso (Aula 4), e preenche uma ficha-síntese: *"O problema que eu quero resolver é... Por que esse problema me importa..."* Professor circula pela sala ajudando quem travar.
 6. **Compartilhamento em grupo pequeno (10 min)** — Cada aluno lê em voz alta, para o grupo pequeno (4 pessoas), sua ficha-síntese, recebendo 1 pergunta de curiosidade de um colega.
-7. **Diário — Saída (5 min)**.
 
 ## Produto da aula
-Ficha-síntese "problema que eu quero resolver + por que me importa", pronta para virar Mapa de Empatia na Aula 8.
+Diário do Empreendedor preenchido + ficha-síntese "problema que eu quero resolver + por que me importa", pronta para virar Mapa de Empatia na Aula 8.
 
 ## Conexão com o projeto pessoal
 Esta é a aula-ponte: fecha o bloco de conteúdo/cultura (Aulas 1–7) e abre o bloco prático "Meu Projeto" (Aulas 8–13).
