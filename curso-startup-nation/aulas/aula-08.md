@@ -16,7 +16,7 @@ Definir se o projeto será individual ou em duplas/trios (recomendação: duplas
 3. **Trabalho prático: preenchendo o mapa (35 min)** — Cada aluno/dupla escolhe a pessoa real e preenche as 6 caixas. Quem terminar rápido faz um segundo mapa de outra pessoa, para comparar pontos de vista.
 4. **Entrevista relâmpago, se possível (15 min)** — Sempre que der (ex: a "pessoa real" for um colega de outra dupla presente na sala), fazer uma entrevista de verdade de 3 min para completar o mapa com respostas reais, não só suposições.
 5. **Fechamento em grupo (15 min)** — Em grupos de 4, cada aluno/dupla lê a linha "dores" para os colegas — é normalmente ali que a ideia de negócio fica mais clara. Colher 1 comentário de cada grupo.
-6. **Diário — Citação + "O que eu aprendi hoje?" (10 min)** — Para fechar, os alunos leem no Diário a citação do Talmud, Shabat 31a (Hillel: *"O que é odioso para ti, não faças ao teu próximo — essa é toda a Torá"*) e respondem a pergunta padrão *"O que eu aprendi na aula de hoje?"*, além de atualizar "Minha ideia hoje". Texto completo em `ferramentas/diario-do-empreendedor.md`.
+6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos leem no Diário a citação de Levítico 19:18 (*"Amarás o teu próximo como a ti mesmo"*) e respondem 1) a pergunta ligada ao trecho (como isso se conecta com a empatia praticada hoje) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
 
 ## Produto da aula
 Diário do Empreendedor preenchido + Mapa de Empatia preenchido (uma pessoa real, no mínimo).

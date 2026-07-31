@@ -13,7 +13,7 @@
 3. **Explicação do Canvas (10 min)** — Apresentar as 8 caixas com um exemplo rápido no quadro (pode reaproveitar uma empresa da Aula 6).
 4. **Trabalho prático: preenchendo o Canvas (35 min)** — Cada aluno/dupla preenche as 8 caixas com a ideia escolhida. Professor circula pela sala, sentando 2–3 min com cada grupo para desafiar com perguntas ("isso é mesmo um problema real?", "quem compraria/usaria isso?").
 5. **Troca entre pares (15 min)** — Cada aluno/dupla troca o Canvas com outra dupla por 5 min: o colega lê e escreve, em um post-it colado no Canvas, 1 pergunta e 1 elogio. Devolver.
-6. **Diário — Citação + "O que eu aprendi hoje?" (10 min)** — Para fechar, os alunos leem no Diário a citação da Mishná, Sanhedrin 4:5 (sobre moedas cunhadas com o mesmo selo, mas cada pessoa única) e respondem a pergunta padrão *"O que eu aprendi na aula de hoje?"*, além de atualizar "Minha ideia hoje". Texto completo em `ferramentas/diario-do-empreendedor.md`.
+6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos leem no Diário a citação de Gênesis 1:27 (*"E criou D'us o homem à sua imagem..."*) e respondem 1) a pergunta ligada ao trecho (por que sua ideia, mesmo parecida com outras, pode ser única) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
 
 ## Produto da aula
 Diário do Empreendedor preenchido + primeira versão completa do Canvas do Projeto Pessoal, com post-it de feedback de um colega.

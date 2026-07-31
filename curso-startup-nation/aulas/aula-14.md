@@ -8,12 +8,12 @@
 
 ## Roteiro (90 min)
 
-1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Pirkei Avot 1:6 (Yehoshua ben Perachyah): *"Julga toda pessoa favoravelmente."* Provocar: hoje é dia de dar e receber feedback — vale para os dois lados.
+1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Levítico 19:15: *"Com justiça julgarás o teu próximo."* Provocar: hoje é dia de dar e receber feedback — vale para os dois lados.
 2. **Devolutiva individual (10 min)** — Devolver a ficha de rubrica de cada aluno/dupla, com nota e comentário. Dar 5 min para leitura silenciosa e reação.
 3. **Roda de leitura de devolutivas (15 min)** — Em grupos de 4, cada aluno lê para os colegas 1 elogio e 1 sugestão que recebeu, sem constrangimento — normalizar que toda apresentação tem pontos a melhorar.
 4. **Montagem da Feira de Ideias (15 min)** — Cada aluno/dupla organiza uma "banquinha" com o protótipo e um cartaz resumo do projeto (problema + solução + 1 frase de impacto), no formato de feira de ciências.
 5. **Feira aberta (25 min)** — Convidar outra turma, a coordenação ou os pais (se houver combinação prévia) para circular pela feira; alunos explicam seus projetos a quem passa.
-6. **Diário — Citação + "O que eu aprendi hoje?" (10 min)** — Para fechar, os alunos releem no Diário a citação de Pirkei Avot 1:6 e respondem a pergunta padrão *"O que eu aprendi na aula de hoje?"*, além de atualizar "Minha ideia hoje". Texto completo em `ferramentas/diario-do-empreendedor.md`.
+6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos releem no Diário a citação de Levítico 19:15 e respondem 1) a pergunta ligada ao trecho (como julgar com justiça ajuda a dar e receber feedback de verdade) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
 
 ## Produto da aula
 Diário do Empreendedor preenchido + banquinha montada + participação ativa na feira.

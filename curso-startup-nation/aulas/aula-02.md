@@ -13,7 +13,7 @@
 3. **Estudo de caso: irrigação por gotejamento (10 min)** — Fechar contando a história da invenção da irrigação por gotejamento a partir da escassez de água — hoje usada em plantações no mundo inteiro, inclusive no Brasil.
 4. **Atividade prática: "meu problema de escassez" (25 min)** — Em duplas, cada aluno entrevista o colega por 5 min: *"Você já teve que resolver algo porque faltava dinheiro, tempo ou material?"* Depois trocam e o outro entrevista. Cada dupla escreve em uma ficha as duas histórias e escolhe a mais interessante para contar em 1 frase para a turma (rodada rápida, sem enrolar).
 5. **Síntese (5 min)** — Registrar a frase-chave no caderno: **necessidade + criatividade = inovação**.
-6. **Diário — Citação + "O que eu aprendi hoje?" (10 min)** — Para fechar, os alunos leem no Diário a citação de Isaías 35:1 (*"O deserto e o lugar solitário se alegrarão..."*) e respondem a pergunta padrão *"O que eu aprendi na aula de hoje?"*, além de atualizar "Minha ideia hoje". Texto completo em `ferramentas/diario-do-empreendedor.md`.
+6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos leem no Diário a citação de Êxodo 17:6 (*"Ferirás a rocha, e dela sairá água..."*) e respondem 1) a pergunta ligada ao trecho (que "pedra"/obstáculo já viram virar solução) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
 
 ## Produto da aula
 Diário do Empreendedor preenchido + cartaz da linha do tempo com raciocínio próprio (mural coletivo) + ficha de entrevista em dupla.

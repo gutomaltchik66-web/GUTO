@@ -19,7 +19,7 @@ Israel é o país com mais startups per capita do mundo — surge, em média, um
 Adequado à faixa etária de 13–15 anos: contextos curtos, muito estudo de caso concreto (empresas e produtos que os alunos já usam — Waze, ICQ, Wix), trabalho em grupo e um produto final tangível (pitch de uma ideia própria). Como os alunos de uma escola judaica já chegam com base de história e cultura de Israel, e a turma é agitada, quatro regras valem para as 17 aulas:
 
 1. **Sem repetir o básico** — as Aulas 1 a 3 partem do que os alunos já sabem (história, kibutz, chutzpah como palavra) e vão direto ao ângulo novo: o lado de tecnologia/empreendedorismo. Nenhum cartão ou atividade reexplica o que já foi visto em Cultura Judaica/História — o que já é sabido vira ponto de partida para análise, não conteúdo a reapresentar.
-2. **Tarefa contínua em toda aula** — todas fecham com o Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`), o mesmo caderno preenchido do início ao fim do semestre: uma citação livre de fonte judaica diferente por aula (centralizada, sem rótulo), a pergunta padrão "O que eu aprendi na aula de hoje?" e a linha contínua "Minha ideia hoje" — sempre no mesmo formato, para reduzir a bagunça no fechamento da aula e mostrar a evolução da própria ideia aula a aula.
+2. **Tarefa contínua em toda aula** — todas fecham com o Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`), o mesmo caderno preenchido do início ao fim do semestre: uma citação livre da Torá diferente por aula (centralizada, sem rótulo), uma pergunta ligada ao trecho e a pergunta fixa "O que eu aprendi na aula de hoje?" — sempre no mesmo formato, para reduzir a bagunça no fechamento da aula.
 3. **Sem celular** — nenhuma atividade depende de celular do aluno. Pesquisas usam fichas informativas já preparadas pelo professor (`ferramentas/fichas-*.md`); quando a sala de informática está disponível em alguma semana, isso é indicado como opcional no plano daquela aula.
 4. **Maior parte dos 90 minutos é atividade prática com produto entregável** — nunca exposição contínua.
 
@@ -63,7 +63,7 @@ Calendário com as 17 datas reais do semestre (segundas-feiras letivas) em [`cal
 Templates prontos para imprimir/copiar em [`ferramentas/`](ferramentas/):
 
 **Tarefa contínua de toda aula**
-- [`ferramentas/diario-do-empreendedor.md`](ferramentas/diario-do-empreendedor.md) — caderno único com uma citação de fonte judaica por aula, a pergunta padrão "O que eu aprendi hoje?" e "Minha ideia hoje", preenchido nas 17 aulas
+- [`ferramentas/diario-do-empreendedor.md`](ferramentas/diario-do-empreendedor.md) — caderno único com uma citação da Torá por aula, uma pergunta ligada ao trecho e a pergunta fixa "O que eu aprendi hoje?", preenchido nas 17 aulas
 
 **Fichas informativas (substituem pesquisa por celular, sem repetir o que já é sabido)**
 - [`ferramentas/fichas-produtos-israelenses.md`](ferramentas/fichas-produtos-israelenses.md) — 8 empresas israelenses + 2 pegadinhas, usado nas Aulas 1, 3 e 6
@@ -80,7 +80,7 @@ Templates prontos para imprimir/copiar em [`ferramentas/`](ferramentas/):
 ## 4. Metodologia
 
 - **Sem repetir conteúdo já visto:** as Aulas 1–3 (Fundamentos) partem do que os alunos já sabem sobre Israel e vão direto ao ângulo de tecnologia/empreendedorismo — diagnóstico rápido do que já é sabido, depois aprofundamento no que é novo.
-- **Diário do Empreendedor idêntico em toda aula (10 min, no fechamento):** leitura/releitura de uma citação de fonte judaica diferente a cada aula, resposta individual e silenciosa à pergunta padrão "O que eu aprendi na aula de hoje?" e atualização de "Minha ideia hoje" — ver `ferramentas/diario-do-empreendedor.md`. É a tarefa contínua que a turma repete nas 17 aulas, dando um fechamento de foco individual depois das atividades em grupo e conectando, toda vez, a tradição judaica ao conteúdo de empreendedorismo do dia.
+- **Diário do Empreendedor idêntico em toda aula (10 min, no fechamento):** leitura/releitura de uma citação da Torá diferente a cada aula, resposta individual e silenciosa a duas perguntas — uma ligada ao trecho, outra fixa ("O que eu aprendi na aula de hoje?") — ver `ferramentas/diario-do-empreendedor.md`. É a tarefa contínua que a turma repete nas 17 aulas, dando um fechamento de foco individual depois das atividades em grupo e conectando, toda vez, a tradição judaica ao conteúdo de empreendedorismo do dia.
 - **Sem celular em nenhuma atividade:** pesquisas usam fichas informativas já preparadas pelo professor. Em semanas com sala de informática disponível (indicado no plano da aula), o computador pode ser usado como aprofundamento opcional.
 - Aulas expositivo-dialogadas curtas (máx. 15–20 min) intercaladas com atividades em grupo — em cada uma das 17 aulas, a maior parte dos 90 min é tempo de mão na massa, com produto entregue ao final (cartaz, ficha, canvas, protótipo, ensaio).
 - Dinâmicas em pé, rodízio de duplas e murais coletivos (Mural das Ideias, Baú de Aprendizados) para manter a turma engajada e em movimento.

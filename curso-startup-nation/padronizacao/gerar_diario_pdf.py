@@ -4,11 +4,12 @@ Diário do Empreendedor — cabeçalho padrão CIB (Ensino Fundamental 2),
 replicando o modelo oficial extraído de CABEÇALHO EDITÁVEL EF2.docx e o
 enquadramento de página (borda) extraído de PAUTA PEQUENA.pdf.
 
-Cada página traz uma citação livre de fonte judaica diferente (Torá,
-Neviim, Ketuvim, Mishná/Pirkei Avot ou Talmud), centralizada e
-enquadrada, seguida de uma pergunta padrão ("O que eu aprendi na aula
-de hoje?") e da linha contínua "Minha ideia hoje". A capa traz o
-título, o escudo do colégio e uma caixa grande para o aluno desenhar.
+Cada página traz uma citação livre da Torá (Tanach, foco nos 5 livros
+de Moisés), centralizada e enquadrada, seguida de duas perguntas: a
+Pergunta 1 é sempre ligada ao trecho (diferente em cada aula) e a
+Pergunta 2 é fixa em todas as 17 páginas: "O que eu aprendi na aula de
+hoje?". A capa traz o título, o escudo do colégio e uma caixa grande
+em branco para o aluno desenhar.
 """
 import os
 from reportlab.lib.pagesizes import A4
@@ -43,77 +44,95 @@ BLACK = colors.black
 GREY = colors.HexColor("#8C8C8C")
 LIGHTGREY = colors.HexColor("#EDEDED")
 
-PERGUNTA_PADRAO = "O que eu aprendi na aula de hoje?"
+PERGUNTA_2_FIXA = "O que eu aprendi na aula de hoje?"
 
-# Cada entrada: (n, data, tema, fonte, trecho)
+# Cada entrada: (n, data, tema, fonte, trecho, pergunta1_ligada_ao_trecho)
+# Todas as citações são da Torá (Tanach, com foco nos 5 livros de Moisés).
 aulas = [
     (1, "03/08", "Abertura: além do que você já sabe sobre Israel",
-     "Pirkei Avot 2:21 (Rabi Tarfon)",
-     "“Não te cabe completar a tarefa, mas também não estás livre para dela te eximir.”"),
+     "Gênesis 12:1",
+     "“Sai-te da tua terra, e da tua parentela, e da casa de teu pai, para a terra que eu te mostrarei.”",
+     "Abrão teve que partir para uma terra desconhecida, sem saber exatamente onde chegaria. O que você sente ao começar algo novo, sem saber onde vai dar?"),
 
     (2, "10/08", "Raízes históricas, sob uma nova ótica",
-     "Isaías 35:1",
-     "“O deserto e o lugar solitário se alegrarão; e o ermo exultará e florescerá como a rosa.”"),
+     "Êxodo 17:6",
+     "“Eis que eu estarei ali diante de ti sobre a rocha em Horebe; e ferirás a rocha, e dela sairá água, para que o povo beba.”",
+     "Moisés encontrou água onde parecia impossível, batendo numa pedra. Que “pedra” (obstáculo) você já viu virar solução, com a abordagem certa?"),
 
     (3, "17/08", "Chutzpah: da palavra à atitude empreendedora",
      "Gênesis 18:23-25",
-     "“Não farás isso... Não fará justiça o Juiz de toda a terra?” — Abraão, questionando D'us sobre a destruição de Sodoma."),
+     "“Destruirás também o justo com o ímpio? [...] Não fará justiça o Juiz de toda a terra?” — Abraão, questionando D'us sobre a destruição de Sodoma.",
+     "Abraão teve coragem de questionar até D'us, pedindo justiça. Você acha que questionar uma autoridade pode ser um ato de respeito, e não de desrespeito? Por quê?"),
 
     (4, "24/08", "Tolerância ao fracasso",
-     "Provérbios 24:16",
-     "“Porque sete vezes cai o justo, e se levanta.”"),
+     "Gênesis 32:25-29",
+     "“E Jacó ficou só; e lutava com ele um homem, até que a alva subia. [...] Não te chamarás mais Jacó, mas Israel; pois lutaste com D'us e com os homens, e prevaleceste.”",
+     "Jacó saiu machucado da luta, mas não desistiu até ser abençoado — e ganhou o nome Israel. Por que insistir mesmo “machucado” pode transformar quem você é?"),
 
     (5, "31/08", "O papel do Estado e do Exército",
-     "Pirkei Avot 3:2 (Rabi Chanina)",
-     "“Reza pelo bem-estar do governo, pois sem o temor a ele, um homem engoliria vivo o seu próximo.”"),
+     "Êxodo 18:21",
+     "“Procura dentre o povo homens capazes [...] e põe estes sobre eles por chefes de mil, chefes de cem, chefes de cinquenta e chefes de dez.”",
+     "Jetro ajudou Moisés a organizar o povo em grupos, com líderes definidos. Por que até o maior líder precisa de uma boa estrutura/instituição ao seu redor?"),
 
     (6, "14/09", "Estudos de caso: empresas que os alunos usam",
-     "Pirkei Avot 4:1 (Ben Zoma)",
-     "“Quem é sábio? Aquele que aprende com todo homem.”"),
+     "Números 13:17-18",
+     "“Subi por aqui para a banda do sul, e subi à montanha; e vede a terra, que tal é.”",
+     "Antes de agir, Moisés mandou espiar e estudar de perto a terra prometida. Por que observar de perto um exemplo real (como uma empresa) ajuda antes de criar algo novo?"),
 
     (7, "28/09", "Tikun olam + lançamento do desafio final",
-     "Pirkei Avot 1:14 (Hillel)",
-     "“Se eu não for por mim, quem será por mim? E quando eu for só por mim, o que sou eu? E se não agora, quando?”"),
+     "Êxodo 3:9-10",
+     "“E agora, eis que o clamor dos filhos de Israel chegou a mim [...] Vem, pois, agora, e enviar-te-ei a Faraó, para que tires do Egito o meu povo.”",
+     "D'us chamou Moisés para agir agora, sem esperar mais. Por que agora é um bom momento para você começar seu próprio projeto?"),
 
     (8, "05/10", "Mapa de Empatia: entendendo o problema de verdade",
-     "Talmud, Shabat 31a (Hillel)",
-     "“O que é odioso para ti, não faças ao teu próximo — essa é toda a Torá; o resto é comentário.”"),
+     "Levítico 19:18",
+     "“Não te vingarás, nem guardarás ira [...]; mas amarás o teu próximo como a ti mesmo.”",
+     "Amar o próximo como a si mesmo pede que você se coloque de verdade no lugar do outro. Como isso se conecta com a empatia que você praticou hoje?"),
 
     (9, "19/10", "Canvas do Projeto Pessoal: primeira ideia",
-     "Mishná, Sanhedrin 4:5",
-     "“Um homem cunha muitas moedas com o mesmo selo, e todas são iguais entre si; mas o Rei dos reis cunhou todo ser humano com o selo de Adão, e nenhum se parece com outro.”"),
+     "Gênesis 1:27",
+     "“E criou D'us o homem à sua imagem; à imagem de D'us o criou; homem e mulher os criou.”",
+     "Se cada pessoa é única, criada à imagem de D'us, por que sua ideia — mesmo parecida com outras — também pode ser única?"),
 
     (10, "26/10", "Protótipo: tirando a ideia do papel",
-     "Pirkei Avot 1:17 (Shimon ben Gamliel)",
-     "“Não o estudo é o principal, mas a ação.”"),
+     "Êxodo 24:7",
+     "“Tudo o que o Senhor tem dito faremos, e obedeceremos.”",
+     "O povo disse “faremos” antes mesmo de entender tudo direito. Por que agir e testar pode ensinar mais do que só planejar?"),
 
     (11, "09/11", "Roteiro de Pitch: contando minha ideia em 2 min",
-     "Provérbios 18:21",
-     "“A morte e a vida estão no poder da língua.”"),
+     "Êxodo 4:11-12",
+     "“Quem fez a boca do homem? [...] Vai, pois, agora, e eu serei com a tua boca, e te ensinarei o que hás de falar.”",
+     "Moisés tinha medo de não saber falar direito, e D'us prometeu as palavras certas. Como preparar bem o que vai dizer pode te dar mais confiança no pitch?"),
 
     (12, "16/11", "Ensaio geral + ajustes finais",
-     "Talmud, Chagigá 9b",
-     "“Aquele que repete seu estudo cem vezes não se compara ao que o repete cento e uma vezes.”"),
+     "Deuteronômio 6:6-7",
+     "“E estas palavras [...] as intimarás a teus filhos, e delas falarás assentado em tua casa, e andando pelo caminho, e deitando-te, e levantando-te.”",
+     "A Torá manda repetir e ensinar as palavras o tempo todo, em qualquer lugar. Por que repetir o pitch várias vezes muda como você o apresenta?"),
 
     (13, "23/11", "PITCH DAY — Semana Avaliativa EF2",
-     "Números 13:30 (Calebe)",
-     "“Subamos, subamos, e a possuiremos, pois totalmente poderemos com ela.”"),
+     "Números 13:30",
+     "“Subamos, subamos, e a possuiremos, pois totalmente poderemos com ela.” — Calebe",
+     "Calebe disse isso mesmo com outros espiões com medo. De onde você tira coragem para apresentar hoje?"),
 
     (14, "30/11", "Devolutivas + Feira de Ideias",
-     "Pirkei Avot 1:6 (Yehoshua ben Perachyah)",
-     "“Julga toda pessoa favoravelmente.”"),
+     "Levítico 19:15",
+     "“Não farás injustiça no juízo [...] com justiça julgarás o teu próximo.”",
+     "A Torá pede para julgar com justiça, sem favorecer ninguém. Como isso ajuda a dar — e a receber — feedback de verdade hoje?"),
 
     (15, "07/12", "E depois do pitch? Da ideia ao negócio de verdade",
-     "Talmud, Taanit 23a (Choni e a alfarrobeira)",
-     "Um homem plantava uma alfarrobeira sabendo que não veria seus frutos: “Assim como meus antepassados plantaram para mim, eu planto para meus filhos.”"),
+     "Gênesis 2:15",
+     "“E tomou o Senhor D'us o homem, e pô-lo no jardim do Éden para o lavrar e o guardar.”",
+     "O primeiro trabalho do ser humano foi cuidar de um jardim que continuaria crescendo. Que “jardim” você estaria cultivando com essa ideia, mesmo sem ver todo o resultado agora?"),
 
     (16, "14/12", "Banca de investidores (convidado ou simulação)",
-     "Provérbios 15:22",
-     "“Onde não há conselho, os projetos se frustram; mas com muitos conselheiros se confirmam.”"),
+     "Êxodo 18:19",
+     "“Ouve agora a minha voz, e aconselhar-te-ei, e D'us seja contigo.”",
+     "Jetro ofereceu um conselho de fora, e Moisés ouviu. Por que ouvir perguntas difíceis de uma banca pode fortalecer sua ideia, em vez de enfraquecê-la?"),
 
     (17, "21/12", "Encerramento do semestre",
-     "Salmos 90:12",
-     "“Ensina-nos a contar os nossos dias, de tal maneira que alcancemos coração sábio.”"),
+     "Deuteronômio 8:2",
+     "“E te lembrarás de todo o caminho pelo qual o Senhor teu D'us te guiou [...] para saber o que estava no teu coração.”",
+     "A Torá pede para lembrar todo o caminho percorrido, não só o destino final. Olhando para trás nas páginas deste diário, o que você aprendeu sobre você mesmo?"),
 ]
 
 c = canvas.Canvas("Diario do Empreendedor - Caderno do Aluno.pdf", pagesize=A4)
@@ -167,15 +186,6 @@ def cib_header(data_aula):
     return y
 
 
-def section_label(x, right, y, text):
-    c.setFillColor(LIGHTGREY)
-    c.rect(x, y - 6 * mm, right - x, 6 * mm, stroke=0, fill=1)
-    c.setFillColor(BLACK)
-    c.setFont("Montserrat-Bold", 10)
-    c.drawString(x + 2 * mm, y - 4.3 * mm, text)
-    return y - 6 * mm
-
-
 def writing_line(x, right, y):
     c.setStrokeColor(GREY)
     c.setLineWidth(0.6)
@@ -197,6 +207,14 @@ def wrap_text(text, font, size, max_w):
     if line:
         lines.append(line)
     return lines
+
+
+def draw_wrapped(x, right, y, text, font, size, leading_mm):
+    for ln in wrap_text(text, font, size, right - x):
+        c.setFont(font, size)
+        c.drawString(x, y, ln)
+        y -= leading_mm * mm
+    return y
 
 
 def draw_citation_box(x, right, y, trecho, fonte):
@@ -231,7 +249,7 @@ def draw_citation_box(x, right, y, trecho, fonte):
     return box_bottom
 
 
-def draw_aula_page(n, data, tema, fonte, trecho):
+def draw_aula_page(n, data, tema, fonte, trecho, pergunta1):
     page_frame()
     x = CONTENT_MARGIN
     right = PAGE_W - CONTENT_MARGIN
@@ -249,21 +267,25 @@ def draw_aula_page(n, data, tema, fonte, trecho):
     y -= 10 * mm
     y = draw_citation_box(x, right, y, trecho, fonte)
 
-    # --- Pergunta padrão do dia ---
-    y -= 10 * mm
+    # --- Pergunta 1 (ligada ao trecho) ---
+    y -= 9 * mm
     c.setFont("Montserrat-Bold", 11)
     c.setFillColor(BLACK)
-    c.drawString(x, y, PERGUNTA_PADRAO)
+    c.drawString(x, y, "1)")
+    y -= 6 * mm
+    y = draw_wrapped(x, right, y, pergunta1, "Montserrat-Italic", 10.5, 5.2)
+    y -= 1 * mm
+    y = writing_line(x, right, y); y -= 8 * mm
+    y = writing_line(x, right, y); y -= 8 * mm
+
+    # --- Pergunta 2 (fixa) ---
+    y -= 2 * mm
+    c.setFont("Montserrat-Bold", 11)
+    c.setFillColor(BLACK)
+    c.drawString(x, y, f"2) {PERGUNTA_2_FIXA}")
     y -= 8 * mm
     for _ in range(4):
         y = writing_line(x, right, y); y -= 8 * mm
-
-    # --- Minha Ideia Hoje ---
-    y -= 2 * mm
-    y = section_label(x, right, y, "MINHA IDEIA HOJE  —  uma frase, mesmo que ainda não tenha certeza")
-    y -= 8 * mm
-    y = writing_line(x, right, y); y -= 8 * mm
-    y = writing_line(x, right, y)
 
     c.showPage()
 
@@ -309,11 +331,8 @@ def draw_cover():
     c.setFont("Montserrat-Italic", 13)
     c.drawCentredString(PAGE_W / 2, y, "Eletiva Start Up Nation — Colégio Israelita Brasileiro")
 
-    # Caixa grande para desenhar
+    # Caixa grande em branco (sem legenda)
     y -= 12 * mm
-    c.setFont("Montserrat-Bold", 11)
-    c.drawCentredString(PAGE_W / 2, y, "Desenhe aqui a sua ideia (ou o que você quiser!)")
-    y -= 6 * mm
     box_top = y
     box_bottom = BORDER_MARGIN + 8 * mm
     c.setStrokeColor(BLACK)
@@ -324,8 +343,8 @@ def draw_cover():
 
 
 draw_cover()
-for n, data, tema, fonte, trecho in aulas:
-    draw_aula_page(n, data, tema, fonte, trecho)
+for n, data, tema, fonte, trecho, pergunta1 in aulas:
+    draw_aula_page(n, data, tema, fonte, trecho, pergunta1)
 
 c.save()
 print("PDF gerado com sucesso")
