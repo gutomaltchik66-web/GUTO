@@ -145,7 +145,7 @@ HTML = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Jogo dos 10 Cartões — Aula 1 — Start Up Nation</title>
+<title>Jogo dos 10 Cartões — Aula 1 — StartUp Nation</title>
 <style>
 @font-face {
   font-family: "Montserrat";
@@ -522,7 +522,7 @@ footer {
 <header class="masthead">
   <div class="masthead-inner">
     <div class="masthead-meta">
-      <span class="eyebrow">Ensino Fundamental 2 · Eletiva Start Up Nation · Aula 1</span>
+      <span class="eyebrow">Ensino Fundamental 2 · Eletiva StartUp Nation · Aula 1</span>
       <h1>Jogo dos 10 Cartões</h1>
     </div>
     <div class="status">

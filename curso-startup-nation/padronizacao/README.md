@@ -1,6 +1,6 @@
 # Padronização de materiais didáticos — CIB
 
-Especificação extraída dos modelos oficiais do Colégio Israelita Brasileiro (recebidos por e-mail): `PAUTA_PEQUENA.pdf`, `FOLHATIMBRADA.docx` e `CABEÇALHO EDITÁVEL EF2.docx`. Todo material didático produzido para a eletiva Start Up Nation segue este padrão.
+Especificação extraída dos modelos oficiais do Colégio Israelita Brasileiro (recebidos por e-mail): `PAUTA_PEQUENA.pdf`, `FOLHATIMBRADA.docx` e `CABEÇALHO EDITÁVEL EF2.docx`. Todo material didático produzido para a eletiva StartUp Nation segue este padrão.
 
 ## Cabeçalho obrigatório — Ensino Fundamental 2
 

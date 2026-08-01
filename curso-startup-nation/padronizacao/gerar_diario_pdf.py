@@ -346,8 +346,8 @@ def draw_aula_page(n, tema, fonte, trecho, pergunta1):
     y -= 9 * mm
     y = draw_numbered_question(x, right, y, 1, pergunta1)
     y -= 1 * mm
-    y = writing_line(x, right, y); y -= 8 * mm
-    y = writing_line(x, right, y); y -= 8 * mm
+    for _ in range(5):
+        y = writing_line(x, right, y); y -= 8 * mm
 
     # --- Pergunta 2 (fixa) ---
     y -= 2 * mm
@@ -355,7 +355,7 @@ def draw_aula_page(n, tema, fonte, trecho, pergunta1):
     c.setFillColor(BLACK)
     c.drawString(x, y, f"2) {PERGUNTA_2_FIXA}")
     y -= 8 * mm
-    for _ in range(4):
+    for _ in range(5):
         y = writing_line(x, right, y); y -= 8 * mm
 
     c.showPage()
@@ -400,7 +400,7 @@ def draw_cover():
     c.drawCentredString(PAGE_W / 2, y, "Diário do Empreendedor")
     y -= 9 * mm
     c.setFont("Montserrat-Italic", 13)
-    c.drawCentredString(PAGE_W / 2, y, "Eletiva Start Up Nation — Colégio Israelita Brasileiro")
+    c.drawCentredString(PAGE_W / 2, y, "Eletiva StartUp Nation — Colégio Israelita Brasileiro")
 
     # Caixa grande em branco (sem legenda)
     y -= 12 * mm

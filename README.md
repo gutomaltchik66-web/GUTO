@@ -1,6 +1,6 @@
-# Start Up Nation — CIB
+# StartUp Nation — CIB
 
-Material didático completo da eletiva **"Start Up Nation"** do **Colégio Israelita Brasileiro** (Porto Alegre), que une empreendedorismo e judaísmo, voltada às turmas de **8º e 9º ano (EF2)**.
+Material didático completo da eletiva **"StartUp Nation"** do **Colégio Israelita Brasileiro** (Porto Alegre), que une empreendedorismo e judaísmo, voltada às turmas de **8º e 9º ano (EF2)**.
 
 Aulas às segundas-feiras, 14h–15h30, ao longo de 17 datas letivas do semestre. O trabalho final é a apresentação, por cada aluno/dupla, de um projeto pessoal de empreendedorismo no Pitch Day (23/11, semana avaliativa das eletivas EF2) — este material fornece o conteúdo e as ferramentas para chegar lá.
 
@@ -16,4 +16,4 @@ Três regras valem para todas as 17 aulas, pensadas para uma turma que já sabe 
 
 ## Autor
 
-Prof. Augusto ("Guto") Maltchik — Eletiva Start Up Nation, CIB.
+Prof. Augusto ("Guto") Maltchik — Eletiva StartUp Nation, CIB.

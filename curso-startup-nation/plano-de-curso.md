@@ -1,6 +1,6 @@
 # Startup Nation: Inovação e Empreendedorismo em Israel
 
-**Disciplina:** Eletiva "Start Up Nation" (une empreendedorismo e judaísmo)
+**Disciplina:** Eletiva "StartUp Nation" (une empreendedorismo e judaísmo)
 **Escola:** Colégio Israelita Brasileiro (CIB), Porto Alegre
 **Público:** 8º e 9º ano do Ensino Fundamental (EF2)
 **Professor:** Augusto Maltchik

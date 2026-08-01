@@ -1,4 +1,4 @@
-# Calendário — Eletiva Start Up Nation (EF2)
+# Calendário — Eletiva StartUp Nation (EF2)
 
 **Horário:** segundas-feiras, 14h às 15h30 (90 min)
 **Total de aulas letivas no semestre:** 17
