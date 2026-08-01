@@ -32,3 +32,13 @@ Nenhuma cor de marca além de preto/branco/cinza é usada nesses dois modelos de
 ## Gerador de referência
 
 [`gerar_diario_pdf.py`](gerar_diario_pdf.py) implementa esse padrão em Python (reportlab) e serve de modelo para gerar qualquer novo material em PDF já dentro das normas do CIB — cabeçalho, moldura e tipografia inclusos. Reutilizar essa base para os próximos materiais da eletiva.
+
+## Jogo dos 10 Cartões (`dados_jogo_10_cartoes.py`, `logos_svg.py`)
+
+Fonte única dos dados (empresas, país, fatos validados) e dos logos ilustrativos (desenho próprio em SVG, não os logotipos oficiais) usados tanto no PDF do jogo (`gerar_jogo_cartoes_pdf.py`) quanto na versão digital (`gerar_jogo_html.py`) e na apresentação de slides — assim os três materiais nunca ficam dessincronizados.
+
+- `gerar_logos_png.py` — renderiza `logos_svg.py` como PNG 512×512 (`assets/logos/`) via Playwright/Chromium, para uso em formatos que não aceitam SVG (como PPTX). Rodar de novo sempre que `logos_svg.py` mudar.
+
+## Apresentação de slides (`gerar_apresentacao_aula1_pptx.js`)
+
+Gera `Aula 1 - Apresentacao.pptx` (Node.js, `pptxgenjs`) para a etapa "Dados de impacto e estrutura do semestre" da Aula 1 — números de Israel + as 8 empresas do jogo. **Não** segue o padrão de cabeçalho/moldura do CIB acima (que é para material impresso do aluno); usa identidade visual própria para projeção (Cambria/Calibri, navy + terracota). Dados de Israel e das empresas checados em fontes públicas (ver rodapé dos slides 2–3). Depende de `npm install` dentro de `padronizacao/` (só `pptxgenjs`, ver `package.json`).

@@ -4,13 +4,13 @@
 
 **Materiais de apoio**
 - *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`)
-- *Desta aula:* jogo de cartões de `ferramentas/fichas-produtos-israelenses.md` (10 cartões por grupo, recortados — 8 reais + 2 pegadinha), ou a versão digital projetável (sem imprimir), gerada por `padronizacao/gerar_jogo_html.py` · Mural das Ideias (espaço reservado na parede, com post-its)
+- *Desta aula:* jogo de cartões de `ferramentas/fichas-produtos-israelenses.md` (10 cartões por grupo, recortados — 8 reais + 2 pegadinha), ou a versão digital projetável (sem imprimir), gerada por `padronizacao/gerar_jogo_html.py` · apresentação de slides (`padronizacao/gerar_apresentacao_aula1_pptx.js`) para a etapa 3 · Mural das Ideias (espaço reservado na parede, com post-its)
 
 ## Roteiro (90 min)
 
 1. **Provocação (5 min)** — Perguntar: *"Vocês já sabem bastante sobre a história e a cultura de Israel. O que a maioria não sabe é que Israel também é uma potência mundial em tecnologia — é essa faceta específica que vamos explorar o semestre inteiro, começando hoje."*
 2. **O jogo dos 10 cartões (40 min)** — Dividir a turma em grupos de 4. Cada grupo recebe os 10 cartões embaralhados (produto + problema + solução, sem nome do país). Desafio: em 25 min, o grupo lê cada cartão, identifica o produto/empresa e decide **quais 2 dos 10 NÃO são israelenses** (são pegadinha). Sem celular, sem pesquisar — só leitura e argumentação em grupo. Nos últimos 15 min, correção coletiva cartão a cartão, com o gabarito revelado pelo professor.
-3. **Dados de impacto e estrutura do semestre (15 min)** — Apresentar os números: mais de 9.000 startups ativas (uma nova a cada 6 horas), mais de 5% do PIB em P&D (maior índice do mundo), 2º lugar mundial em empresas na NASDAQ. Explicar o percurso até o Pitch Day de 23/11: dos valores por trás da Startup Nation até a apresentação do próprio projeto de cada aluno.
+3. **Dados de impacto e estrutura do semestre (15 min)** — Apresentar de slides (`padronizacao/gerar_apresentacao_aula1_pptx.js`) com os números: mais de 7.000 startups ativas (maior densidade de startups por habitante do mundo), mais de 6% do PIB em Pesquisa & Desenvolvimento (maior índice do mundo, mais que o dobro da média da OCDE), mais de 130 empresas israelenses negociadas na NASDAQ (só EUA, Canadá e China têm mais) — e as 8 empresas israelenses do jogo, com um pouco mais de contexto sobre cada uma. Explicar o percurso até o Pitch Day de 23/11: dos valores por trás da StartUp Nation até a apresentação do próprio projeto de cada aluno.
 4. **Mural das Ideias (15 min)** — Cada aluno escreve em um post-it: *"Um problema que eu gostaria de resolver é..."* e cola no Mural das Ideias, que vai crescer ao longo do semestre.
 5. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos leem no Diário a citação de Gênesis 12:1 (*"Sai-te da tua terra... para a terra que eu te mostrarei"*) e respondem 1) a pergunta ligada ao trecho (o que sentem ao começar algo novo, sem saber onde vai dar) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
 
