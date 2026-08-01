@@ -2,6 +2,8 @@
 
 Material de apoio impresso (sem celular, sem internet). Usado na **Aula 1** como jogo de adivinhação (o desafio real: 8 são israelenses, mas **2 são pegadinha** — de outros países) e na **Aula 6** para aprofundar cada estudo de caso.
 
+**Versão digital (sem imprimir):** para projetar em sala em vez de recortar papel, existe uma versão interativa em HTML — um arquivo único, sem internet, com os mesmos 10 cartões, logos ilustrativos de cada empresa como pista visual extra, seleção de "pegadinhas" e revelação com gabarito. Gerada por [`../padronizacao/gerar_jogo_html.py`](../padronizacao/gerar_jogo_html.py), a partir da mesma base de dados validada usada no PDF ([`../padronizacao/dados_jogo_10_cartoes.py`](../padronizacao/dados_jogo_10_cartoes.py)).
+
 **Como recortar:** a seção "Cartões do jogo" abaixo tem só nome + problema + solução — é o que os alunos recebem e leem. A seção "Gabarito do professor" (com o país de origem) fica só com o professor, para revelar depois da rodada de adivinhação.
 
 ---

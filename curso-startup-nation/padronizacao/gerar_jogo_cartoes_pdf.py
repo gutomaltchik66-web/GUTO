@@ -10,6 +10,7 @@ recortar (sem o país de origem — é isso que os alunos precisam descobrir),
 fontes públicas (não deve ser entregue aos alunos).
 """
 import os
+import sys
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.units import mm
 from reportlab.lib import colors
@@ -20,6 +21,8 @@ from reportlab.lib.utils import ImageReader
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ASSETS = os.path.join(HERE, "assets")
+sys.path.insert(0, HERE)
+from dados_jogo_10_cartoes import CARTOES as _CARTOES_DADOS, GABARITO as _GABARITO_DADOS
 
 pdfmetrics.registerFont(TTFont("Montserrat", os.path.join(ASSETS, "MontserratMedium-regular.ttf")))
 pdfmetrics.registerFont(TTFont("Montserrat-Bold", os.path.join(ASSETS, "MontserratMedium-bold.ttf")))
@@ -37,54 +40,15 @@ BLACK = colors.black
 GREY = colors.HexColor("#8C8C8C")
 LIGHTGREY = colors.HexColor("#EDEDED")
 
-# Cada cartão: (NOME, problema, solução). Ordem igual à de
-# ferramentas/fichas-produtos-israelenses.md — 8 reais + 2 pegadinha.
-CARTOES = [
-    ("WAZE",
-     "Motoristas perdiam tempo presos no trânsito sem saber de rotas melhores.",
-     "Aplicativo de GPS colaborativo — os próprios motoristas avisam sobre trânsito, radares e buracos em tempo real."),
-    ("ICQ",
-     "Não dava para saber se um amigo estava online e falar com ele na hora, pela internet.",
-     "O primeiro mensageiro instantâneo popular do mundo — base do que hoje são WhatsApp e Telegram."),
-    ("MOBILEYE",
-     "Acidentes de trânsito causados por distração ou reação lenta do motorista.",
-     "Câmeras e inteligência artificial que ajudam o carro a “enxergar” o que está à frente e evitar batidas — base da tecnologia de carros autônomos."),
-    ("WIX",
-     "Criar um site era coisa só para quem sabia programar.",
-     "Plataforma onde qualquer pessoa monta um site arrastando e soltando elementos, sem escrever código."),
-    ("SOLAREDGE",
-     "Painéis de energia solar perdiam eficiência quando parte deles ficava na sombra ou sujos.",
-     "Tecnologia que otimiza cada painel solar individualmente, aproveitando mais energia."),
-    ("FIVERR",
-     "Era difícil encontrar e contratar freelancers confiáveis em qualquer lugar do mundo.",
-     "Marketplace global onde qualquer pessoa oferece ou contrata serviços freelance (design, tradução, programação etc)."),
-    ("PEN DRIVE (USB FLASH DRIVE)",
-     "Levar arquivos de um computador para outro exigia CD ou disquete, lentos e frágeis.",
-     "Memória portátil pequena e resistente, que se tornou padrão mundial."),
-    ("SISENSE",
-     "Empresas tinham dados complicados e não conseguiam entendê-los de forma simples.",
-     "Software de análise de dados (business intelligence) que transforma números complicados em gráficos fáceis de entender."),
-    ("SPOTIFY",
-     "Era muito fácil baixar música pirata, e as gravadoras perdiam dinheiro; ao mesmo tempo, ninguém queria pagar por CD.",
-     "Plataforma de streaming onde se paga uma assinatura para ouvir qualquer música, sem baixar nada."),
-    ("SKYPE",
-     "Ligações internacionais por telefone eram caríssimas.",
-     "Chamadas de vídeo e voz gratuitas pela internet, entre qualquer lugar do mundo."),
-]
+# CARTOES e GABARITO vêm de dados_jogo_10_cartoes.py (fonte única, compartilhada
+# com o gerador do jogo em HTML) — 8 empresas reais + 2 pegadinha.
+CARTOES = [(nome, problema, solucao) for (_id, nome, problema, solucao) in _CARTOES_DADOS]
 
-# (Produto, país, fato validado) — só para a página de gabarito do professor.
-GABARITO = [
-    ("WAZE", "Israel", "Ehud Shabtai, Uri Levine e Amir Shinar (2006/2009). Comprado pelo Google em 2013 por ~970 milhões de dólares."),
-    ("ICQ", "Israel", "Mirabilis — Yair Goldfinger, Arik Vardi, Sefi Vigiser e Amnon Amir (jul/1996). Comprado pela AOL em 1998 por 287 milhões de dólares."),
-    ("MOBILEYE", "Israel", "Amnon Shashua e Ziv Aviram (1999). Comprada pela Intel em 2017 por 15,3 bilhões de dólares."),
-    ("WIX", "Israel", "Avishai Abrahami, Nadav Abrahami e Giora Kaplan, em Tel Aviv (2006)."),
-    ("SOLAREDGE", "Israel", "Guy Sella e equipe (2006) — hoje uma das maiores empresas de tecnologia de energia solar do mundo."),
-    ("FIVERR", "Israel", "Micha Kaufman e Shai Wininger, em Tel Aviv (2010)."),
-    ("PEN DRIVE (USB FLASH DRIVE)", "Israel", "Patente da M-Systems (Amir Ban, Dov Moran e Oron Ogdan) em 1999; DiskOnKey lançado em 2000. Há disputa histórica com empresas de Singapura/China, mas a patente israelense é a mais antiga."),
-    ("SISENSE", "Israel", "Elad Israeli, Eldad Farkash, Aviad Harell, Guy Boyangu e Adi Azaria, em Tel Aviv (2004)."),
-    ("SPOTIFY", "Suécia — PEGADINHA", "Daniel Ek e Martin Lorentzon, em Estocolmo (abril de 2006). Não é israelense."),
-    ("SKYPE", "Suécia/Dinamarca — PEGADINHA", "Fundada por Niklas Zennström (sueco) e Janus Friis (dinamarquês) em 2003; software desenvolvido por uma equipe de engenheiros estonianos. Não é israelense."),
-]
+GABARITO = []
+for _id, nome, _problema, _solucao in _CARTOES_DADOS:
+    is_israel, pais, fato = _GABARITO_DADOS[_id]
+    pais_label = pais if is_israel else f"{pais} — PEGADINHA"
+    GABARITO.append((nome, pais_label, fato))
 
 c = canvas.Canvas(os.path.join(HERE, "Jogo dos 10 Cartoes - Aula 1.pdf"), pagesize=A4)
 

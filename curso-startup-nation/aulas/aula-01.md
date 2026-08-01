@@ -4,7 +4,7 @@
 
 **Materiais de apoio**
 - *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`)
-- *Desta aula:* jogo de cartões de `ferramentas/fichas-produtos-israelenses.md` (10 cartões por grupo, recortados — 8 reais + 2 pegadinha) · Mural das Ideias (espaço reservado na parede, com post-its)
+- *Desta aula:* jogo de cartões de `ferramentas/fichas-produtos-israelenses.md` (10 cartões por grupo, recortados — 8 reais + 2 pegadinha), ou a versão digital projetável (sem imprimir), gerada por `padronizacao/gerar_jogo_html.py` · Mural das Ideias (espaço reservado na parede, com post-its)
 
 ## Roteiro (90 min)
 
