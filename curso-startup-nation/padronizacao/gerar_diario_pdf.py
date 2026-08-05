@@ -400,7 +400,9 @@ def draw_cover():
     c.drawCentredString(PAGE_W / 2, y, "Diário do Empreendedor")
     y -= 9 * mm
     c.setFont("Montserrat-Italic", 13)
-    c.drawCentredString(PAGE_W / 2, y, "Eletiva StartUp Nation — Colégio Israelita Brasileiro")
+    c.drawCentredString(PAGE_W / 2, y, "Eletiva StartUp Nation")
+    y -= 6.5 * mm
+    c.drawCentredString(PAGE_W / 2, y, "Colégio Israelita Brasileiro")
 
     # Caixa grande em branco (sem legenda)
     y -= 12 * mm
