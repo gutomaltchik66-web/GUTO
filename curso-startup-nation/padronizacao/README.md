@@ -41,6 +41,11 @@ Fonte única dos dados (empresas, país, fatos validados) e dos logos ilustrativ
 
 - `gerar_logos_png.py` — renderiza `logos_svg.py` como PNG 512×512 (`assets/logos/`) via Playwright/Chromium, para uso em formatos que não aceitam SVG (como PPTX). Rodar de novo sempre que `logos_svg.py` mudar.
 
-## Apresentação de slides (`gerar_apresentacao_aula1_pptx.js`)
+## Apresentações de slides (`apresentacao_base.js`, `gerar_apresentacao_aulaN_pptx.js`)
 
-Gera `Aula 1 - Apresentacao.pptx` (Node.js, `pptxgenjs`) para a etapa "Dados de impacto e estrutura do semestre" da Aula 1 — números de Israel + as 8 empresas do jogo. **Não** segue o padrão de cabeçalho/moldura do CIB acima (que é para material impresso do aluno); usa identidade visual própria para projeção (Cambria/Calibri, navy + terracota). Dados de Israel e das empresas checados em fontes públicas (ver rodapé dos slides 2–3). Depende de `npm install` dentro de `padronizacao/` (só `pptxgenjs`, ver `package.json`).
+`apresentacao_base.js` centraliza o sistema visual das apresentações (Node.js, `pptxgenjs`): paleta (navy + terracota), fontes (Cambria/Calibri), logo do CIB e os helpers de layout (`eyebrow`, `cibLogo`, `dotCluster`, `statColumn`, `footer`). **Não** segue o padrão de cabeçalho/moldura do CIB usado no material impresso do aluno (seção acima) — é uma identidade própria para projeção em sala. Cada `gerar_apresentacao_aulaN_pptx.js` importa esse módulo e só define o conteúdo daquela aula, para toda apresentação do semestre manter a mesma cara.
+
+- `gerar_apresentacao_aula1_pptx.js` → `Aula 1 - Apresentacao.pptx` — números de impacto de Israel + as 8 empresas do Jogo dos 10 Cartões.
+- `gerar_apresentacao_aula2_pptx.js` → `Aula 2 - Apresentacao.pptx` — as 3 inovações reais (irrigação por gotejamento/Netafim, Moovit, PillCam) que resolvem os 3 problemas sociais de `ferramentas/enigma-e-problemas-aula2.md`, fechando também o código do enigma da Parte 1.
+
+Dados checados em fontes públicas (ver rodapé/citações nos próprios slides). Depende de `npm install` dentro de `padronizacao/` (só `pptxgenjs`, ver `package.json`).

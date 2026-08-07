@@ -41,7 +41,7 @@ Calendário com as 17 datas reais do semestre (segundas-feiras letivas) em [`cal
 | Aula | Data | Bloco | Tema | Plano detalhado |
 |---|---|---|---|---|
 | 1 | 03/08 | Fundamentos | Abertura: além do que você já sabe sobre Israel | [`aulas/aula-01.md`](aulas/aula-01.md) |
-| 2 | 10/08 | Fundamentos | Raízes históricas, sob uma nova ótica | [`aulas/aula-02.md`](aulas/aula-02.md) |
+| 2 | 10/08 | Fundamentos | Evoluções tecnológicas de Israel | [`aulas/aula-02.md`](aulas/aula-02.md) |
 | 3 | 17/08 | Fundamentos | Chutzpah: da palavra à atitude empreendedora | [`aulas/aula-03.md`](aulas/aula-03.md) |
 | 4 | 24/08 | Fundamentos | Tolerância ao fracasso | [`aulas/aula-04.md`](aulas/aula-04.md) |
 | 5 | 31/08 | Fundamentos | O papel do Estado e do Exército | [`aulas/aula-05.md`](aulas/aula-05.md) |
@@ -67,7 +67,7 @@ Templates prontos para imprimir/copiar em [`ferramentas/`](ferramentas/):
 
 **Fichas informativas (substituem pesquisa por celular, sem repetir o que já é sabido)**
 - [`ferramentas/fichas-produtos-israelenses.md`](ferramentas/fichas-produtos-israelenses.md) — 8 empresas israelenses + 2 pegadinhas, usado nas Aulas 1, 3 e 6
-- [`ferramentas/fichas-linha-do-tempo.md`](ferramentas/fichas-linha-do-tempo.md) — 5 cartões-prompt (tópico + pergunta, sem resposta pronta), usado na Aula 2
+- [`ferramentas/enigma-e-problemas-aula2.md`](ferramentas/enigma-e-problemas-aula2.md) — enigma em cartões (4 grupos) + 3 fichas-problema, usado na Aula 2
 - [`ferramentas/fichas-debate-estado.md`](ferramentas/fichas-debate-estado.md) — argumentos para o debate, usado na Aula 5
 
 **Meu Projeto (Aulas 8–13)**

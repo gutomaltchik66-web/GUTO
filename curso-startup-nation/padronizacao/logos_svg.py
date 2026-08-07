@@ -57,4 +57,18 @@ LOGOS = {
     "skype": """<rect x="2" y="2" width="60" height="60" rx="14" fill="#E8F7FE"/>
 <path d="M16 24c0-6.6 5.4-12 12-12h8c9.9 0 18 8.1 18 18s-8.1 18-18 18c-2 0-3.9-.3-5.7-.9L20 51l2.3-9.6C18.3 38 16 32.9 16 27z" fill="#00AFF0"/>
 <circle cx="26" cy="27" r="2.6" fill="#FFFFFF"/><circle cx="34" cy="27" r="2.6" fill="#FFFFFF"/><circle cx="42" cy="27" r="2.6" fill="#FFFFFF"/>""",
+
+    # Aula 2 — 3 inovações reais
+    "netafim": """<rect x="2" y="2" width="60" height="60" rx="14" fill="#EAF6F3"/>
+<path d="M32 13c-7.5 10.5-14 19-14 26.5a14 14 0 0028 0C46 32 39.5 23.5 32 13z" fill="#3FB6A0" stroke="#1E8A76" stroke-width="2"/>
+<circle cx="27" cy="41" r="2.6" fill="#FFFFFF" opacity=".7"/>""",
+
+    "moovit": """<rect x="2" y="2" width="60" height="60" rx="14" fill="#E9F7F5"/>
+<path d="M16 41c3.5-13.5 11-21.5 16-21.5s12.5 8 16 21.5" fill="none" stroke="#1FAFA0" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 7.2"/>
+<circle cx="16" cy="42" r="3.4" fill="#1FAFA0"/><circle cx="48" cy="42" r="3.4" fill="#1FAFA0"/><circle cx="32" cy="18" r="4.4" fill="#1FAFA0"/>""",
+
+    "pillcam": """<rect x="2" y="2" width="60" height="60" rx="14" fill="#EFF3FC"/>
+<rect x="15" y="26" width="34" height="15" rx="7.5" fill="#FFFFFF" stroke="#3457D5" stroke-width="2"/>
+<path d="M22.5 26h9v15h-9a7.5 7.5 0 010-15z" fill="#3457D5"/>
+<circle cx="41" cy="33.5" r="3" fill="#3457D5"/>""",
 }
