@@ -21,7 +21,7 @@ const EMPRESAS = [
   { id: "waze", nome: "Waze", categoria: "GPS colaborativo em tempo real",
     resumo: "Aplicativo de GPS em que os próprios motoristas informam trânsito, radares e buracos em tempo real, ajudando a encontrar o caminho mais rápido. Fundada em 2006 por Ehud Shabtai, Uri Levine e Amir Shinar, foi comprada pelo Google em 2013 por cerca de US$ 970 milhões." },
   { id: "icq", nome: "ICQ", categoria: "1º mensageiro instantâneo popular do mundo",
-    resumo: "Criado em 1996 pela Mirabilis (Yair Goldfinger e equipe), permitia conversar com outras pessoas em tempo real pela internet — algo inédito até então. Foi comprado pela AOL em 1998 por US$ 287 milhões e é considerado a base do que hoje são o WhatsApp e o Telegram." },
+    resumo: "Criado em 1996 pela Mirabilis (Yair Goldfinger e equipe), permitia conversar com outras pessoas em tempo real pela internet, algo inédito até então. Foi comprado pela AOL em 1998 por US$ 287 milhões e é considerado a base do que hoje são o WhatsApp e o Telegram." },
   { id: "mobileye", nome: "Mobileye", categoria: "Visão computacional para carros autônomos",
     resumo: "Fundada em 1999 por Amnon Shashua e Ziv Aviram, desenvolve câmeras e inteligência artificial que ajudam o carro a identificar o que está à frente e evitar colisões, tecnologia essencial para veículos autônomos. Foi comprada pela Intel em 2017 por US$ 15,3 bilhões." },
   { id: "wix", nome: "Wix", categoria: "Criação de sites sem programar",
@@ -113,9 +113,9 @@ pres.layout = "LAYOUT_WIDE"; // 13.333 x 7.5 in
   const colW = (SW - 2 * MARGIN - 1.0) / 3;
   const xs = [MARGIN, MARGIN + colW + 0.5, MARGIN + 2 * (colW + 0.5)];
   const stats = [
-    ["7.000+", "startups ativas — a maior densidade de startups por habitante do mundo"],
-    ["6,3%", "do PIB em Pesquisa & Desenvolvimento — o maior índice do mundo"],
-    ["130+", "empresas israelenses negociadas na NASDAQ — só EUA, Canadá e China têm mais"],
+    ["7.000+", "startups ativas, a maior densidade de startups por habitante do mundo"],
+    ["6,3%", "do PIB em Pesquisa & Desenvolvimento, o maior índice do mundo"],
+    ["130+", "empresas israelenses negociadas na NASDAQ, atrás apenas de EUA, Canadá e China"],
   ];
   stats.forEach(([value, label], i) => {
     statColumn(slide, xs[i], colW, value, label, {

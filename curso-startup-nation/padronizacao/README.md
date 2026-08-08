@@ -43,9 +43,13 @@ Fonte única dos dados (empresas, país, fatos validados) e dos logos ilustrativ
 
 ## Apresentações de slides (`apresentacao_base.js`, `gerar_apresentacao_aulaN_pptx.js`)
 
-`apresentacao_base.js` centraliza o sistema visual das apresentações (Node.js, `pptxgenjs`): paleta (navy + terracota), fontes (Cambria/Calibri), logo do CIB e os helpers de layout (`eyebrow`, `cibLogo`, `dotCluster`, `statColumn`, `footer`). **Não** segue o padrão de cabeçalho/moldura do CIB usado no material impresso do aluno (seção acima) — é uma identidade própria para projeção em sala. Cada `gerar_apresentacao_aulaN_pptx.js` importa esse módulo e só define o conteúdo daquela aula, para toda apresentação do semestre manter a mesma cara.
+`apresentacao_base.js` centraliza o sistema visual das apresentações (Node.js, `pptxgenjs`): paleta (navy + terracota), fontes (Cambria/Calibri), logo do CIB e os helpers de layout (`eyebrow`, `cibLogo`, `dotCluster`, `statColumn`, `imagePlaceholder`, `footer`). **Não** segue o padrão de cabeçalho/moldura do CIB usado no material impresso do aluno (seção acima) — é uma identidade própria para projeção em sala. Cada `gerar_apresentacao_aulaN_pptx.js` importa esse módulo e só define o conteúdo daquela aula, para toda apresentação do semestre manter a mesma cara.
 
 - `gerar_apresentacao_aula1_pptx.js` → `Aula 1 - Apresentacao.pptx` — números de impacto de Israel + as 8 empresas do Jogo dos 10 Cartões.
-- `gerar_apresentacao_aula2_pptx.js` → `Aula 2 - Apresentacao.pptx` — as 3 inovações reais (irrigação por gotejamento/Netafim, Moovit, PillCam) que resolvem os 3 problemas sociais de `ferramentas/enigma-e-problemas-aula2.md`, fechando também o código do enigma da Parte 1.
+- `gerar_apresentacao_aula2_pptx.js` → `Aula 2 - Apresentacao.pptx` — as 3 inovações reais (irrigação por gotejamento/Netafim, Moovit, PillCam) que resolvem os 3 problemas sociais de `ferramentas/enigma-e-problemas-aula2.md`, fechando também o código do enigma da Parte 1. Cada slide de inovação tem um quadrante (`imagePlaceholder`) para o professor colar uma foto própria — não há como buscar imagens reais neste ambiente — e um vídeo sugerido (link encontrado por busca, não assistido por aqui: conferir antes de exibir em sala).
 
-Dados checados em fontes públicas (ver rodapé/citações nos próprios slides). Depende de `npm install` dentro de `padronizacao/` (só `pptxgenjs`, ver `package.json`).
+Dados checados em fontes públicas (ver rodapé/citações nos próprios slides). Texto sem travessões (—) de propósito, para não ficar com "cara de IA"; usar vírgula, dois-pontos ou parênteses no lugar. Depende de `npm install` dentro de `padronizacao/` (só `pptxgenjs`, ver `package.json`).
+
+## PDF do enigma e dos problemas sociais (`gerar_enigma_problemas_pdf.py`)
+
+Gera `Enigma e Problemas - Aula 2.pdf` (reportlab, mesma padronização CIB dos outros PDFs impressos): instruções para o professor, os 4 cartões do enigma para recortar (imprimir 4 vias, uma por grupo), o gabarito do enigma, as 3 fichas-problema (uma por página, com espaço para a resposta do grupo) e o gabarito de qual inovação resolve qual problema. Texto sincronizado manualmente com `ferramentas/enigma-e-problemas-aula2.md`.

@@ -74,6 +74,34 @@ function statColumn(slide, x, w, value, label, opts = {}) {
   });
 }
 
+function imagePlaceholder(slide, x, y, w, h, opts = {}) {
+  const dark = !!opts.dark;
+  const fill = dark ? "1E2F52" : "F2F1EC";
+  const borderColor = dark ? ICE_MUTED : INK_SOFT;
+  const labelColor = dark ? ICE : INK_SOFT;
+  const capColor = dark ? ICE_MUTED : INK_SOFT;
+  slide.addShape("roundRect", {
+    x, y, w, h, rectRadius: 0.06,
+    fill: { color: fill },
+    line: { color: borderColor, width: 1.25, dashType: "dash" },
+  });
+  const label = (opts.label || "Espaço para imagem").toUpperCase();
+  const caption = opts.caption || "";
+  const labelY = caption ? y + h / 2 - 0.5 : y + h / 2 - 0.2;
+  slide.addText(label, {
+    x: x + 0.25, y: labelY, w: w - 0.5, h: 0.4,
+    fontFace: FONT_BODY, fontSize: 11.5, bold: true, color: labelColor,
+    align: "center", valign: "middle", charSpacing: 1, margin: 0,
+  });
+  if (caption) {
+    slide.addText(caption, {
+      x: x + 0.35, y: labelY + 0.42, w: w - 0.7, h: h - (labelY + 0.42 - y) - 0.2,
+      fontFace: FONT_BODY, fontSize: 10, italic: true, color: capColor,
+      align: "center", valign: "top", margin: 0, lineSpacingMultiple: 1.2,
+    });
+  }
+}
+
 function footer(slide, text, dark) {
   slide.addText(text, {
     x: MARGIN, y: SH - 0.62, w: SW - 2 * MARGIN, h: 0.35,
@@ -86,5 +114,5 @@ module.exports = {
   logoPath, CIB_LOGO_DARK, CIB_LOGO_LIGHT, CIB_LOGO_ASPECT,
   NAVY, TERRACOTTA, INK, INK_SOFT, ICE, ICE_MUTED, WHITE,
   FONT_DISPLAY, FONT_BODY, SW, SH, MARGIN,
-  eyebrow, cibLogo, dotCluster, statColumn, footer,
+  eyebrow, cibLogo, dotCluster, statColumn, footer, imagePlaceholder,
 };
