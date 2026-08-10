@@ -67,7 +67,7 @@ Templates prontos para imprimir/copiar em [`ferramentas/`](ferramentas/):
 
 **Fichas informativas (substituem pesquisa por celular, sem repetir o que já é sabido)**
 - [`ferramentas/fichas-produtos-israelenses.md`](ferramentas/fichas-produtos-israelenses.md) — 8 empresas israelenses + 2 pegadinhas, usado nas Aulas 1, 3 e 6
-- [`ferramentas/enigma-e-problemas-aula2.md`](ferramentas/enigma-e-problemas-aula2.md) — enigma em cartões (4 grupos) + 3 fichas-problema, usado na Aula 2
+- [`ferramentas/problemas-caminhos-aula2.md`](ferramentas/problemas-caminhos-aula2.md) — 3 problemas fictícios, cada um com 3 caminhos possíveis e sua consequência, usado na Aula 2
 - [`ferramentas/fichas-debate-estado.md`](ferramentas/fichas-debate-estado.md) — argumentos para o debate, usado na Aula 5
 
 **Meu Projeto (Aulas 8–13)**

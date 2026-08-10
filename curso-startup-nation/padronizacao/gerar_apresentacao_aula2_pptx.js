@@ -1,8 +1,10 @@
 // Apresentação de slides — Aula 2 (StartUp Nation, CIB)
-// Usada na Parte 3 do roteiro ("3 inovações reais", 20 min): revela, uma a
-// uma, a inovação israelense real por trás de cada problema social da
-// Parte 2 (ver ferramentas/enigma-e-problemas-aula2.md) e fecha o enigma
-// da Parte 1 (código 1965 = ano de fundação da Netafim).
+// Usada na Parte 2 do roteiro ("3 inovações reais", 20 min): conta a
+// história de 3 inovações israelenses reais, cada uma nascida de alguém
+// que escolheu o caminho mais trabalhoso em vez do mais fácil — o mesmo
+// padrão que a Parte 1 (ver ferramentas/problemas-caminhos-aula2.md)
+// treina com problemas fictícios. Sem correspondência 1 a 1 com os
+// problemas da Parte 1, é inspiração real, não o "gabarito" deles.
 //
 // Fatos checados em fontes públicas (julho de 2026): Wikipedia, Times of
 // Israel, TechCrunch, Wikipedia (Gavriel Iddan / capsule endoscopy).
@@ -27,11 +29,11 @@ const INOVACOES = [
     id: "netafim",
     nome: "Irrigação por gotejamento",
     categoria: "Agricultura em terra seca (Netafim)",
-    problema: "O desafio da Parte 2: cultivar alimentos gastando o mínimo possível de água.",
+    problema: "O problema por trás dela: como cultivar alimentos gastando o mínimo possível de água.",
     resumo: "Nos anos 1950, o engenheiro Simcha Blass notou uma árvore crescendo mais forte do que as outras ao lado de um cano com um pequeno vazamento. A água pingava devagar, direto na raiz, sem desperdício. A partir dessa observação, ele e o filho Yeshayahu desenvolveram um sistema experimental de irrigação por gotejamento em 1959. Em 1965, fundaram a Netafim junto com o Kibutz Hatzerim; hoje a tecnologia é usada em mais de 110 países.",
     statValue: "110+",
     statLabel: "países usam irrigação por gotejamento hoje",
-    callback: "O código do enigma era 1965: o ano em que a Netafim foi fundada.",
+    callback: null,
     imageCaption: "Sugestão: foto de um sistema de irrigação por gotejamento em uma plantação.",
     video: {
       title: "Desert Miracle of Israel: The True Story of Drip Irrigation and Kibbutz Hatzerim (Netafim)",
@@ -43,7 +45,7 @@ const INOVACOES = [
     id: "moovit",
     nome: "Moovit",
     categoria: "Mobilidade urbana",
-    problema: "O desafio da Parte 2: ajudar milhões de pessoas a se locomoverem pela cidade de forma simples e confiável.",
+    problema: "O problema por trás dele: como ajudar milhões de pessoas a se locomoverem pela cidade de forma simples e confiável.",
     resumo: "Fundado em 2012, em Ness Ziona, por Nir Erez, Roy Bick e Yaron Evron (originalmente com o nome Tranzmate), o Moovit organiza em um único aplicativo as informações de ônibus, trem e metrô de milhares de cidades, ajudando cada pessoa a encontrar o trajeto mais confiável até o destino.",
     statValue: "US$ 900 mi",
     statLabel: "valor pago pela Intel para comprar o Moovit, em 2020",
@@ -55,7 +57,7 @@ const INOVACOES = [
     id: "pillcam",
     nome: "PillCam",
     categoria: "Diagnóstico médico não invasivo (Given Imaging)",
-    problema: "O desafio da Parte 2: tornar um exame invasivo e desconfortável em algo simples para o paciente.",
+    problema: "O problema por trás dele: como tornar um exame invasivo e desconfortável em algo simples para o paciente.",
     resumo: "O engenheiro israelense Gavriel Iddan, que trabalhava no laboratório de defesa Rafael, teve a ideia em 1981: uma câmera pequena o bastante para ser engolida como um comprimido, capaz de fotografar o interior do sistema digestivo enquanto passa por ele. Depois de quase 20 anos de desenvolvimento, registrou a patente em 1997 e fundou a Given Imaging em 1998, com Gavriel Meron. O PillCam foi aprovado pela agência de saúde dos EUA (FDA) em 2001.",
     statValue: "20 anos",
     statLabel: "entre a primeira ideia (1981) e a aprovação do PillCam pela FDA (2001)",
@@ -114,7 +116,7 @@ function videoNote(slide, x, y, w, video) {
     x: MARGIN, y: 2.3, w: 7.0, h: 1.7,
     fontFace: FONT_DISPLAY, fontSize: 36, bold: true, color: WHITE, margin: 0,
   });
-  slide.addText("Três inovações israelenses que começaram exatamente como os desafios de hoje", {
+  slide.addText("Três inovações israelenses que nasceram de alguém escolhendo o caminho mais trabalhoso", {
     x: MARGIN, y: 4.0, w: 6.8, h: 1.1,
     fontFace: FONT_BODY, fontSize: 18, color: ICE, margin: 0, lineSpacingMultiple: 1.25,
   });
@@ -193,7 +195,7 @@ INOVACOES.forEach((inv, idx) => {
   slide.background = { color: NAVY };
   cibLogo(slide, true);
   eyebrow(slide, "Recapitulando");
-  slide.addText("Três problemas, três soluções reais", {
+  slide.addText("O padrão por trás das 3 inovações", {
     x: MARGIN, y: 0.95, w: 11, h: 0.85,
     fontFace: FONT_DISPLAY, fontSize: 32, bold: true, color: WHITE, margin: 0,
   });
@@ -201,31 +203,31 @@ INOVACOES.forEach((inv, idx) => {
   const colW = (SW - 2 * MARGIN - 1.0) / 3;
   const xs = [MARGIN, MARGIN + colW + 0.5, MARGIN + 2 * (colW + 0.5)];
   const recap = [
-    ["Água que não sobra", "Irrigação por gotejamento (Netafim)"],
-    ["Perdido no caminho", "Moovit"],
-    ["Um exame difícil", "PillCam (Given Imaging)"],
+    ["Irrigação por gotejamento", "Resolveu: como cultivar com pouca água."],
+    ["Moovit", "Resolveu: como se locomover na cidade com confiança."],
+    ["PillCam", "Resolveu: como tornar um exame médico menos invasivo."],
   ];
-  recap.forEach(([problema, solucao], i) => {
+  recap.forEach(([nome, oneliner], i) => {
     const x = xs[i];
     slide.addImage({ path: logoPath(INOVACOES[i].id), x, y: 2.0, w: 0.8, h: 0.8 });
-    slide.addText(problema, {
+    slide.addText(nome, {
       x, y: 2.95, w: colW, h: 0.6,
       fontFace: FONT_DISPLAY, fontSize: 16, bold: true, color: WHITE, margin: 0, lineSpacingMultiple: 1.15,
     });
-    slide.addText(solucao, {
-      x, y: 3.55, w: colW, h: 0.6,
-      fontFace: FONT_BODY, fontSize: 12.5, color: TERRACOTTA, bold: true, margin: 0, lineSpacingMultiple: 1.15,
+    slide.addText(oneliner, {
+      x, y: 3.55, w: colW, h: 0.7,
+      fontFace: FONT_BODY, fontSize: 12, color: TERRACOTTA, bold: true, margin: 0, lineSpacingMultiple: 1.15,
     });
   });
 
-  imagePlaceholder(slide, MARGIN, 4.35, SW - 2 * MARGIN, 1.05, {
+  imagePlaceholder(slide, MARGIN, 4.55, SW - 2 * MARGIN, 0.95, {
     dark: true,
     label: "Espaço para imagem",
     caption: "Sugestão: colagem com as 3 inovações lado a lado.",
   });
 
   slide.addText(
-    "O caminho é sempre parecido: um problema real, observado de perto, vira o começo de uma inovação.",
+    "As três nasceram do mesmo padrão: alguém escolheu o caminho mais trabalhoso, não o mais fácil.",
     {
       x: MARGIN, y: 5.75, w: 10.8, h: 0.9,
       fontFace: FONT_DISPLAY, fontSize: 17, italic: true, color: ICE, margin: 0, lineSpacingMultiple: 1.25,
