@@ -47,6 +47,7 @@ Fonte única dos dados (empresas, país, fatos validados) e dos logos ilustrativ
 
 - `gerar_apresentacao_aula1_pptx.js` → `Aula 1 - Apresentacao.pptx` — números de impacto de Israel + as 8 empresas do Jogo dos 10 Cartões.
 - `gerar_apresentacao_aula2_pptx.js` → `Aula 2 - Apresentacao.pptx` — 3 inovações israelenses reais (irrigação por gotejamento/Netafim, Moovit, PillCam), cada uma nascida de alguém que escolheu o caminho mais trabalhoso; é inspiração real, não o "gabarito" dos problemas fictícios de `ferramentas/problemas-caminhos-aula2.md`. Cada slide de inovação tem um quadrante (`imagePlaceholder`) para o professor colar uma foto própria — não há como buscar imagens reais neste ambiente — e um vídeo sugerido (link encontrado por busca, não assistido por aqui: conferir antes de exibir em sala).
+- `gerar_apresentacao_aula3_pptx.js` → `Aula 3 - Apresentacao.pptx` — apoio conceitual da aula sobre chutzpah: reenquadra a palavra como atitude (com o exemplo do soldado que pode questionar um general), explica chevruta e beit midrash, e mostra a mecânica do rodízio em duplas com as 3 perguntas-guia. Não repete o conteúdo das fichas de `ferramentas/fichas-produtos-israelenses.md` — cada dupla recebe uma delas na hora.
 
 Dados checados em fontes públicas (ver rodapé/citações nos próprios slides). Texto sem travessões (—) de propósito, para não ficar com "cara de IA"; usar vírgula, dois-pontos ou parênteses no lugar. Depende de `npm install` dentro de `padronizacao/` (só `pptxgenjs`, ver `package.json`).
 
