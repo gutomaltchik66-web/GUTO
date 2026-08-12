@@ -13,7 +13,7 @@ const pptxgen = require("pptxgenjs");
 const {
   NAVY, TERRACOTTA, INK, INK_SOFT, ICE, ICE_MUTED, WHITE,
   FONT_DISPLAY, FONT_BODY, SW, SH, MARGIN,
-  eyebrow, cibLogo, dotCluster, imagePlaceholder,
+  eyebrow, cibLogo, dotCluster,
 } = require("../../curso-startup-nation/padronizacao/apresentacao_base");
 
 const HERE = __dirname;
@@ -76,15 +76,10 @@ pres.layout = "LAYOUT_WIDE";
       fontFace: FONT_DISPLAY, fontSize: 18, bold: true, color: INK, margin: 0, lineSpacingMultiple: 1.15,
     });
     slide.addText(desc, {
-      x, y: 3.8, w: colW, h: 2.2,
-      fontFace: FONT_BODY, fontSize: 13, color: INK_SOFT, margin: 0,
+      x, y: 3.8, w: colW, h: 3.2,
+      fontFace: FONT_BODY, fontSize: 13.5, color: INK_SOFT, margin: 0,
       valign: "top", lineSpacingMultiple: 1.3,
     });
-  });
-
-  imagePlaceholder(slide, MARGIN, 6.15, SW - 2 * MARGIN, 0.85, {
-    label: "Espaço para imagem",
-    caption: "Sugestão: fotos da fábrica de cartões ou do colégio reunido cantando.",
   });
 }
 
@@ -94,36 +89,31 @@ pres.layout = "LAYOUT_WIDE";
   slide.background = { color: NAVY };
   cibLogo(slide, true);
   eyebrow(slide, "Com os professores", { color: TERRACOTTA });
+  const fullW = SW - 2 * MARGIN;
   slide.addText("Um aniversário para refletir: por que nós?", {
-    x: MARGIN, y: 0.95, w: 6.7, h: 1.5,
-    fontFace: FONT_DISPLAY, fontSize: 28, bold: true, color: WHITE, margin: 0, lineSpacingMultiple: 1.1,
+    x: MARGIN, y: 0.95, w: fullW, h: 1.1,
+    fontFace: FONT_DISPLAY, fontSize: 30, bold: true, color: WHITE, margin: 0, lineSpacingMultiple: 1.1,
   });
   slide.addText(
     "Na Reunião Geral, os professores modelaram bonecos de argila, lembrando a data em que se comemora o aniversário do ser humano na Terra.",
     {
-      x: MARGIN, y: 2.55, w: 6.7, h: 1.3,
-      fontFace: FONT_BODY, fontSize: 15.5, color: ICE, margin: 0, lineSpacingMultiple: 1.35,
+      x: MARGIN, y: 2.25, w: fullW, h: 1.0,
+      fontFace: FONT_BODY, fontSize: 16.5, color: ICE, margin: 0, lineSpacingMultiple: 1.35,
     }
   );
 
   slide.addShape("roundRect", {
-    x: MARGIN, y: 4.05, w: 6.7, h: 1.9, rectRadius: 0.08,
+    x: MARGIN, y: 3.65, w: fullW, h: 2.1, rectRadius: 0.08,
     fill: { color: "1E2F52" }, line: { type: "none" },
   });
   slide.addText(
     "Por que nós? Entre todos os seres, por que fomos os escolhidos para estar ali?",
     {
-      x: MARGIN + 0.35, y: 4.05, w: 6.0, h: 1.9,
-      fontFace: FONT_DISPLAY, fontSize: 19, italic: true, bold: true, color: WHITE,
+      x: MARGIN + 0.5, y: 3.65, w: fullW - 1.0, h: 2.1,
+      fontFace: FONT_DISPLAY, fontSize: 24, italic: true, bold: true, color: WHITE,
       margin: 0, valign: "middle", lineSpacingMultiple: 1.3,
     }
   );
-
-  imagePlaceholder(slide, 8.0, 1.3, 4.43, 4.65, {
-    dark: true,
-    label: "Espaço para imagem",
-    caption: "Sugestão: foto dos bonecos de argila feitos pelos professores na Reunião Geral.",
-  });
 }
 
 const OUT = require("path").join(HERE, "Rosh Hashana e Iom Kipur - CIB.pptx");
