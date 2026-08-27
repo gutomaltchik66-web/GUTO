@@ -43,7 +43,7 @@ Calendário com as 17 datas reais do semestre (segundas-feiras letivas) em [`cal
 | 1 | 03/08 | Fundamentos | Abertura: além do que você já sabe sobre Israel | [`aulas/aula-01.md`](aulas/aula-01.md) |
 | 2 | 10/08 | Fundamentos | Evoluções tecnológicas de Israel | [`aulas/aula-02.md`](aulas/aula-02.md) |
 | 3 | 17/08 | Fundamentos | Chutzpah: da palavra à atitude empreendedora | [`aulas/aula-03.md`](aulas/aula-03.md) |
-| 4 | 24/08 | Fundamentos | Tolerância ao fracasso | [`aulas/aula-04.md`](aulas/aula-04.md) |
+| 4 | 24/08 | Fundamentos | Tolerância ao erro | [`aulas/aula-04.md`](aulas/aula-04.md) |
 | 5 | 31/08 | Fundamentos | O papel do Estado e do Exército | [`aulas/aula-05.md`](aulas/aula-05.md) |
 | 6 | 14/09 | Ecossistema | Estudos de caso: empresas que os alunos usam | [`aulas/aula-06.md`](aulas/aula-06.md) |
 | 7 | 28/09 | Ecossistema | Tikun olam + lançamento do desafio final | [`aulas/aula-07.md`](aulas/aula-07.md) |

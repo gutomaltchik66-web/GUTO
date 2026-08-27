@@ -73,13 +73,13 @@ aulas = [
 
     (3, "Chutzpah: da palavra à atitude empreendedora",
      "Gênesis 18:23-25",
-     "“Destruirás também o justo com o ímpio? [...] Não fará justiça o Juiz de toda a terra?” — Avraham, questionando D'us sobre a destruição de Sodoma.",
+     "“Destruirás também o justo com o ímpio? [...] Não fará justiça o Juiz de toda a terra?” (Avraham questionando D'us sobre a destruição de Sodoma).",
      "Avraham teve coragem de questionar até D'us, pedindo justiça. Você acha que questionar uma autoridade pode ser um ato de respeito, e não de desrespeito? Por quê?"),
 
-    (4, "Tolerância ao fracasso",
+    (4, "Tolerância ao erro",
      "Gênesis 32:25-29",
      "“E Iaácov ficou só; e lutava com ele um homem, até que a alva subia. [...] Não te chamarás mais Iaácov, mas Israel; pois lutaste com D'us e com os homens, e prevaleceste.”",
-     "Iaácov saiu machucado da luta, mas não desistiu até ser abençoado — e ganhou o nome Israel. Por que insistir mesmo “machucado” pode transformar quem você é?"),
+     "Iaácov saiu machucado da luta, mas não desistiu até ser abençoado, e ganhou o nome Israel. Por que insistir mesmo “machucado” pode transformar quem você é?"),
 
     (5, "O papel do Estado e do Exército",
      "Êxodo 18:21",
@@ -104,7 +104,7 @@ aulas = [
     (9, "Canvas do Projeto Pessoal: primeira ideia",
      "Gênesis 1:27",
      "“E criou D'us o homem à sua imagem; à imagem de D'us o criou; homem e mulher os criou.”",
-     "Se cada pessoa é única, criada à imagem de D'us, por que sua ideia — mesmo parecida com outras — também pode ser única?"),
+     "Se cada pessoa é única, criada à imagem de D'us, por que sua ideia (mesmo parecida com outras) também pode ser única?"),
 
     (10, "Protótipo: tirando a ideia do papel",
      "Êxodo 24:7",
@@ -123,13 +123,13 @@ aulas = [
 
     (13, "PITCH DAY — Semana Avaliativa EF2",
      "Números 13:30",
-     "“Subamos, subamos, e a possuiremos, pois totalmente poderemos com ela.” — Calebe",
+     "“Subamos, subamos, e a possuiremos, pois totalmente poderemos com ela.” (Calebe)",
      "Calebe disse isso mesmo com outros espiões com medo. De onde você tira coragem para apresentar hoje?"),
 
     (14, "Devolutivas + Feira de Ideias",
      "Levítico 19:15",
      "“Não farás injustiça no juízo [...] com justiça julgarás o teu próximo.”",
-     "A Torá pede para julgar com justiça, sem favorecer ninguém. Como isso ajuda a dar — e a receber — feedback de verdade hoje?"),
+     "A Torá pede para julgar com justiça, sem favorecer ninguém. Como isso ajuda a dar (e a receber) feedback de verdade hoje?"),
 
     (15, "E depois do pitch? Da ideia ao negócio de verdade",
      "Gênesis 2:15",

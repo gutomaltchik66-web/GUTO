@@ -15,7 +15,7 @@ Desenhe uma grade 4x2 no quadro/folha com estas caixas:
 5. **Como as pessoas vão saber** — Como divulgar a ideia? (redes sociais, boca a boca, escola)
 6. **O que eu preciso** — Recursos, ajuda, materiais, dinheiro (se houver) para tirar do papel
 7. **Como sei que deu certo** — Um número ou sinal simples de sucesso (ex: "10 pessoas testaram e gostaram")
-8. **Maior risco** — O que pode dar errado, e o que eu faço se acontecer (conexão com a aula sobre tolerância ao fracasso)
+8. **Maior risco** — O que pode dar errado, e o que eu faço se acontecer (conexão com a aula sobre tolerância ao erro)
 
 ## Modelo em texto
 
