@@ -7,7 +7,7 @@ enquadramento de página (borda) extraído de PAUTA PEQUENA.pdf.
 Cada página traz uma citação livre da Torá (Tanach, foco nos 5 livros
 de Moshé), centralizada e enquadrada, seguida de duas perguntas: a
 Pergunta 1 é sempre ligada ao trecho (diferente em cada aula) e a
-Pergunta 2 é fixa em todas as 17 páginas: "O que eu aprendi na aula de
+Pergunta 2 é fixa em todas as 15 páginas: "O que eu aprendi na aula de
 hoje?". A capa traz o título, o escudo do colégio e uma caixa grande
 em branco para o aluno desenhar.
 """
@@ -76,72 +76,62 @@ aulas = [
      "“Destruirás também o justo com o ímpio? [...] Não fará justiça o Juiz de toda a terra?” — Avraham, questionando D'us sobre a destruição de Sodoma.",
      "Avraham teve coragem de questionar até D'us, pedindo justiça. Você acha que questionar uma autoridade pode ser um ato de respeito, e não de desrespeito? Por quê?"),
 
-    (4, "Tolerância ao fracasso",
-     "Gênesis 32:25-29",
-     "“E Iaácov ficou só; e lutava com ele um homem, até que a alva subia. [...] Não te chamarás mais Iaácov, mas Israel; pois lutaste com D'us e com os homens, e prevaleceste.”",
-     "Iaácov saiu machucado da luta, mas não desistiu até ser abençoado — e ganhou o nome Israel. Por que insistir mesmo “machucado” pode transformar quem você é?"),
-
-    (5, "O papel do Estado e do Exército",
+    (4, "O papel do Estado e do Exército",
      "Êxodo 18:21",
      "“Procura dentre o povo homens capazes [...] e põe estes sobre eles por chefes de mil, chefes de cem, chefes de cinquenta e chefes de dez.”",
      "Jetro ajudou Moshé a organizar o povo em grupos, com líderes definidos. Por que até o maior líder precisa de uma boa estrutura/instituição ao seu redor?"),
 
-    (6, "Estudos de caso: empresas que os alunos usam",
-     "Números 13:17-18",
-     "“Subi por aqui para a banda do sul, e subi à montanha; e vede a terra, que tal é.”",
-     "Antes de agir, Moshé mandou espiar e estudar de perto a terra prometida. Por que observar de perto um exemplo real (como uma empresa) ajuda antes de criar algo novo?"),
-
-    (7, "Tikun olam + lançamento do desafio final",
+    (5, "Tikun olam + lançamento do desafio final",
      "Êxodo 3:9-10",
      "“E agora, eis que o clamor dos filhos de Israel chegou a mim [...] Vem, pois, agora, e enviar-te-ei a Faraó, para que tires do Egito o meu povo.”",
      "D'us chamou Moshé para agir agora, sem esperar mais. Por que agora é um bom momento para você começar seu próprio projeto?"),
 
-    (8, "Mapa de Empatia: entendendo o problema de verdade",
+    (6, "Mapa de Empatia: entendendo o problema de verdade",
      "Levítico 19:18",
      "“Não te vingarás, nem guardarás ira [...]; mas amarás o teu próximo como a ti mesmo.”",
      "Amar o próximo como a si mesmo pede que você se coloque de verdade no lugar do outro. Como isso se conecta com a empatia que você praticou hoje?"),
 
-    (9, "Canvas do Projeto Pessoal: primeira ideia",
+    (7, "Canvas do Projeto Pessoal: primeira ideia",
      "Gênesis 1:27",
      "“E criou D'us o homem à sua imagem; à imagem de D'us o criou; homem e mulher os criou.”",
      "Se cada pessoa é única, criada à imagem de D'us, por que sua ideia — mesmo parecida com outras — também pode ser única?"),
 
-    (10, "Protótipo: tirando a ideia do papel",
+    (8, "Protótipo: tirando a ideia do papel",
      "Êxodo 24:7",
      "“Tudo o que o Senhor tem dito faremos, e obedeceremos.”",
      "O povo disse “faremos” antes mesmo de entender tudo direito. Por que agir e testar pode ensinar mais do que só planejar?"),
 
-    (11, "Roteiro de Pitch: contando minha ideia em 2 min",
+    (9, "Roteiro de Pitch: contando minha ideia em 2 min",
      "Êxodo 4:11-12",
      "“Quem fez a boca do homem? [...] Vai, pois, agora, e eu serei com a tua boca, e te ensinarei o que hás de falar.”",
      "Moshé tinha medo de não saber falar direito, e D'us prometeu as palavras certas. Como preparar bem o que vai dizer pode te dar mais confiança no pitch?"),
 
-    (12, "Ensaio geral + ajustes finais",
+    (10, "Ensaio geral + ajustes finais",
      "Deuteronômio 6:6-7",
      "“E estas palavras [...] as intimarás a teus filhos, e delas falarás assentado em tua casa, e andando pelo caminho, e deitando-te, e levantando-te.”",
      "A Torá manda repetir e ensinar as palavras o tempo todo, em qualquer lugar. Por que repetir o pitch várias vezes muda como você o apresenta?"),
 
-    (13, "PITCH DAY — Semana Avaliativa EF2",
+    (11, "PITCH DAY — Semana Avaliativa EF2",
      "Números 13:30",
      "“Subamos, subamos, e a possuiremos, pois totalmente poderemos com ela.” — Calebe",
      "Calebe disse isso mesmo com outros espiões com medo. De onde você tira coragem para apresentar hoje?"),
 
-    (14, "Devolutivas + Feira de Ideias",
+    (12, "Devolutivas + Feira de Ideias",
      "Levítico 19:15",
      "“Não farás injustiça no juízo [...] com justiça julgarás o teu próximo.”",
      "A Torá pede para julgar com justiça, sem favorecer ninguém. Como isso ajuda a dar — e a receber — feedback de verdade hoje?"),
 
-    (15, "E depois do pitch? Da ideia ao negócio de verdade",
+    (13, "E depois do pitch? Da ideia ao negócio de verdade",
      "Gênesis 2:15",
      "“E tomou o Senhor D'us o homem, e pô-lo no jardim do Éden para o lavrar e o guardar.”",
      "O primeiro trabalho do ser humano foi cuidar de um jardim que continuaria crescendo. Que “jardim” você estaria cultivando com essa ideia, mesmo sem ver todo o resultado agora?"),
 
-    (16, "Banca de investidores (convidado ou simulação)",
+    (14, "Banca de investidores (convidado ou simulação)",
      "Êxodo 18:19",
      "“Ouve agora a minha voz, e aconselhar-te-ei, e D'us seja contigo.”",
      "Jetro ofereceu um conselho de fora, e Moshé ouviu. Por que ouvir perguntas difíceis de uma banca pode fortalecer sua ideia, em vez de enfraquecê-la?"),
 
-    (17, "Encerramento do semestre",
+    (15, "Encerramento do semestre",
      "Deuteronômio 8:2",
      "“E te lembrarás de todo o caminho pelo qual o Senhor teu D'us te guiou [...] para saber o que estava no teu coração.”",
      "A Torá pede para lembrar todo o caminho percorrido, não só o destino final. Olhando para trás nas páginas deste diário, o que você aprendeu sobre você mesmo?"),

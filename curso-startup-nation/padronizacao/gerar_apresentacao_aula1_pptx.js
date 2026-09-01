@@ -199,8 +199,8 @@ PARES.forEach((pair, idx) => {
   });
 
   const fases = [
-    ["1", "Conteúdo & Cultura", "Aulas 1–7", "Os valores por trás da StartUp Nation"],
-    ["2", "Meu Projeto", "Aulas 8–13", "Da ideia ao protótipo"],
+    ["1", "Conteúdo & Cultura", "Aulas 1–5", "Os valores por trás da StartUp Nation"],
+    ["2", "Meu Projeto", "Aulas 6–11", "Da ideia ao protótipo"],
     ["3", "Pitch Day", "23/11", "Apresentação final, valendo nota"],
   ];
   const colW = (SW - 2 * MARGIN - 1.0) / 3;

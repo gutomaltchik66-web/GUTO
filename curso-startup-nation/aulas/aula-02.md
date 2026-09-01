@@ -20,4 +20,4 @@
 Diário do Empreendedor preenchido + ficha de "Problemas e Caminhos" respondida em grupo (ideia própria + reflexão).
 
 ## Conexão com o projeto pessoal
-O exercício de "problema → ideia própria → caminho mais trabalhoso" da Parte 1 é uma prévia, em miniatura, do que os alunos vão fazer com o próprio projeto a partir da Aula 8 — vale retomar essa ficha lá.
+O exercício de "problema → ideia própria → caminho mais trabalhoso" da Parte 1 é uma prévia, em miniatura, do que os alunos vão fazer com o próprio projeto a partir da Aula 6 — vale retomar essa ficha lá.

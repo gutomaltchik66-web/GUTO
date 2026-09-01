@@ -1,6 +1,6 @@
 # Ferramenta 4 — Rubrica de Avaliação do Pitch Day
 
-Use esta grade para avaliar cada aluno/grupo na Aula 13 (Pitch Day, 23/11 — semana avaliativa EF2). Cada critério vale de 0 a 10; a média das quatro notas compõe os 40% do "Pitch Day" (ver `plano-de-curso.md`, seção 5).
+Use esta grade para avaliar cada aluno/grupo na Aula 11 (Pitch Day, 23/11 — semana avaliativa EF2). Cada critério vale de 0 a 10; a média das quatro notas compõe os 40% do "Pitch Day" (ver `plano-de-curso.md`, seção 5).
 
 | Critério | 0–4 (insuficiente) | 5–7 (adequado) | 8–10 (excelente) |
 |---|---|---|---|

@@ -1,21 +1,22 @@
-# Aula 5 — 31/08 — O papel do Estado e do Exército
+# Aula 5 — 28/09 — Tikun olam: inovação com propósito + lançamento do desafio final
 
-**Objetivo:** entender como o fundo Yozma e a Unidade 8200 mostram que instituições podem ser catalisadoras de inovação, e comparar com o contexto brasileiro/escolar.
+**Objetivo:** entender o conceito de tikun olam (reparar o mundo) aplicado a negócios de impacto, e lançar oficialmente o desafio do projeto pessoal que vai até o Pitch Day (23/11).
 
 **Materiais de apoio**
 - *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`)
-- *Desta aula:* blocos de `ferramentas/fichas-debate-estado.md` (um por lado da sala) · fita crepe para dividir a sala em dois lados
+- *Desta aula:* Mural das Ideias (post-its da Aula 1) · cópia de `ferramentas/rubrica-avaliacao.md`
 
 ## Roteiro (90 min)
 
-1. **Yozma (10 min)** — Explicar que, no início dos anos 1990, o governo de Israel criou o fundo Yozma para investir junto com investidores estrangeiros em startups locais, destravando a indústria de venture capital no país.
-2. **Unidade 8200 (10 min)** — Explicar que é uma unidade de inteligência tecnológica do exército israelense, quase uma "escola" de empreendedores — muitos fundadores de startups passaram por lá antes de empreender.
-3. **Debate estruturado com "sala dividida" (40 min)** — Dividir fisicamente a sala em dois lados. Um lado recebe o bloco de argumentos "O governo deveria investir" e outro "O mercado deve decidir sozinho" (`fichas-debate-estado.md`, sem necessidade de pesquisa). 10 min de preparação em grupo usando os cartões e o que já foi discutido nas aulas anteriores, 20 min de debate mediado com rodada de falas cronometradas (1 min por fala, alternando lados), 10 min de conclusão conjunta no centro da sala.
-4. **Conexão com o Brasil e com a escola (10 min)** — Em grupos pequenos: listar programas (públicos ou da escola) que ajudam jovens a empreender — feiras de ciência, editais, incubadoras, a própria eletiva StartUp Nation.
-5. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos leem no Diário a citação de Êxodo 18:21 (Jetro aconselha Moshé a organizar chefes de mil, cem, cinquenta e dez) e respondem 1) a pergunta ligada ao trecho (por que até o maior líder precisa de estrutura ao redor) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
+1. **Tikun olam (10 min)** — Explicar o conceito: a ideia judaica de que cada pessoa tem o papel de "consertar" um pedaço do mundo. Conectar com startups israelenses de impacto social/ambiental (irrigação, dessalinização, saúde acessível).
+2. **Debate rápido em roda (10 min)** — Perguntar em voz alta: *"Vocês preferem criar algo que dá lucro, ou algo que ajuda alguém, mesmo sem ganhar dinheiro com isso? Por quê?"* Colher opiniões variadas, sem fechar uma resposta certa.
+3. **Lançamento oficial do desafio final (20 min)** — Anunciar: *"Cada um de vocês (ou dupla) vai propor uma ideia própria de projeto/negócio — para resolver um problema da escola, da família, da comunidade ou do mundo — e vai apresentá-la no Pitch Day, dia 23/11, valendo nota (semana avaliativa das eletivas)."* Ler em voz alta a citação de Êxodo 3:9-10: *"O clamor dos filhos de Israel chegou a mim [...] Vem, pois, agora, e enviar-te-ei"* — D'us chamando Moshé para agir, sem esperar mais. Mostrar a Rubrica de Avaliação e explicar os 4 critérios.
+4. **Oficina "voltando ao Mural" (25 min)** — Cada aluno (ou dupla) vai até o Mural das Ideias, relê seu próprio post-it (Aula 1) e a chevruta sobre "ideia ousada" (Aula 3), e preenche uma ficha-síntese: *"O problema que eu quero resolver é... Por que esse problema me importa..."* Professor circula pela sala ajudando quem travar.
+5. **Compartilhamento em grupo pequeno (10 min)** — Cada aluno lê em voz alta, para o grupo pequeno (4 pessoas), sua ficha-síntese, recebendo 1 pergunta de curiosidade de um colega.
+6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos releem no Diário a citação de Êxodo 3:9-10 e respondem 1) a pergunta ligada ao trecho (por que agora é um bom momento para começar o próprio projeto) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
 
 ## Produto da aula
-Diário do Empreendedor preenchido + lista de argumentos do debate + lista de programas de apoio ao empreendedorismo (grupo).
+Diário do Empreendedor preenchido + ficha-síntese "problema que eu quero resolver + por que me importa", pronta para virar Mapa de Empatia na Aula 6.
 
 ## Conexão com o projeto pessoal
-Alunos já podem pensar em "quem pode me dar um empurrão" para a ideia deles (caixa "o que eu preciso" do Canvas, Aula 9).
+Esta é a aula-ponte: fecha o bloco de conteúdo/cultura (Aulas 1–5) e abre o bloco prático "Meu Projeto" (Aulas 6–10).

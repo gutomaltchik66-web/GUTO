@@ -1,6 +1,6 @@
 # Ferramenta — Fichas de Produtos Israelenses
 
-Material de apoio impresso (sem celular, sem internet). Usado na **Aula 1** como jogo de adivinhação (o desafio real: 8 são israelenses, mas **2 são pegadinha** — de outros países) e na **Aula 6** para aprofundar cada estudo de caso.
+Material de apoio impresso (sem celular, sem internet). Usado na **Aula 1** como jogo de adivinhação (o desafio real: 8 são israelenses, mas **2 são pegadinha** — de outros países) e reaproveitado como mini estudos de caso na **Aula 3** (chevruta sobre chutzpah).
 
 **Versão digital (sem imprimir):** para projetar em sala em vez de recortar papel, existe uma versão interativa em HTML — um arquivo único, sem internet, com os mesmos 10 cartões, logos ilustrativos de cada empresa como pista visual extra, seleção de "pegadinhas" e revelação com gabarito. Gerada por [`../padronizacao/gerar_jogo_html.py`](../padronizacao/gerar_jogo_html.py), a partir da mesma base de dados validada usada no PDF ([`../padronizacao/dados_jogo_10_cartoes.py`](../padronizacao/dados_jogo_10_cartoes.py)).
 

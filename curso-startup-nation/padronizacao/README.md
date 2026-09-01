@@ -33,7 +33,7 @@ Nenhuma cor de marca além de preto/branco/cinza é usada nesses dois modelos de
 
 [`gerar_diario_pdf.py`](gerar_diario_pdf.py) implementa esse padrão em Python (reportlab) e serve de modelo para gerar qualquer novo material em PDF já dentro das normas do CIB — cabeçalho, moldura e tipografia inclusos. Reutilizar essa base para os próximos materiais da eletiva.
 
-[`dividir_diario_pdf.py`](dividir_diario_pdf.py) gera o Diário completo e divide em PDFs avulsos (capa + Aula 1 + Aula 2 juntas; Aulas 3 a 17 uma por PDF) em `diario_avulso/`, para pedir impressão semanal à secretaria em vez do caderno inteiro de uma vez. Requer `qpdf` instalado (`apt-get install -y qpdf`).
+[`dividir_diario_pdf.py`](dividir_diario_pdf.py) gera o Diário completo e divide em PDFs avulsos (capa + Aula 1 + Aula 2 juntas; Aulas 3 a 15 uma por PDF) em `diario_avulso/`, para pedir impressão semanal à secretaria em vez do caderno inteiro de uma vez. Requer `qpdf` instalado (`apt-get install -y qpdf`).
 
 ## Jogo dos 10 Cartões (`dados_jogo_10_cartoes.py`, `logos_svg.py`)
 

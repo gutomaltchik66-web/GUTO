@@ -1,4 +1,4 @@
-# Aula 3 — 17/08 — Chutzpah: da palavra à atitude empreendedora
+# Aula 3 — 31/08 — Chutzpah: da palavra à atitude empreendedora
 
 **Objetivo:** os alunos provavelmente já ouviram a palavra chutzpah (audácia) em outras aulas de cultura judaica — aqui, o foco é aplicar o conceito a decisões de negócio reais, não reapresentar a definição do zero.
 

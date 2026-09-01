@@ -1,22 +1,24 @@
-# Aula 15 — 07/12 — E depois do pitch? Da ideia ao negócio de verdade
+# Aula 15 — 21/12 — Encerramento do semestre
 
-**Objetivo:** entender, com um caso real, o que acontece depois de um pitch bem-sucedido (investimento, crescimento, parcerias) e revisar o próprio projeto pensando em "próximo passo".
+**Objetivo:** fechar a eletiva retomando os grandes conceitos do semestre e produzindo uma reflexão final individual sobre a jornada de cada aluno.
 
 **Materiais de apoio**
-- *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`)
-- *Desta aula:* caso de uma startup israelense que captou investimento e cresceu (ex: trajetória do Waze até ser comprado pelo Google — usar `ferramentas/fichas-produtos-israelenses.md` como base) · Canvas revisado de cada aluno
+- *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`) — nesta aula, cada aluno relê o próprio diário do início ao fim
+- *Desta aula:* Mural das Ideias (Aula 1) · demais materiais produzidos ao longo do semestre, se possível expostos na sala
 
 ## Roteiro (90 min)
 
-1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Gênesis 2:15: *"Tomou o Senhor D'us o homem, e pô-lo no jardim do Éden para o lavrar e o guardar."* Provocar: e se a sua ideia continuasse crescendo depois do semestre?
-2. **Contação do caso (15 min)** — Contar a trajetória de uma startup: da ideia inicial ao pitch, do primeiro investimento ao crescimento (ex: Waze — de app de trânsito colaborativo a aquisição bilionária pelo Google).
-3. **Discussão em grupo (15 min)** — Em grupos: *"O que essa empresa teve que continuar fazendo depois do pitch para crescer? O que vocês acham que muda entre 'ter uma boa ideia' e 'ter um negócio de verdade'?"* Compartilhar conclusões.
-4. **Revisão do próprio projeto: "Meu próximo passo" (30 min)** — Cada aluno/dupla retoma o Canvas e escreve uma ficha: *Se eu fosse continuar esse projeto depois do semestre, qual seria o próximo passo? O que eu testaria primeiro? De quem eu pediria ajuda?* Trabalho individual/dupla, professor circulando.
-5. **Compartilhamento em duplas cruzadas (10 min)** — Trocar a ficha "Meu próximo passo" com um colega de fora da dupla, trocar 1 sugestão.
-6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos releem no Diário a citação de Gênesis 2:15 e respondem 1) a pergunta ligada ao trecho (que "jardim" estariam cultivando com essa ideia, mesmo sem ver todo o resultado agora) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
+1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Deuteronômio 8:2: *"E te lembrarás de todo o caminho pelo qual o Senhor teu D'us te guiou [...] para saber o que estava no teu coração."* Explicar que essa é a moldura da aula de hoje: lembrar o caminho do semestre inteiro, não só o resultado final.
+2. **Linha do tempo do semestre (10 min)** — Em roda, o professor retoma rapidamente cada bloco: Fundamentos (chutzpah, Estado/Exército), Ecossistema (tikun olam), Meu Projeto (mapa de empatia, canvas, protótipo, pitch), Avaliação e Fechamento.
+3. **Revisita ao Mural e ao Diário (15 min)** — Alunos vão até o Mural das Ideias (post-it da Aula 1) e releem o próprio Diário do início ao fim — comparar com onde o projeto chegou.
+4. **Reflexão final escrita (25 min)** — Cada aluno escreve uma carta para si mesmo (formato livre, pode ser bilhete curto) respondendo: *O que eu sabia sobre empreendedorismo/Israel no início do semestre? O que eu sei agora? Qual valor da Startup Nation (chutzpah, tikun olam) eu quero levar comigo? O que eu faria diferente se começasse esse projeto de novo?*
+5. **Compartilhamento voluntário (15 min)** — Quem quiser, lê um trecho da carta em voz alta. Sem obrigar ninguém.
+6. **Roda de agradecimento (5 min)** — Cada aluno diz uma palavra que resume o semestre.
+7. **Diário — Citação + Perguntas (10 min)** — Para fechar a última página do caderno, os alunos releem no Diário a citação de Deuteronômio 8:2 e respondem 1) a pergunta ligada ao trecho (olhando para trás nas páginas do diário, o que aprenderam sobre si mesmos) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*.
+8. **Encerramento formal (5 min)** — Fechar a eletiva agradecendo a turma.
 
 ## Produto da aula
-Diário do Empreendedor preenchido + ficha "Meu próximo passo" preenchida.
+Diário do Empreendedor completo (15 páginas) + carta final de reflexão — pode compor a nota de participação/processo do semestre, junto com a nota do Pitch Day (Aula 11).
 
-## Conexão com a Aula 16
-Essa ficha pode virar pauta de perguntas para a banca de investidores da próxima aula.
+## Observação para o professor
+Guardar as cartas (com autorização dos alunos) — são um ótimo material para abrir a eletiva do próximo semestre, mostrando aos novos alunos o que turmas anteriores escreveram.

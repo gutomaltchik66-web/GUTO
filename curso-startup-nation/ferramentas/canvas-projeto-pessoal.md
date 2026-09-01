@@ -2,7 +2,7 @@
 
 Versão simplificada do Business Model Canvas (Osterwalder) e do Lean Canvas, adaptada para um projeto pessoal de aluno de 8º/9º ano. Cabe em uma folha A4 (ou A3, se quiser mais espaço para escrever).
 
-**Quando usar:** Aula 9 (Canvas do Projeto Pessoal) — primeira versão. Revisado em casa e retomado na Aula 10 (Protótipo) e na Aula 11 antes do pitch.
+**Quando usar:** Aula 7 (Canvas do Projeto Pessoal) — primeira versão. Revisado em casa e retomado na Aula 8 (Protótipo) e na Aula 9 antes do pitch.
 
 ## As 8 caixas
 
@@ -15,7 +15,7 @@ Desenhe uma grade 4x2 no quadro/folha com estas caixas:
 5. **Como as pessoas vão saber** — Como divulgar a ideia? (redes sociais, boca a boca, escola)
 6. **O que eu preciso** — Recursos, ajuda, materiais, dinheiro (se houver) para tirar do papel
 7. **Como sei que deu certo** — Um número ou sinal simples de sucesso (ex: "10 pessoas testaram e gostaram")
-8. **Maior risco** — O que pode dar errado, e o que eu faço se acontecer (conexão com a aula sobre tolerância ao fracasso)
+8. **Maior risco** — O que pode dar errado, e o que eu faço se acontecer
 
 ## Modelo em texto
 

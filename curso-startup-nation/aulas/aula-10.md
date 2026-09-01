@@ -1,23 +1,22 @@
-# Aula 10 — 26/10 — Protótipo: tirando a ideia do papel
+# Aula 10 — 16/11 — Ensaio geral + ajustes finais
 
-**Objetivo:** cada aluno/dupla constrói uma primeira versão tangível (protótipo rápido) da sua solução, a partir do Canvas revisado.
+**Objetivo:** última aula antes do Pitch Day — cada aluno/dupla ensaia o pitch completo (com protótipo em mãos) em condição parecida com a apresentação real, e faz os ajustes finais.
 
 **Materiais de apoio**
 - *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`)
-- *Desta aula:* cópias de `ferramentas/prototipo-rapido.md` · papel, tesoura, cola, canetinhas, sucata reciclável (caixas, tampinhas, rolos) — pedir com antecedência ou disponibilizar caixa de materiais da sala de arte
+- *Desta aula:* protótipos da Aula 8 · Roteiro de Pitch ajustado da Aula 9 · cronômetro físico · cópias extras de `ferramentas/rubrica-avaliacao.md` para autoavaliação
 
 ## Roteiro (90 min)
 
-1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Êxodo 24:7: *"Tudo o que o Senhor tem dito faremos, e obedeceremos."* Provocar: hoje é o dia de agir, não só planejar.
-2. **Checagem (5 min)** — Rápida checagem: quem revisou o Canvas em casa (versão 2)?
-3. **Explicação do Protótipo Rápido (10 min)** — Apresentar os 5 formatos possíveis (desenho/storyboard, maquete, telas de app, encenação, cartaz) com exemplo rápido de cada um.
-4. **Escolha e planejamento (10 min)** — Cada aluno/dupla escolhe o formato e anota rapidamente o que vai construir.
-5. **Mão na massa (35 min)** — Tempo de construção do protótipo. Professor circula pela sala, provocando com perguntas ("como uma pessoa que nunca viu isso entenderia sozinha?"). Reforçar: rabiscado e feito vale mais que perfeito e não feito.
-6. **Rodada de "teste relâmpago" (15 min)** — Cada dupla mostra o protótipo para outra dupla (2 min cada) e pergunta: *"Você entendeu como isso funciona? O que ficou confuso?"* Anotar 1 aprendizado no template.
-7. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos releem no Diário a citação de Êxodo 24:7 e respondem 1) a pergunta ligada ao trecho (por que agir e testar pode ensinar mais do que só planejar) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
+1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Deuteronômio 6:6-7: *"E estas palavras [...] delas falarás assentado em tua casa, e andando pelo caminho, e deitando-te, e levantando-te."* Relembrar formato do Pitch Day (23/11): 2 min de fala + 1 min de pergunta, banca avaliando pela rubrica.
+2. **Ensaio geral em pequenos grupos (40 min)** — Formar "mini-bancas" de 4–5 alunos/duplas. Cada um apresenta o pitch completo, com protótipo, para o pequeno grupo, cronometrado. O grupo preenche uma ficha de rubrica simplificada como treino de avaliação (isso também ensina os critérios pela prática).
+3. **Rodada de ajustes (20 min)** — Cada aluno/dupla ajusta o que não ficou bom (tempo estourado, parte confusa, protótipo que não ajudou) — tempo dedicado exclusivamente a polir.
+4. **Checklist final em duplas (5 min)** — Revisar juntos o checklist do Roteiro de Pitch (cabe em 2 min? começa com gancho? tem número/exemplo concreto? termina com pedido claro?).
+5. **Sorteio da ordem (5 min)** — Sortear a ordem de apresentação do Pitch Day, para reduzir ansiedade de última hora, e confirmar quem trará o quê (protótipo, materiais extras).
+6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos releem no Diário a citação de Deuteronômio 6:6-7 e respondem 1) a pergunta ligada ao trecho (por que repetir o pitch várias vezes muda como você o apresenta) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
 
 ## Produto da aula
-Diário do Empreendedor preenchido + protótipo físico/desenhado + ficha de reflexão preenchida (`ferramentas/prototipo-rapido.md`).
+Diário do Empreendedor preenchido + pitch ensaiado e ajustado + ficha de rubrica de treino preenchida por colegas.
 
-## Conexão com o projeto pessoal
-O protótipo e o teste relâmpago geram material real para o "gancho" e a "solução" do Roteiro de Pitch (Aula 11).
+## Aviso importante
+Nesta aula não se cria mais conteúdo novo — é só polimento. Reforçar que erros no ensaio são bem-vindos (ainda dá tempo de corrigir).

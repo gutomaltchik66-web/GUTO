@@ -1,27 +1,25 @@
-# Aula 6 — 14/09 — Estudos de caso: empresas que os alunos usam
+# Aula 6 — 05/10 — Mapa de Empatia: entendendo o problema de verdade
 
-**Objetivo:** analisar em grupo uma startup israelense real, identificando problema, solução e o "fator startup nation" por trás dela — desta vez com mais profundidade que na Aula 1.
+**Objetivo:** cada aluno/dupla escolhe uma pessoa real que sofre o problema identificado na Aula 5 e preenche o Mapa de Empatia sobre ela.
 
 **Materiais de apoio**
 - *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`)
-- *Desta aula:* cartões + gabarito de `ferramentas/fichas-produtos-israelenses.md` (uma empresa por grupo, agora com o "Fato" revelado) · cartolina/folha grande por grupo
-- *Opcional:* se houver sala de informática disponível nesta semana, usar os computadores para aprofundar a pesquisa de cada empresa — sem isso, as fichas impressas já são suficientes para a atividade
+- *Desta aula:* cópias de `ferramentas/mapa-de-empatia.md` · lápis/caneta
 
-## Empresas sugeridas (uma por grupo, 6 a 8 grupos)
-
-Waze · Wix · Mobileye · SolarEdge · ICQ · Fiverr · Sisense · pen drive/USB (escolher conforme tamanho da turma).
+## Decisão prévia do professor
+Definir se o projeto será individual ou em duplas/trios (recomendação: duplas, para facilitar o Pitch Day e manter a turma engajada em par).
 
 ## Roteiro (90 min)
 
-1. **Formação de grupos e entrega das fichas (5 min)**
-2. **Aprofundamento em cartaz (25 min)** — Cada grupo aprofunda sua empresa a partir da ficha (ou dos computadores, se disponíveis) e responde em cartaz: *Que problema ela resolve? Quem são os fundadores? O que essa empresa tem de "startup nation" (ousadia, escassez, ideia contra o senso comum)?* Incluir 1 desenho/logo no cartaz.
-3. **Preparação da apresentação relâmpago (10 min)** — Grupo organiza uma fala de até 3 minutos, definindo quem fala o quê.
-4. **Apresentações (30 min)** — Cada grupo apresenta (até 3 min cada + 1 min de perguntas da turma).
-5. **Votação (10 min)** — Cada aluno vota (levantando a mão ou post-it) em qual empresa apresentada "mais parece com uma ideia que eu teria" e explica em 1 frase por quê — registrar no caderno.
-6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos leem no Diário a citação de Números 13:17-18 (Moshé manda espiar e estudar de perto a terra) e respondem 1) a pergunta ligada ao trecho (por que observar de perto um exemplo real ajuda antes de criar algo novo) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
+1. **Retomada (5 min)** — Reler em voz alta 2–3 fichas-síntese da Aula 5 (com autorização dos alunos), para reaquecer o grupo.
+2. **Explicação do Mapa de Empatia (10 min)** — Apresentar as 6 caixas (pensa/sente, vê, ouve, diz/faz, dores, ganhos) com um exemplo rápido feito junto com a turma no quadro.
+3. **Trabalho prático: preenchendo o mapa (35 min)** — Cada aluno/dupla escolhe a pessoa real e preenche as 6 caixas. Quem terminar rápido faz um segundo mapa de outra pessoa, para comparar pontos de vista.
+4. **Entrevista relâmpago, se possível (15 min)** — Sempre que der (ex: a "pessoa real" for um colega de outra dupla presente na sala), fazer uma entrevista de verdade de 3 min para completar o mapa com respostas reais, não só suposições.
+5. **Fechamento em grupo (15 min)** — Em grupos de 4, cada aluno/dupla lê a linha "dores" para os colegas — é normalmente ali que a ideia de negócio fica mais clara. Colher 1 comentário de cada grupo.
+6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos leem no Diário a citação de Levítico 19:18 (*"Amarás o teu próximo como a ti mesmo"*) e respondem 1) a pergunta ligada ao trecho (como isso se conecta com a empatia praticada hoje) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
 
 ## Produto da aula
-Diário do Empreendedor preenchido + cartaz de grupo + apresentação relâmpago + frase de votação individual.
+Diário do Empreendedor preenchido + Mapa de Empatia preenchido (uma pessoa real, no mínimo).
 
-## Conexão com o projeto pessoal
-Modelo de "pitch curto" que será formalizado no Roteiro de Pitch (Aula 11) — os alunos já treinam falar em público sobre uma ideia de negócio.
+## Tarefa de casa
+Se possível, fazer uma pergunta real para a pessoa do mapa (ou outra parecida) sobre o problema, e trazer a resposta anotada para a próxima aula.

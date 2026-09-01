@@ -1,21 +1,24 @@
-# Aula 4 — 24/08 — Tolerância ao fracasso
+# Aula 4 — 14/09 — O papel do Estado e do Exército
 
-**Objetivo:** desconstruir o medo do erro, entendendo a cultura israelense de "fracasso inteligente" (failure resilience), e conectar isso à própria experiência socioemocional dos alunos.
+**Objetivo:** entender como o fundo Yozma e a Unidade 8200 mostram que instituições podem ser catalisadoras de inovação, e comparar com o contexto brasileiro/escolar.
 
 **Materiais de apoio**
 - *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`)
-- *Desta aula:* papel avulso para "cartas do fracasso" · caixa/envelope para recolhê-las (vira o "Baú de Aprendizados" da turma)
+- *Desta aula:* blocos de `ferramentas/fichas-debate-estado.md` (um por lado da sala) · fita crepe para dividir a sala em dois lados
+
+## Preparação prévia (antes da aula)
+Convidado já confirmado para esta aula. Ajustar os tempos do roteiro abaixo conforme o formato da fala do convidado (ex: encaixar a fala no lugar dos itens 1–2, ou como abertura antes do debate).
 
 ## Roteiro (90 min)
 
-1. **Conceito (10 min)** — Explicar que, no ecossistema israelense, uma startup que fecha não é vista como vergonha, mas como aprendizado — investidores muitas vezes preferem apostar em quem já "quebrou a cara" uma vez.
-2. **Estudo de caso (10 min)** — Contar brevemente a história de fundadores que tentaram um primeiro negócio que não vingou antes de criar uma empresa de sucesso.
-3. **Atividade: "Carta do Fracasso" (40 min)** — Cada aluno escreve, em uma folha, uma carta curta contando um fracasso pessoal (um projeto, uma prova, uma tentativa que não deu certo) e o que aprendeu com ele — pode ser anônima. Depois, em grupos de 4, cada um lê sua carta em voz alta para o grupo (regra: ninguém ri, ninguém julga, só escuta). Fechar recolhendo as cartas no "Baú de Aprendizados", que fica guardado até o fim do semestre.
-4. **Rodada de adivinhação (15 min)** — Em pé, o professor lê (sem dizer o autor) 3–4 cartas em voz alta e a turma tenta adivinhar "que aprendizado ficou disso".
-5. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos leem no Diário a citação de Gênesis 32:25-29 (Iaácov luta com o anjo e vira Israel) e respondem 1) a pergunta ligada ao trecho (por que insistir mesmo "machucado" pode transformar quem você é) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
+1. **Yozma (10 min)** — Explicar que, no início dos anos 1990, o governo de Israel criou o fundo Yozma para investir junto com investidores estrangeiros em startups locais, destravando a indústria de venture capital no país.
+2. **Unidade 8200 (10 min)** — Explicar que é uma unidade de inteligência tecnológica do exército israelense, quase uma "escola" de empreendedores — muitos fundadores de startups passaram por lá antes de empreender.
+3. **Debate estruturado com "sala dividida" (40 min)** — Dividir fisicamente a sala em dois lados. Um lado recebe o bloco de argumentos "O governo deveria investir" e outro "O mercado deve decidir sozinho" (`fichas-debate-estado.md`, sem necessidade de pesquisa). 10 min de preparação em grupo usando os cartões e o que já foi discutido nas aulas anteriores, 20 min de debate mediado com rodada de falas cronometradas (1 min por fala, alternando lados), 10 min de conclusão conjunta no centro da sala.
+4. **Conexão com o Brasil e com a escola (10 min)** — Em grupos pequenos: listar programas (públicos ou da escola) que ajudam jovens a empreender — feiras de ciência, editais, incubadoras, a própria eletiva StartUp Nation.
+5. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos leem no Diário a citação de Êxodo 18:21 (Jetro aconselha Moshé a organizar chefes de mil, cem, cinquenta e dez) e respondem 1) a pergunta ligada ao trecho (por que até o maior líder precisa de estrutura ao redor) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
 
 ## Produto da aula
-Diário do Empreendedor preenchido + Carta do Fracasso entregue.
+Diário do Empreendedor preenchido + lista de argumentos do debate + lista de programas de apoio ao empreendedorismo (grupo).
 
 ## Conexão com o projeto pessoal
-A frase ajuda a preencher a caixa "Maior risco e o que faço se acontecer" do Canvas (Aula 9) — os alunos já treinaram falar sobre risco/erro sem medo.
+Alunos já podem pensar em "quem pode me dar um empurrão" para a ideia deles (caixa "o que eu preciso" do Canvas, Aula 7).

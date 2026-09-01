@@ -1,8 +1,8 @@
 # Ferramenta 3 — Roteiro do Pitch (2 minutos)
 
-**Para que serve:** estruturar a apresentação final de cada aluno/grupo no Pitch Day (Aula 13), baseada no modelo de elevator pitch.
+**Para que serve:** estruturar a apresentação final de cada aluno/grupo no Pitch Day (Aula 11), baseada no modelo de elevator pitch.
 
-**Quando usar:** Aulas 11–12 (preparação e ensaio) e Aula 13 (apresentação).
+**Quando usar:** Aulas 9–10 (preparação e ensaio) e Aula 11 (apresentação).
 
 ## Estrutura em 5 partes (2 minutos no total)
 
@@ -42,4 +42,4 @@ CHAMADA FINAL:
 - [ ] Termina com um pedido claro (não só "obrigado")
 - [ ] Foi ensaiado em voz alta pelo menos 2 vezes
 
-**Dica para o professor:** na Aula 11, faça os alunos apresentarem o pitch para um colega e receberem 1 elogio + 1 sugestão, antes do Pitch Day valendo nota.
+**Dica para o professor:** na Aula 9, faça os alunos apresentarem o pitch para um colega e receberem 1 elogio + 1 sugestão, antes do Pitch Day valendo nota.

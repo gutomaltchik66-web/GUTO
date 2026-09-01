@@ -1,22 +1,22 @@
-# Aula 12 — 16/11 — Ensaio geral + ajustes finais
+# Aula 12 — 30/11 — Devolutivas + Feira de Ideias
 
-**Objetivo:** última aula antes do Pitch Day — cada aluno/dupla ensaia o pitch completo (com protótipo em mãos) em condição parecida com a apresentação real, e faz os ajustes finais.
+**Objetivo:** os alunos recebem a devolutiva formal do Pitch Day e expõem seus projetos em formato de feira para outras turmas/comunidade escolar.
 
 **Materiais de apoio**
 - *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`)
-- *Desta aula:* protótipos da Aula 10 · Roteiro de Pitch ajustado da Aula 11 · cronômetro físico · cópias extras de `ferramentas/rubrica-avaliacao.md` para autoavaliação
+- *Desta aula:* fichas de rubrica preenchidas na Aula 11 · protótipos · mesas/espaço comum (pátio ou corredor, se possível combinar com a coordenação)
 
 ## Roteiro (90 min)
 
-1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Deuteronômio 6:6-7: *"E estas palavras [...] delas falarás assentado em tua casa, e andando pelo caminho, e deitando-te, e levantando-te."* Relembrar formato do Pitch Day (23/11): 2 min de fala + 1 min de pergunta, banca avaliando pela rubrica.
-2. **Ensaio geral em pequenos grupos (40 min)** — Formar "mini-bancas" de 4–5 alunos/duplas. Cada um apresenta o pitch completo, com protótipo, para o pequeno grupo, cronometrado. O grupo preenche uma ficha de rubrica simplificada como treino de avaliação (isso também ensina os critérios pela prática).
-3. **Rodada de ajustes (20 min)** — Cada aluno/dupla ajusta o que não ficou bom (tempo estourado, parte confusa, protótipo que não ajudou) — tempo dedicado exclusivamente a polir.
-4. **Checklist final em duplas (5 min)** — Revisar juntos o checklist do Roteiro de Pitch (cabe em 2 min? começa com gancho? tem número/exemplo concreto? termina com pedido claro?).
-5. **Sorteio da ordem (5 min)** — Sortear a ordem de apresentação do Pitch Day, para reduzir ansiedade de última hora, e confirmar quem trará o quê (protótipo, materiais extras).
-6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos releem no Diário a citação de Deuteronômio 6:6-7 e respondem 1) a pergunta ligada ao trecho (por que repetir o pitch várias vezes muda como você o apresenta) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
+1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Levítico 19:15: *"Com justiça julgarás o teu próximo."* Provocar: hoje é dia de dar e receber feedback — vale para os dois lados.
+2. **Devolutiva individual (10 min)** — Devolver a ficha de rubrica de cada aluno/dupla, com nota e comentário. Dar 5 min para leitura silenciosa e reação.
+3. **Roda de leitura de devolutivas (15 min)** — Em grupos de 4, cada aluno lê para os colegas 1 elogio e 1 sugestão que recebeu, sem constrangimento — normalizar que toda apresentação tem pontos a melhorar.
+4. **Montagem da Feira de Ideias (15 min)** — Cada aluno/dupla organiza uma "banquinha" com o protótipo e um cartaz resumo do projeto (problema + solução + 1 frase de impacto), no formato de feira de ciências.
+5. **Feira aberta (25 min)** — Convidar outra turma, a coordenação ou os pais (se houver combinação prévia) para circular pela feira; alunos explicam seus projetos a quem passa.
+6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos releem no Diário a citação de Levítico 19:15 e respondem 1) a pergunta ligada ao trecho (como julgar com justiça ajuda a dar e receber feedback de verdade) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
 
 ## Produto da aula
-Diário do Empreendedor preenchido + pitch ensaiado e ajustado + ficha de rubrica de treino preenchida por colegas.
+Diário do Empreendedor preenchido + banquinha montada + participação ativa na feira.
 
-## Aviso importante
-Nesta aula não se cria mais conteúdo novo — é só polimento. Reforçar que erros no ensaio são bem-vindos (ainda dá tempo de corrigir).
+## Observação para o professor
+Se não for possível abrir a feira para fora da sala nesta data, adaptar para uma "feira interna", só entre os alunos da própria turma — o valor pedagógico (expor, explicar, receber feedback de quem não viu o processo) se mantém.

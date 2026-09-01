@@ -1,22 +1,22 @@
-# Aula 14 — 30/11 — Devolutivas + Feira de Ideias
+# Aula 14 — 14/12 — Banca de investidores (convidado ou simulação)
 
-**Objetivo:** os alunos recebem a devolutiva formal do Pitch Day e expõem seus projetos em formato de feira para outras turmas/comunidade escolar.
+**Objetivo:** os alunos revisitam seus projetos numa segunda rodada, mais leve, recebendo perguntas de uma "banca de investidores" — convidado externo real ou simulação entre os próprios alunos.
 
 **Materiais de apoio**
 - *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`)
-- *Desta aula:* fichas de rubrica preenchidas na Aula 13 · protótipos · mesas/espaço comum (pátio ou corredor, se possível combinar com a coordenação)
+- *Desta aula:* protótipos e Canvas de cada projeto · cartões de perguntas para simulação (se não houver convidado)
+
+## Preparação prévia (antes da aula)
+- Opção A (preferível): convidar um empreendedor, ex-aluno, familiar da comunidade ou profissional ligado a inovação/investimento para fazer perguntas curtas aos projetos, em clima leve (não é mais avaliação com nota — já ocorreu na Aula 11).
+- Opção B (sem convidado): preparar cartões com perguntas típicas de investidor ("quem pagaria por isso?", "qual seu maior concorrente?", "como isso cresce daqui a 1 ano?") para os próprios alunos se revezarem fazendo essas perguntas uns aos outros.
 
 ## Roteiro (90 min)
 
-1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Levítico 19:15: *"Com justiça julgarás o teu próximo."* Provocar: hoje é dia de dar e receber feedback — vale para os dois lados.
-2. **Devolutiva individual (10 min)** — Devolver a ficha de rubrica de cada aluno/dupla, com nota e comentário. Dar 5 min para leitura silenciosa e reação.
-3. **Roda de leitura de devolutivas (15 min)** — Em grupos de 4, cada aluno lê para os colegas 1 elogio e 1 sugestão que recebeu, sem constrangimento — normalizar que toda apresentação tem pontos a melhorar.
-4. **Montagem da Feira de Ideias (15 min)** — Cada aluno/dupla organiza uma "banquinha" com o protótipo e um cartaz resumo do projeto (problema + solução + 1 frase de impacto), no formato de feira de ciências.
-5. **Feira aberta (25 min)** — Convidar outra turma, a coordenação ou os pais (se houver combinação prévia) para circular pela feira; alunos explicam seus projetos a quem passa.
-6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos releem no Diário a citação de Levítico 19:15 e respondem 1) a pergunta ligada ao trecho (como julgar com justiça ajuda a dar e receber feedback de verdade) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
+1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Êxodo 18:19: *"Ouve agora a minha voz, e aconselhar-te-ei, e D'us seja contigo."* Explicar que essa é uma segunda chance de apresentar, sem pressão de nota — foco em receber perguntas difíceis e pensar rápido.
+2. **Rodada de mini-pitches (45 min)** — Cada aluno/dupla faz um pitch bem curto (1 min) para o convidado/mini-banca de colegas, seguido de 2 perguntas usando os cartões ou perguntas livres do convidado.
+3. **Registro das respostas (15 min)** — Cada aluno anota, por escrito, a pergunta mais difícil que recebeu e como respondeu (ou como responderia agora, com calma).
+4. **Roda de aprendizados (10 min)** — Compartilhar em voz alta: qual pergunta pegou todo mundo de surpresa?
+5. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos releem no Diário a citação de Êxodo 18:19 e respondem 1) a pergunta ligada ao trecho (por que ouvir perguntas difíceis de uma banca pode fortalecer a ideia) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Agradecer o convidado (se houver) e anunciar a Aula 15 como encerramento do semestre. Texto completo em `ferramentas/diario-do-empreendedor.md`.
 
 ## Produto da aula
-Diário do Empreendedor preenchido + banquinha montada + participação ativa na feira.
-
-## Observação para o professor
-Se não for possível abrir a feira para fora da sala nesta data, adaptar para uma "feira interna", só entre os alunos da própria turma — o valor pedagógico (expor, explicar, receber feedback de quem não viu o processo) se mantém.
+Diário do Empreendedor preenchido + ficha "pergunta mais difícil + minha resposta" preenchida.

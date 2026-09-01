@@ -1,4 +1,4 @@
-# Ferramenta — Cartões de Argumentos para o Debate (Aula 5)
+# Ferramenta — Cartões de Argumentos para o Debate (Aula 4)
 
 Material de apoio impresso, sem celular, para preparar o debate "O governo deveria investir pesado em ideias de jovens/startups" x "O mercado deve decidir sozinho". Distribuir um bloco para cada lado da sala.
 
@@ -18,4 +18,4 @@ Material de apoio impresso, sem celular, para preparar o debate "O governo dever
 - Investidores privados (que arriscam o próprio dinheiro) tendem a ser mais cuidadosos ao escolher em quem investir.
 - Muitas startups famosas no mundo cresceram sem nenhuma ajuda direta do governo, só com investidores privados.
 
-**Instrução para o professor:** cada grupo pode escolher 2–3 desses argumentos como ponto de partida, e é incentivado a criar argumentos próprios a partir do que já foi discutido nas Aulas 1 a 4.
+**Instrução para o professor:** cada grupo pode escolher 2–3 desses argumentos como ponto de partida, e é incentivado a criar argumentos próprios a partir do que já foi discutido nas Aulas 1 a 3.
