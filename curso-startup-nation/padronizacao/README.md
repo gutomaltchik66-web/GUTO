@@ -35,6 +35,10 @@ Nenhuma cor de marca além de preto/branco/cinza é usada nesses dois modelos de
 
 [`dividir_diario_pdf.py`](dividir_diario_pdf.py) gera o Diário completo e divide em PDFs avulsos (capa + Aula 1 + Aula 2 juntas; Aulas 3 a 15 uma por PDF) em `diario_avulso/`, para pedir impressão semanal à secretaria em vez do caderno inteiro de uma vez. Requer `qpdf` instalado (`apt-get install -y qpdf`).
 
+## Cronograma (`gerar_cronograma_pdf.py`)
+
+Gera `Cronograma - Eletiva StartUp Nation.pdf`: tabela das 15 aulas (número, data, bloco, tema, status) com o cabeçalho institucional do CIB, seguida do histórico da revisão de 01/09 e das datas que não contam. Dados (`AULAS`, `DADAS`, `HISTORICO`, `DATAS_FORA`) sincronizados manualmente com `../calendario.md` — atualizar aqui sempre que o calendário mudar.
+
 ## Jogo dos 10 Cartões (`dados_jogo_10_cartoes.py`, `logos_svg.py`)
 
 Fonte única dos dados (empresas, país, fatos validados) e dos logos ilustrativos (desenho próprio em SVG, não os logotipos oficiais) usados tanto no PDF do jogo (`gerar_jogo_cartoes_pdf.py`) quanto na versão digital (`gerar_jogo_html.py`) e na apresentação de slides — assim os três materiais nunca ficam dessincronizados.
