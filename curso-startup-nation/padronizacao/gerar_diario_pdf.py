@@ -79,7 +79,7 @@ aulas = [
     (4, "O papel do Estado e do Exército",
      "Êxodo 18:21",
      "“Procura dentre o povo homens capazes [...] e põe estes sobre eles por chefes de mil, chefes de cem, chefes de cinquenta e chefes de dez.”",
-     "Jetro ajudou Moshé a organizar o povo em grupos, com líderes definidos. Por que até o maior líder precisa de uma boa estrutura/instituição ao seu redor?"),
+     "Yitro ajudou Moshé a organizar o povo em grupos, com líderes definidos. Por que até o maior líder precisa de uma boa estrutura/instituição ao seu redor?"),
 
     (5, "Tikun olam + lançamento do desafio final",
      "Êxodo 3:9-10",
@@ -129,7 +129,7 @@ aulas = [
     (14, "Banca de investidores (convidado ou simulação)",
      "Êxodo 18:19",
      "“Ouve agora a minha voz, e aconselhar-te-ei, e D'us seja contigo.”",
-     "Jetro ofereceu um conselho de fora, e Moshé ouviu. Por que ouvir perguntas difíceis de uma banca pode fortalecer sua ideia, em vez de enfraquecê-la?"),
+     "Yitro ofereceu um conselho de fora, e Moshé ouviu. Por que ouvir perguntas difíceis de uma banca pode fortalecer sua ideia, em vez de enfraquecê-la?"),
 
     (15, "Encerramento do semestre",
      "Deuteronômio 8:2",
