@@ -19,4 +19,4 @@ Esta aula foi dividida em dois encontros (21/09 não teve aula por causa de Iom 
 `ferramentas/fichas-debate-estado.md`: debate "o governo deveria investir x o mercado decide sozinho", com o fundo Yozma e a Unidade 8200. Não foi usado nesta turma; fica disponível para retomar o tema, se quiser.
 
 ## Conexão com o projeto pessoal
-Alunos já podem pensar em "quem pode me dar um empurrão" para a ideia deles (caixa "o que eu preciso" do Canvas, Aula 6).
+Alunos já podem pensar em "quem pode me dar um empurrão" para a ideia deles (caixa "o que eu preciso" do Canvas, usado nas oficinas das Aulas 6 e 7).

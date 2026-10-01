@@ -1,20 +1,17 @@
-# Aula 8 — 09/11 — Roteiro de Pitch: contando minha ideia em 2 minutos
+# Aula 8 — 09/11 — Oficina de projeto 3: valores judaicos e roteiro do pitch
 
-**Objetivo:** cada aluno/dupla transforma o Canvas e o protótipo em um roteiro de pitch de 2 minutos.
+**Objetivo:** última aula de trabalho antes do ensaio. O foco do dia é a conexão do projeto com valores judaicos (critério da rubrica) e transformar os slides em um pitch de 2 minutos.
 
 **Materiais de apoio**
-- cópias de `ferramentas/roteiro-pitch.md` · cronômetro físico da sala (ou do professor — não dos alunos)
+- os trabalhos dos alunos (sala de informática ou notebooks, se possível)
+- checklist do projeto (ver Aula 6) · `ferramentas/roteiro-pitch.md` · `ferramentas/rubrica-avaliacao.md` · cronômetro
 
 ## Roteiro (90 min)
 
-1. **O que é um pitch (10 min)** — Explicar a estrutura de 5 partes (gancho, problema, solução, por que eu, chamada final). Professor apresenta um exemplo pronto de 2 min, usando uma das empresas do jogo dos 10 cartões (Aula 1), cronometrado na frente da turma (modelo de comportamento esperado).
-2. **Escrita do roteiro (30 min)** — Cada aluno/dupla preenche o Roteiro de Pitch a partir do Canvas e do protótipo já prontos. Professor circula ajudando quem travar no "gancho" (parte mais difícil).
-3. **Primeiro ensaio individual, em pé (15 min)** — Cada aluno/dupla lê o roteiro em voz alta sozinho (ou "sussurrado" se a sala for pequena), cronometrando — objetivo aqui não é performance, é sentir o tempo.
-4. **Ensaio em duplas cruzadas (20 min)** — Trocar de parceiro (não o da dupla do projeto): cada um apresenta o pitch para o colega, cronometrando. O colega dá **1 elogio + 1 sugestão** usando o checklist do Roteiro de Pitch.
-5. **Ajustes finais (15 min)** — Cada aluno/dupla ajusta o roteiro com base no feedback recebido e entrega a versão ajustada.
+1. **Foco do dia (10 min)** — Relembrar os valores trabalhados no semestre (chutzpah, tikun olam) e outros que podem caber nos projetos (tzedaká, chevruta, cuidar da saúde, acolher quem sofre). Cada grupo escolhe um e escreve 1 frase ligando o valor ao projeto. Mostrar a estrutura do pitch: gancho, problema, solução, por que nós, pedido final.
+2. **Mão na massa (50 min)** — Grupos fecham o que falta no checklist, montam o roteiro de 2 min e fazem a revisão de texto dos slides (ortografia e acentos).
+3. **Primeiro pitch cronometrado (25 min)** — Cada grupo apresenta para outro grupo, com cronômetro. O grupo que assiste dá 1 elogio + 1 sugestão usando o checklist do Roteiro de Pitch.
+4. **Combinados (5 min)** — Relembrar que o Pitch Day é dia 23/11, no auditório, e que 16/11 é o ensaio geral.
 
 ## Produto da aula
-Roteiro de Pitch escrito, ensaiado e ajustado após feedback.
-
-## Aviso importante
-Relembrar que o Pitch Day é dia 23/11, no auditório (semana avaliativa das eletivas EF2), e reforçar os 4 critérios da Rubrica de Avaliação antes de encerrar a aula.
+Projeto completo (checklist inteiro) + roteiro de pitch de 2 min, já ensaiado uma vez.

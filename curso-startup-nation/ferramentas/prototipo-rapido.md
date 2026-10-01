@@ -2,7 +2,7 @@
 
 **Para que serve:** tirar a ideia do papel do Canvas e torná-la visível/tangível, mesmo que de forma simples — testar se a solução "funciona" antes de gastar tempo demais nela.
 
-**Quando usar:** Aula 7, depois da versão revisada do Canvas (Aula 6) e antes do Roteiro de Pitch (Aula 8).
+**Quando usar:** Aula 7 (Oficina de projeto 2), para o grupo que ainda não tem nada visível da solução.
 
 ## Formatos possíveis (o aluno/dupla escolhe 1)
 

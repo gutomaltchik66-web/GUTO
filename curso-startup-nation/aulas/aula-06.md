@@ -1,24 +1,26 @@
-# Aula 6 — 19/10 — Mapa de Empatia + Canvas do Projeto Pessoal
+# Aula 6 — 19/10 — Oficina de projeto 1: problema, público e evidência
 
-**Objetivo:** cada aluno/dupla usa o Mapa de Empatia para entender de verdade a pessoa que sofre o problema do seu projeto do primeiro semestre e, a partir disso, preenche a primeira versão completa do Canvas do Projeto Pessoal.
+**Objetivo:** tempo para os alunos terminarem o projeto do primeiro semestre. O foco do dia é provar que o problema é real: quem sofre com ele e que dado ou conversa mostra isso.
 
 **Materiais de apoio**
-- cópias de `ferramentas/mapa-de-empatia.md` e de `ferramentas/canvas-projeto-pessoal.md` · lápis/caneta (rascunho, não caneta definitiva)
+- os trabalhos dos alunos (são slides: se possível, reservar sala de informática ou notebooks)
+- checklist do projeto (abaixo) e `ferramentas/rubrica-avaliacao.md`
+- apoio para quem precisar: `ferramentas/mapa-de-empatia.md`
 
-## Decisão prévia do professor
-Definir se o projeto será individual ou em duplas/trios (recomendação: duplas, para facilitar o Pitch Day e manter a turma engajada em par).
+## Checklist do projeto (vale para as 3 oficinas)
+1. Problema claro, com um dado ou exemplo concreto
+2. Público-alvo específico (não "qualquer pessoa")
+3. Solução: o que é e como funciona
+4. Protótipo: algo que dá para ver (tela, post, desenho, maquete)
+5. Como ganha dinheiro (ou como se sustenta) e quem são os concorrentes
+6. Conexão com valores judaicos (chutzpah, tikun olam ou outro)
+7. Pitch de 2 min, com gancho no início e pedido claro no fim
 
 ## Roteiro (90 min)
 
-1. **Retomada (5 min)** — 2–3 alunos/duplas contam em 1 frase o projeto do primeiro semestre e que pedaço do mundo ele conserta (ponte com a Aula 5).
-2. **Mapa de Empatia relâmpago (25 min)** — Apresentar as 6 caixas (pensa/sente, vê, ouve, diz/faz, dores, ganhos) com um exemplo rápido no quadro (5 min). Depois, cada aluno/dupla escolhe uma pessoa real que sofre o problema e preenche as 6 caixas (20 min). Se a "pessoa real" for um colega presente, vale fazer uma entrevista de 3 min para trocar suposição por resposta de verdade.
-3. **Da dor à solução (5 min)** — Cada aluno/dupla circula a principal "dor" do mapa, escreve 3 possíveis soluções para ela (sem filtrar, quantidade importa mais que qualidade agora) e escolhe a que mais gostou.
-4. **Explicação do Canvas (10 min)** — Apresentar as 8 caixas com um exemplo rápido no quadro (pode reaproveitar uma das empresas do jogo dos 10 cartões, Aula 1). Mostrar que as caixas "Problema" e "Para quem" saem direto do Mapa de Empatia que acabaram de fazer.
-5. **Trabalho prático: preenchendo o Canvas (30 min)** — Cada aluno/dupla preenche as 8 caixas com a ideia escolhida. Professor circula pela sala, sentando 2–3 min com cada grupo para desafiar com perguntas ("isso é mesmo um problema real?", "quem compraria/usaria isso?").
-6. **Troca entre pares (15 min)** — Cada aluno/dupla troca o Canvas com outra dupla por 5 min: o colega lê e escreve, em um post-it colado no Canvas, 1 pergunta e 1 elogio. Devolver.
+1. **Foco do dia (10 min)** — Mostrar o checklist. Cada grupo marca o que já tem e o que falta. Explicar o foco: projeto bom mostra que o problema existe de verdade, com um número, uma pesquisa com colegas ou uma conversa com alguém que sofre o problema.
+2. **Mão na massa (65 min)** — Cada grupo trabalha no próprio projeto. Quem ainda não tem evidência faz uma pesquisa relâmpago com colegas de outros grupos (3 perguntas, anotar quantos responderam o quê) ou usa o Mapa de Empatia. Professor circula com a lista de pendências de cada grupo.
+3. **Check-out (15 min)** — Cada grupo diz em 1 frase o que avançou hoje e o que vai fazer na próxima oficina.
 
 ## Produto da aula
-Mapa de Empatia preenchido (uma pessoa real, no mínimo) + primeira versão completa do Canvas do Projeto Pessoal, com post-it de feedback de um colega.
-
-## Tarefa de casa
-Revisar o Canvas em casa considerando o feedback recebido e, se possível, fazer uma pergunta real para a pessoa do Mapa de Empatia. Chegar na próxima aula com a versão 2 do Canvas.
+Projeto com problema, público e evidência resolvidos (itens 1 e 2 do checklist).

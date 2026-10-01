@@ -49,9 +49,9 @@ AULAS = [
     (4, "14/09", "Fundamentos", "O papel do Estado e do Exército (1º encontro: David cards + Google Classroom)", "Dada"),
     (4, "28/09", "Fundamentos", "O papel do Estado e do Exército (2º encontro: Aliot, Tnuot Noar e conferência com João Gus, IDF)", "Dada"),
     (5, "05/10", "Ecossistema", "Tikun olam: inovação com propósito (última aula com o Diário)", ""),
-    (6, "19/10", "Meu Projeto", "Mapa de Empatia + Canvas do Projeto Pessoal", ""),
-    (7, "26/10", "Meu Projeto", "Protótipo: tirando a ideia do papel", ""),
-    (8, "09/11", "Meu Projeto", "Roteiro de Pitch: contando minha ideia em 2 min", ""),
+    (6, "19/10", "Meu Projeto", "Oficina de projeto 1: problema, público e evidência", ""),
+    (7, "26/10", "Meu Projeto", "Oficina de projeto 2: protótipo e modelo de negócio", ""),
+    (8, "09/11", "Meu Projeto", "Oficina de projeto 3: valores judaicos e roteiro do pitch", ""),
     (9, "16/11", "Meu Projeto", "Ensaio geral + ajustes finais", ""),
     (10, "23/11", "Avaliação", "PITCH DAY — Semana Avaliativa EF2 (auditório)", "Pitch Day"),
     (11, "30/11", "Fechamento", "Devolutivas + Feira de Ideias", ""),
@@ -69,7 +69,7 @@ HISTORICO = [
     ("Revisão de 01/10", [
         "A Aula 4 aconteceu em dois encontros: 14/09 (David cards + atividade no Google Classroom) e 28/09 (conferência com o João Gus, das IDF). Em 21/09 não houve aula (Iom Kipur).",
         "Tikun olam passou para 05/10 e é a última aula com o Diário do Empreendedor, que fica com 5 páginas.",
-        "A partir de 19/10, as aulas são só de trabalho nos projetos que os alunos fizeram no primeiro semestre. Mapa de Empatia e Canvas viraram uma aula só, para caber tudo antes do Pitch Day, que segue em 23/11 no auditório.",
+        "Os alunos já têm projetos do primeiro semestre: 19/10, 26/10 e 09/11 viram oficinas para terminar os trabalhos, e 16/11 é o ensaio geral. O Pitch Day segue em 23/11, no auditório.",
         "Resultado: 14 aulas (15 encontros, contando os dois da Aula 4).",
     ]),
 ]

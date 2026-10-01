@@ -1,20 +1,17 @@
-# Aula 7 — 26/10 — Protótipo: tirando a ideia do papel
+# Aula 7 — 26/10 — Oficina de projeto 2: protótipo e modelo de negócio
 
-**Objetivo:** cada aluno/dupla constrói uma primeira versão tangível (protótipo rápido) da sua solução, a partir do Canvas revisado.
+**Objetivo:** segunda aula de trabalho nos projetos. O foco do dia é mostrar a solução funcionando (protótipo) e explicar como o projeto ganha dinheiro e com quem compete.
 
 **Materiais de apoio**
-- cópias de `ferramentas/prototipo-rapido.md` · papel, tesoura, cola, canetinhas, sucata reciclável (caixas, tampinhas, rolos) — pedir com antecedência ou disponibilizar caixa de materiais da sala de arte
+- os trabalhos dos alunos (sala de informática ou notebooks, se possível)
+- checklist do projeto (ver Aula 6)
+- apoio: `ferramentas/prototipo-rapido.md` e `ferramentas/canvas-projeto-pessoal.md` (caixas "Como as pessoas vão saber", "O que eu preciso" e "Maior risco")
 
 ## Roteiro (90 min)
 
-1. **Checagem (5 min)** — Rápida checagem: quem revisou o Canvas em casa (versão 2)?
-2. **Explicação do Protótipo Rápido (10 min)** — Apresentar os 5 formatos possíveis (desenho/storyboard, maquete, telas de app, encenação, cartaz) com exemplo rápido de cada um.
-3. **Escolha e planejamento (10 min)** — Cada aluno/dupla escolhe o formato e anota rapidamente o que vai construir.
-4. **Mão na massa (45 min)** — Tempo de construção do protótipo. Professor circula pela sala, provocando com perguntas ("como uma pessoa que nunca viu isso entenderia sozinha?"). Reforçar: rabiscado e feito vale mais que perfeito e não feito.
-5. **Rodada de "teste relâmpago" (20 min)** — Cada dupla mostra o protótipo para outra dupla (3 min cada) e pergunta: *"Você entendeu como isso funciona? O que ficou confuso?"* Anotar 1 aprendizado no template.
+1. **Foco do dia (10 min)** — Duas perguntas que a banca sempre faz: *"Me mostra como funciona"* e *"Quem paga por isso?"*. Um protótipo pode ser simples: 2 ou 3 telas do app desenhadas, um post de exemplo, um mock do site. Para a concorrência, citar pelo menos 2 nomes reais e dizer em que o projeto é diferente.
+2. **Mão na massa (65 min)** — Cada grupo trabalha no próprio projeto, começando pelo que falta no checklist. Professor circula retomando as pendências da Aula 6.
+3. **Check-out (15 min)** — Cada grupo mostra o protótipo para outro grupo em 2 min e ouve 1 pergunta.
 
 ## Produto da aula
-Protótipo físico/desenhado + ficha de reflexão preenchida (`ferramentas/prototipo-rapido.md`).
-
-## Conexão com o projeto pessoal
-O protótipo e o teste relâmpago geram material real para o "gancho" e a "solução" do Roteiro de Pitch (Aula 8).
+Protótipo pronto + slide de modelo de negócio e concorrência (itens 3, 4 e 5 do checklist).

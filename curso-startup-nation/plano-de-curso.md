@@ -46,9 +46,9 @@ Calendário com as datas reais do semestre (segundas-feiras letivas) em [`calend
 | 4 | 14/09 | Fundamentos | O papel do Estado e do Exército (1º encontro: David cards + Google Classroom) | [`aulas/aula-04.md`](aulas/aula-04.md) |
 | 4 | 28/09 | Fundamentos | O papel do Estado e do Exército (2º encontro: Aliot, Tnuot Noar e conferência com João Gus, IDF) | [`aulas/aula-04.md`](aulas/aula-04.md) |
 | 5 | 05/10 | Ecossistema | Tikun olam: inovação com propósito (última aula com o Diário) | [`aulas/aula-05.md`](aulas/aula-05.md) |
-| 6 | 19/10 | Meu Projeto | Mapa de Empatia + Canvas do Projeto Pessoal | [`aulas/aula-06.md`](aulas/aula-06.md) |
-| 7 | 26/10 | Meu Projeto | Protótipo: tirando a ideia do papel | [`aulas/aula-07.md`](aulas/aula-07.md) |
-| 8 | 09/11 | Meu Projeto | Roteiro de Pitch: contando minha ideia em 2 min | [`aulas/aula-08.md`](aulas/aula-08.md) |
+| 6 | 19/10 | Meu Projeto | Oficina de projeto 1: problema, público e evidência | [`aulas/aula-06.md`](aulas/aula-06.md) |
+| 7 | 26/10 | Meu Projeto | Oficina de projeto 2: protótipo e modelo de negócio | [`aulas/aula-07.md`](aulas/aula-07.md) |
+| 8 | 09/11 | Meu Projeto | Oficina de projeto 3: valores judaicos e roteiro do pitch | [`aulas/aula-08.md`](aulas/aula-08.md) |
 | 9 | 16/11 | Meu Projeto | Ensaio geral + ajustes finais | [`aulas/aula-09.md`](aulas/aula-09.md) |
 | 10 | **23/11** | **Avaliação** | **PITCH DAY — Semana Avaliativa EF2 (auditório)** | [`aulas/aula-10.md`](aulas/aula-10.md) |
 | 11 | 30/11 | Fechamento | Devolutivas + Feira de Ideias | [`aulas/aula-11.md`](aulas/aula-11.md) |
@@ -69,8 +69,8 @@ Templates prontos para imprimir/copiar em [`ferramentas/`](ferramentas/):
 - [`ferramentas/fichas-debate-estado.md`](ferramentas/fichas-debate-estado.md) — argumentos para o debate, material reserva da Aula 4 (não usado nesta turma)
 
 **Meu Projeto (Aulas 6–10)**
-- [`ferramentas/mapa-de-empatia.md`](ferramentas/mapa-de-empatia.md) — entender a pessoa real por trás do problema (Aula 6, primeira metade)
-- [`ferramentas/canvas-projeto-pessoal.md`](ferramentas/canvas-projeto-pessoal.md) — Canvas de 8 caixas para estruturar a ideia (Aula 6, segunda metade)
+- [`ferramentas/mapa-de-empatia.md`](ferramentas/mapa-de-empatia.md) — entender a pessoa real por trás do problema (apoio na Aula 6)
+- [`ferramentas/canvas-projeto-pessoal.md`](ferramentas/canvas-projeto-pessoal.md) — Canvas de 8 caixas, usado como checklist do projeto (apoio nas Aulas 6 e 7)
 - [`ferramentas/prototipo-rapido.md`](ferramentas/prototipo-rapido.md) — protótipo tangível da solução (Aula 7)
 - [`ferramentas/roteiro-pitch.md`](ferramentas/roteiro-pitch.md) — roteiro de pitch de 2 minutos (Aulas 8–10)
 - [`ferramentas/rubrica-avaliacao.md`](ferramentas/rubrica-avaliacao.md) — rubrica de avaliação do Pitch Day (Aula 10)

@@ -2,7 +2,7 @@
 
 **Para que serve:** entender de verdade a pessoa (colega, familiar, alguém da comunidade) para quem o aluno vai criar sua ideia — antes de pensar em solução, entender o problema pelos olhos de quem o vive.
 
-**Quando usar:** Aula 6, na primeira metade da aula, como primeiro passo antes do Canvas (feito na mesma aula).
+**Quando usar:** Aula 6 (Oficina de projeto 1), como apoio para o grupo que ainda não sabe bem quem sofre o problema do seu projeto.
 
 ## Como preencher (individual ou em dupla, 20 min)
 

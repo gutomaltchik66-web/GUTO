@@ -2,7 +2,7 @@
 
 Versão simplificada do Business Model Canvas (Osterwalder) e do Lean Canvas, adaptada para um projeto pessoal de aluno de 8º/9º ano. Cabe em uma folha A4 (ou A3, se quiser mais espaço para escrever).
 
-**Quando usar:** Aula 6 (Mapa de Empatia + Canvas) — primeira versão. Revisado em casa e retomado na Aula 7 (Protótipo) e na Aula 8 antes do pitch.
+**Quando usar:** Aulas 6 e 7 (oficinas de projeto), como checklist para o grupo ver se falta alguma parte do projeto do primeiro semestre.
 
 ## As 8 caixas
 
@@ -48,4 +48,4 @@ INTEGRANTES: _______________________
    
 ```
 
-**Dica para o professor:** o Canvas é rascunho — deve ser feito a lápis, riscado e reescrito. A ideia não precisa nascer pronta; o valor está em revisar depois do feedback dos colegas na própria Aula 6.
+**Dica para o professor:** o Canvas é rascunho — deve ser feito a lápis, riscado e reescrito. A ideia não precisa nascer pronta; o valor está em revisar depois do feedback dos colegas nas oficinas.
