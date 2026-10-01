@@ -1,22 +1,20 @@
-# Aula 13 — 07/12 — E depois do pitch? Da ideia ao negócio de verdade
+# Aula 13 — 14/12 — Banca de investidores (convidado ou simulação)
 
-**Objetivo:** entender, com um caso real, o que acontece depois de um pitch bem-sucedido (investimento, crescimento, parcerias) e revisar o próprio projeto pensando em "próximo passo".
+**Objetivo:** os alunos revisitam seus projetos numa segunda rodada, mais leve, recebendo perguntas de uma "banca de investidores" — convidado externo real ou simulação entre os próprios alunos.
 
 **Materiais de apoio**
-- *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`)
-- *Desta aula:* caso de uma startup israelense que captou investimento e cresceu (ex: trajetória do Waze até ser comprado pelo Google — usar `ferramentas/fichas-produtos-israelenses.md` como base) · Canvas revisado de cada aluno
+- protótipos e Canvas de cada projeto · cartões de perguntas para simulação (se não houver convidado)
+
+## Preparação prévia (antes da aula)
+- Opção A (preferível): convidar um empreendedor, ex-aluno, familiar da comunidade ou profissional ligado a inovação/investimento para fazer perguntas curtas aos projetos, em clima leve (não é mais avaliação com nota — já ocorreu na Aula 10).
+- Opção B (sem convidado): preparar cartões com perguntas típicas de investidor ("quem pagaria por isso?", "qual seu maior concorrente?", "como isso cresce daqui a 1 ano?") para os próprios alunos se revezarem fazendo essas perguntas uns aos outros.
 
 ## Roteiro (90 min)
 
-1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Gênesis 2:15: *"Tomou o Senhor D'us o homem, e pô-lo no jardim do Éden para o lavrar e o guardar."* Provocar: e se a sua ideia continuasse crescendo depois do semestre?
-2. **Contação do caso (15 min)** — Contar a trajetória de uma startup: da ideia inicial ao pitch, do primeiro investimento ao crescimento (ex: Waze — de app de trânsito colaborativo a aquisição bilionária pelo Google).
-3. **Discussão em grupo (15 min)** — Em grupos: *"O que essa empresa teve que continuar fazendo depois do pitch para crescer? O que vocês acham que muda entre 'ter uma boa ideia' e 'ter um negócio de verdade'?"* Compartilhar conclusões.
-4. **Revisão do próprio projeto: "Meu próximo passo" (30 min)** — Cada aluno/dupla retoma o Canvas e escreve uma ficha: *Se eu fosse continuar esse projeto depois do semestre, qual seria o próximo passo? O que eu testaria primeiro? De quem eu pediria ajuda?* Trabalho individual/dupla, professor circulando.
-5. **Compartilhamento em duplas cruzadas (10 min)** — Trocar a ficha "Meu próximo passo" com um colega de fora da dupla, trocar 1 sugestão.
-6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos releem no Diário a citação de Gênesis 2:15 e respondem 1) a pergunta ligada ao trecho (que "jardim" estariam cultivando com essa ideia, mesmo sem ver todo o resultado agora) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
+1. **Abertura (5 min)** — Explicar que essa é uma segunda chance de apresentar, sem pressão de nota: o foco é receber perguntas difíceis e pensar rápido.
+2. **Rodada de mini-pitches (50 min)** — Cada aluno/dupla faz um pitch bem curto (1 min) para o convidado/mini-banca de colegas, seguido de 2 perguntas usando os cartões ou perguntas livres do convidado.
+3. **Registro das respostas (20 min)** — Cada aluno anota, por escrito, a pergunta mais difícil que recebeu e como respondeu (ou como responderia agora, com calma).
+4. **Roda de aprendizados (15 min)** — Compartilhar em voz alta: qual pergunta pegou todo mundo de surpresa? Agradecer o convidado (se houver) e anunciar a Aula 14 como encerramento do semestre.
 
 ## Produto da aula
-Diário do Empreendedor preenchido + ficha "Meu próximo passo" preenchida.
-
-## Conexão com a Aula 14
-Essa ficha pode virar pauta de perguntas para a banca de investidores da próxima aula.
+Ficha "pergunta mais difícil + minha resposta" preenchida.

@@ -2,9 +2,9 @@
 
 **Para que serve:** entender de verdade a pessoa (colega, familiar, alguém da comunidade) para quem o aluno vai criar sua ideia — antes de pensar em solução, entender o problema pelos olhos de quem o vive.
 
-**Quando usar:** Aula 6 (Mapa de Empatia), como primeiro passo antes do Canvas (Aula 7).
+**Quando usar:** Aula 6, na primeira metade da aula, como primeiro passo antes do Canvas (feito na mesma aula).
 
-## Como preencher (individual ou em dupla, 15 min)
+## Como preencher (individual ou em dupla, 20 min)
 
 Escolha uma pessoa real (ou um "tipo" de pessoa) que tenha o problema que o aluno quer resolver. Preencha as 6 caixas:
 

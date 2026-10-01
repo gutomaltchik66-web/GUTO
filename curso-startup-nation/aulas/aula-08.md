@@ -1,23 +1,20 @@
-# Aula 8 — 26/10 — Protótipo: tirando a ideia do papel
+# Aula 8 — 09/11 — Roteiro de Pitch: contando minha ideia em 2 minutos
 
-**Objetivo:** cada aluno/dupla constrói uma primeira versão tangível (protótipo rápido) da sua solução, a partir do Canvas revisado.
+**Objetivo:** cada aluno/dupla transforma o Canvas e o protótipo em um roteiro de pitch de 2 minutos.
 
 **Materiais de apoio**
-- *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`)
-- *Desta aula:* cópias de `ferramentas/prototipo-rapido.md` · papel, tesoura, cola, canetinhas, sucata reciclável (caixas, tampinhas, rolos) — pedir com antecedência ou disponibilizar caixa de materiais da sala de arte
+- cópias de `ferramentas/roteiro-pitch.md` · cronômetro físico da sala (ou do professor — não dos alunos)
 
 ## Roteiro (90 min)
 
-1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Êxodo 24:7: *"Tudo o que o Senhor tem dito faremos, e obedeceremos."* Provocar: hoje é o dia de agir, não só planejar.
-2. **Checagem (5 min)** — Rápida checagem: quem revisou o Canvas em casa (versão 2)?
-3. **Explicação do Protótipo Rápido (10 min)** — Apresentar os 5 formatos possíveis (desenho/storyboard, maquete, telas de app, encenação, cartaz) com exemplo rápido de cada um.
-4. **Escolha e planejamento (10 min)** — Cada aluno/dupla escolhe o formato e anota rapidamente o que vai construir.
-5. **Mão na massa (35 min)** — Tempo de construção do protótipo. Professor circula pela sala, provocando com perguntas ("como uma pessoa que nunca viu isso entenderia sozinha?"). Reforçar: rabiscado e feito vale mais que perfeito e não feito.
-6. **Rodada de "teste relâmpago" (15 min)** — Cada dupla mostra o protótipo para outra dupla (2 min cada) e pergunta: *"Você entendeu como isso funciona? O que ficou confuso?"* Anotar 1 aprendizado no template.
-7. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos releem no Diário a citação de Êxodo 24:7 e respondem 1) a pergunta ligada ao trecho (por que agir e testar pode ensinar mais do que só planejar) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
+1. **O que é um pitch (10 min)** — Explicar a estrutura de 5 partes (gancho, problema, solução, por que eu, chamada final). Professor apresenta um exemplo pronto de 2 min, usando uma das empresas do jogo dos 10 cartões (Aula 1), cronometrado na frente da turma (modelo de comportamento esperado).
+2. **Escrita do roteiro (30 min)** — Cada aluno/dupla preenche o Roteiro de Pitch a partir do Canvas e do protótipo já prontos. Professor circula ajudando quem travar no "gancho" (parte mais difícil).
+3. **Primeiro ensaio individual, em pé (15 min)** — Cada aluno/dupla lê o roteiro em voz alta sozinho (ou "sussurrado" se a sala for pequena), cronometrando — objetivo aqui não é performance, é sentir o tempo.
+4. **Ensaio em duplas cruzadas (20 min)** — Trocar de parceiro (não o da dupla do projeto): cada um apresenta o pitch para o colega, cronometrando. O colega dá **1 elogio + 1 sugestão** usando o checklist do Roteiro de Pitch.
+5. **Ajustes finais (15 min)** — Cada aluno/dupla ajusta o roteiro com base no feedback recebido e entrega a versão ajustada.
 
 ## Produto da aula
-Diário do Empreendedor preenchido + protótipo físico/desenhado + ficha de reflexão preenchida (`ferramentas/prototipo-rapido.md`).
+Roteiro de Pitch escrito, ensaiado e ajustado após feedback.
 
-## Conexão com o projeto pessoal
-O protótipo e o teste relâmpago geram material real para o "gancho" e a "solução" do Roteiro de Pitch (Aula 9).
+## Aviso importante
+Relembrar que o Pitch Day é dia 23/11, no auditório (semana avaliativa das eletivas EF2), e reforçar os 4 critérios da Rubrica de Avaliação antes de encerrar a aula.

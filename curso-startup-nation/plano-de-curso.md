@@ -5,7 +5,7 @@
 **Público:** 8º e 9º ano do Ensino Fundamental (EF2)
 **Professor:** Augusto Maltchik
 **Horário:** segundas-feiras, 14h às 15h30 (90 min)
-**Carga horária:** 15 aulas letivas no semestre (revisado em 01/09 — ver histórico da revisão e calendário real em [`calendario.md`](calendario.md)), incluindo o Pitch Day em 23/11, data oficial da semana avaliativa das eletivas EF2.
+**Carga horária:** 14 aulas no semestre, em 15 encontros (revisado em 01/10, ver histórico das revisões e calendário real em [`calendario.md`](calendario.md)), incluindo o Pitch Day em 23/11, data oficial da semana avaliativa das eletivas EF2.
 
 ---
 
@@ -16,10 +16,10 @@ Israel é o país com mais startups per capita do mundo — surge, em média, um
 1. **Judaísmo**: entender como valores, história e experiência do povo judeu — chutzpah (audácia), tikun olam (reparar o mundo), tradição de estudo e debate (chevruta/beit midrash), experiência da diáspora e da imigração — se conectam com a cultura de inovação israelense.
 2. **Empreendedorismo e competências do século XXI**: pensamento crítico, criatividade, trabalho em equipe e comunicação, através de uma metodologia ativa que culmina em um projeto real de empreendedorismo criado pelos próprios alunos.
 
-Adequado à faixa etária de 13–15 anos: contextos curtos, muito estudo de caso concreto (empresas e produtos que os alunos já usam — Waze, ICQ, Wix), trabalho em grupo e um produto final tangível (pitch de uma ideia própria). Como os alunos de uma escola judaica já chegam com base de história e cultura de Israel, e a turma é agitada, quatro regras valem para as 15 aulas:
+Adequado à faixa etária de 13–15 anos: contextos curtos, muito estudo de caso concreto (empresas e produtos que os alunos já usam — Waze, ICQ, Wix), trabalho em grupo e um produto final tangível (pitch de uma ideia própria). Como os alunos de uma escola judaica já chegam com base de história e cultura de Israel, e a turma é agitada, quatro regras valem para a eletiva:
 
 1. **Sem repetir o básico** — as Aulas 1 a 3 partem do que os alunos já sabem (história, kibutz, chutzpah como palavra) e vão direto ao ângulo novo: o lado de tecnologia/empreendedorismo. Nenhum cartão ou atividade reexplica o que já foi visto em Cultura Judaica/História — o que já é sabido vira ponto de partida para análise, não conteúdo a reapresentar.
-2. **Tarefa contínua em toda aula** — todas fecham com o Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`), o mesmo caderno preenchido do início ao fim do semestre: uma citação livre da Torá diferente por aula (centralizada, sem rótulo), uma pergunta ligada ao trecho e a pergunta fixa "O que eu aprendi na aula de hoje?" — sempre no mesmo formato, para reduzir a bagunça no fechamento da aula.
+2. **Tarefa contínua no bloco de conteúdo** — as Aulas 1 a 5 fecham com o Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`), o mesmo caderno preenchido aula a aula; da Aula 6 em diante, o tempo todo vai para os projetos. Formato do Diário: uma citação livre da Torá diferente por aula (centralizada, sem rótulo), uma pergunta ligada ao trecho e a pergunta fixa "O que eu aprendi na aula de hoje?" — sempre no mesmo formato, para reduzir a bagunça no fechamento da aula.
 3. **Sem celular** — nenhuma atividade depende de celular do aluno. Pesquisas usam fichas informativas já preparadas pelo professor (`ferramentas/fichas-*.md`); quando a sala de informática está disponível em alguma semana, isso é indicado como opcional no plano daquela aula.
 4. **Maior parte dos 90 minutos é atividade prática com produto entregável** — nunca exposição contínua.
 
@@ -36,51 +36,51 @@ Ao final da unidade, o aluno deve ser capaz de:
 
 ## 3. Estrutura das aulas
 
-Calendário com as 15 datas reais do semestre (segundas-feiras letivas) em [`calendario.md`](calendario.md), que também traz o histórico da revisão feita em 01/09 (duas aulas perdidas e duas aulas cortadas do plano original de 17). Plano de aula completo (objetivo, materiais, roteiro minuto a minuto e produto de cada aula) em [`aulas/`](aulas/):
+Calendário com as datas reais do semestre (segundas-feiras letivas) em [`calendario.md`](calendario.md), que também traz o histórico das revisões de 01/09 e 01/10 (aulas perdidas, aulas cortadas do plano original de 17 e o fim do Diário em Tikun olam). Plano de aula completo (objetivo, materiais, roteiro minuto a minuto e produto de cada aula) em [`aulas/`](aulas/):
 
 | Aula | Data | Bloco | Tema | Plano detalhado |
 |---|---|---|---|---|
 | 1 | 03/08 | Fundamentos | Abertura: além do que você já sabe sobre Israel | [`aulas/aula-01.md`](aulas/aula-01.md) |
 | 2 | 10/08 | Fundamentos | Evoluções tecnológicas de Israel | [`aulas/aula-02.md`](aulas/aula-02.md) |
 | 3 | 31/08 | Fundamentos | Chutzpah: da palavra à atitude empreendedora | [`aulas/aula-03.md`](aulas/aula-03.md) |
-| 4 | 14/09 | Fundamentos | O papel do Estado e do Exército | [`aulas/aula-04.md`](aulas/aula-04.md) |
-| 5 | 28/09 | Ecossistema | Tikun olam + lançamento do desafio final | [`aulas/aula-05.md`](aulas/aula-05.md) |
-| 6 | 05/10 | Meu Projeto | Mapa de Empatia: entendendo o problema de verdade | [`aulas/aula-06.md`](aulas/aula-06.md) |
-| 7 | 19/10 | Meu Projeto | Canvas do Projeto Pessoal: primeira ideia | [`aulas/aula-07.md`](aulas/aula-07.md) |
-| 8 | 26/10 | Meu Projeto | Protótipo: tirando a ideia do papel | [`aulas/aula-08.md`](aulas/aula-08.md) |
-| 9 | 09/11 | Meu Projeto | Roteiro de Pitch: contando minha ideia em 2 min | [`aulas/aula-09.md`](aulas/aula-09.md) |
-| 10 | 16/11 | Meu Projeto | Ensaio geral + ajustes finais | [`aulas/aula-10.md`](aulas/aula-10.md) |
-| 11 | **23/11** | **Avaliação** | **PITCH DAY — Semana Avaliativa EF2** | [`aulas/aula-11.md`](aulas/aula-11.md) |
-| 12 | 30/11 | Fechamento | Devolutivas + Feira de Ideias | [`aulas/aula-12.md`](aulas/aula-12.md) |
-| 13 | 07/12 | Fechamento | E depois do pitch? Da ideia ao negócio de verdade | [`aulas/aula-13.md`](aulas/aula-13.md) |
-| 14 | 14/12 | Fechamento | Banca de investidores (convidado ou simulação) | [`aulas/aula-14.md`](aulas/aula-14.md) |
-| 15 | 21/12 | Fechamento | Encerramento do semestre | [`aulas/aula-15.md`](aulas/aula-15.md) |
+| 4 | 14/09 | Fundamentos | O papel do Estado e do Exército (1º encontro: David cards + Google Classroom) | [`aulas/aula-04.md`](aulas/aula-04.md) |
+| 4 | 28/09 | Fundamentos | O papel do Estado e do Exército (2º encontro: Aliot, Tnuot Noar e conferência com João Gus, IDF) | [`aulas/aula-04.md`](aulas/aula-04.md) |
+| 5 | 05/10 | Ecossistema | Tikun olam + lançamento do desafio final (última aula com o Diário) | [`aulas/aula-05.md`](aulas/aula-05.md) |
+| 6 | 19/10 | Meu Projeto | Mapa de Empatia + Canvas do Projeto Pessoal | [`aulas/aula-06.md`](aulas/aula-06.md) |
+| 7 | 26/10 | Meu Projeto | Protótipo: tirando a ideia do papel | [`aulas/aula-07.md`](aulas/aula-07.md) |
+| 8 | 09/11 | Meu Projeto | Roteiro de Pitch: contando minha ideia em 2 min | [`aulas/aula-08.md`](aulas/aula-08.md) |
+| 9 | 16/11 | Meu Projeto | Ensaio geral + ajustes finais | [`aulas/aula-09.md`](aulas/aula-09.md) |
+| 10 | **23/11** | **Avaliação** | **PITCH DAY — Semana Avaliativa EF2 (auditório)** | [`aulas/aula-10.md`](aulas/aula-10.md) |
+| 11 | 30/11 | Fechamento | Devolutivas + Feira de Ideias | [`aulas/aula-11.md`](aulas/aula-11.md) |
+| 12 | 07/12 | Fechamento | E depois do pitch? Da ideia ao negócio de verdade | [`aulas/aula-12.md`](aulas/aula-12.md) |
+| 13 | 14/12 | Fechamento | Banca de investidores (convidado ou simulação) | [`aulas/aula-13.md`](aulas/aula-13.md) |
+| 14 | 21/12 | Fechamento | Encerramento do semestre | [`aulas/aula-14.md`](aulas/aula-14.md) |
 
 ### Ferramentas
 
 Templates prontos para imprimir/copiar em [`ferramentas/`](ferramentas/):
 
-**Tarefa contínua de toda aula**
-- [`ferramentas/diario-do-empreendedor.md`](ferramentas/diario-do-empreendedor.md) — caderno único com uma citação da Torá por aula, uma pergunta ligada ao trecho e a pergunta fixa "O que eu aprendi hoje?", preenchido nas 15 aulas
+**Tarefa contínua do bloco de conteúdo (Aulas 1 a 5)**
+- [`ferramentas/diario-do-empreendedor.md`](ferramentas/diario-do-empreendedor.md) — caderno único com uma citação da Torá por aula, uma pergunta ligada ao trecho e a pergunta fixa "O que eu aprendi hoje?", preenchido nas Aulas 1 a 5
 
 **Fichas informativas (substituem pesquisa por celular, sem repetir o que já é sabido)**
 - [`ferramentas/fichas-produtos-israelenses.md`](ferramentas/fichas-produtos-israelenses.md) — 8 empresas israelenses + 2 pegadinhas, usado nas Aulas 1 e 3
 - [`ferramentas/problemas-caminhos-aula2.md`](ferramentas/problemas-caminhos-aula2.md) — 3 problemas fictícios, cada um com 3 caminhos possíveis e sua consequência, usado na Aula 2
-- [`ferramentas/fichas-debate-estado.md`](ferramentas/fichas-debate-estado.md) — argumentos para o debate, usado na Aula 4
+- [`ferramentas/fichas-debate-estado.md`](ferramentas/fichas-debate-estado.md) — argumentos para o debate, material reserva da Aula 4 (não usado nesta turma)
 
-**Meu Projeto (Aulas 6–11)**
-- [`ferramentas/mapa-de-empatia.md`](ferramentas/mapa-de-empatia.md) — entender a pessoa real por trás do problema (Aula 6)
-- [`ferramentas/canvas-projeto-pessoal.md`](ferramentas/canvas-projeto-pessoal.md) — Canvas de 8 caixas para estruturar a ideia (Aula 7)
-- [`ferramentas/prototipo-rapido.md`](ferramentas/prototipo-rapido.md) — protótipo tangível da solução (Aula 8)
-- [`ferramentas/roteiro-pitch.md`](ferramentas/roteiro-pitch.md) — roteiro de pitch de 2 minutos (Aulas 9–11)
-- [`ferramentas/rubrica-avaliacao.md`](ferramentas/rubrica-avaliacao.md) — rubrica de avaliação do Pitch Day (Aula 11)
+**Meu Projeto (Aulas 6–10)**
+- [`ferramentas/mapa-de-empatia.md`](ferramentas/mapa-de-empatia.md) — entender a pessoa real por trás do problema (Aula 6, primeira metade)
+- [`ferramentas/canvas-projeto-pessoal.md`](ferramentas/canvas-projeto-pessoal.md) — Canvas de 8 caixas para estruturar a ideia (Aula 6, segunda metade)
+- [`ferramentas/prototipo-rapido.md`](ferramentas/prototipo-rapido.md) — protótipo tangível da solução (Aula 7)
+- [`ferramentas/roteiro-pitch.md`](ferramentas/roteiro-pitch.md) — roteiro de pitch de 2 minutos (Aulas 8–10)
+- [`ferramentas/rubrica-avaliacao.md`](ferramentas/rubrica-avaliacao.md) — rubrica de avaliação do Pitch Day (Aula 10)
 
 ## 4. Metodologia
 
 - **Sem repetir conteúdo já visto:** as Aulas 1–3 (Fundamentos) partem do que os alunos já sabem sobre Israel e vão direto ao ângulo de tecnologia/empreendedorismo — diagnóstico rápido do que já é sabido, depois aprofundamento no que é novo.
-- **Diário do Empreendedor idêntico em toda aula (10 min, no fechamento):** leitura/releitura de uma citação da Torá diferente a cada aula, resposta individual e silenciosa a duas perguntas — uma ligada ao trecho, outra fixa ("O que eu aprendi na aula de hoje?") — ver `ferramentas/diario-do-empreendedor.md`. É a tarefa contínua que a turma repete nas 15 aulas, dando um fechamento de foco individual depois das atividades em grupo e conectando, toda vez, a tradição judaica ao conteúdo de empreendedorismo do dia.
+- **Diário do Empreendedor idêntico nas Aulas 1 a 5 (10 min, no fechamento):** leitura/releitura de uma citação da Torá diferente a cada aula, resposta individual e silenciosa a duas perguntas — uma ligada ao trecho, outra fixa ("O que eu aprendi na aula de hoje?") — ver `ferramentas/diario-do-empreendedor.md`. É a tarefa contínua que a turma repete nas aulas do bloco de conteúdo, dando um fechamento de foco individual depois das atividades em grupo e conectando, toda vez, a tradição judaica ao conteúdo de empreendedorismo do dia.
 - **Sem celular em nenhuma atividade:** pesquisas usam fichas informativas já preparadas pelo professor. Em semanas com sala de informática disponível (indicado no plano da aula), o computador pode ser usado como aprofundamento opcional.
-- Aulas expositivo-dialogadas curtas (máx. 15–20 min) intercaladas com atividades em grupo — em cada uma das 15 aulas, a maior parte dos 90 min é tempo de mão na massa, com produto entregue ao final (cartaz, ficha, canvas, protótipo, ensaio).
+- Aulas expositivo-dialogadas curtas (máx. 15–20 min) intercaladas com atividades em grupo — em cada aula, a maior parte dos 90 min é tempo de mão na massa, com produto entregue ao final (cartaz, ficha, canvas, protótipo, ensaio).
 - Dinâmicas em pé, rodízio de duplas e murais coletivos (Mural das Ideias, Baú de Aprendizados) para manter a turma engajada e em movimento.
 - Aprendizagem baseada em projeto (PBL): o semestre inteiro converge para o Pitch Day de 23/11 e se desdobra depois em feira, revisão e banca de investidores.
 - Trabalho em chevruta (duplas/trios) como método pedagógico alinhado à tradição judaica de estudo.
@@ -89,10 +89,10 @@ Templates prontos para imprimir/copiar em [`ferramentas/`](ferramentas/):
 
 | Instrumento | Peso | Quando | Critério |
 |---|---|---|---|
-| Participação e produtos das aulas (1–10) | 30% | Aulas 1–10 | Entrega do produto de cada aula (cartaz, ficha, canvas, protótipo) — ver "Produto da aula" em cada plano |
-| Pitch Day | 40% | Aula 11 (23/11 — semana avaliativa EF2) | Rubrica oficial: clareza do problema, viabilidade/criatividade, conexão com valores judaicos, comunicação e trabalho em equipe |
-| Feira de Ideias e banca de investidores | 15% | Aulas 12 e 14 | Engajamento na exposição e nas respostas às perguntas |
-| Reflexão final escrita | 15% | Aula 15 | Capacidade de relacionar conteúdo com aprendizado pessoal |
+| Participação e produtos das aulas (1–9) | 30% | Aulas 1–9 | Entrega do produto de cada aula (cartaz, ficha, canvas, protótipo) — ver "Produto da aula" em cada plano |
+| Pitch Day | 40% | Aula 10 (23/11 — semana avaliativa EF2) | Rubrica oficial: clareza do problema, viabilidade/criatividade, conexão com valores judaicos, comunicação e trabalho em equipe |
+| Feira de Ideias e banca de investidores | 15% | Aulas 11 e 13 | Engajamento na exposição e nas respostas às perguntas |
+| Reflexão final escrita | 15% | Aula 14 | Capacidade de relacionar conteúdo com aprendizado pessoal |
 
 Rubrica do Pitch Day (0–10 cada): **Clareza do problema** · **Viabilidade/criatividade da solução** · **Conexão com valores judaicos (chutzpah/tikun olam)** · **Comunicação e trabalho em equipe** — detalhada em [`ferramentas/rubrica-avaliacao.md`](ferramentas/rubrica-avaliacao.md).
 
@@ -105,6 +105,6 @@ Rubrica do Pitch Day (0–10 cada): **Clareza do problema** · **Viabilidade/cri
 
 ## 7. Possíveis extensões
 
-- Convite a um empreendedor ou alguém ligado à comunidade já incorporado na Aula 14 (banca de investidores) — pode ser reforçado com mais de um convidado se houver disponibilidade.
+- Convite a um empreendedor ou alguém ligado à comunidade já incorporado na Aula 13 (banca de investidores) — pode ser reforçado com mais de um convidado se houver disponibilidade.
 - Parceria com a trilha de Inovação & Empreendedorismo do Ensino Médio: alunos do EM como mentores dos grupos do Fundamental.
 - Viagem de estudos ou intercâmbio virtual com uma escola em Israel para trocar pitches entre turmas.

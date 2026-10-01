@@ -1,22 +1,21 @@
-# Aula 14 — 14/12 — Banca de investidores (convidado ou simulação)
+# Aula 14 — 21/12 — Encerramento do semestre
 
-**Objetivo:** os alunos revisitam seus projetos numa segunda rodada, mais leve, recebendo perguntas de uma "banca de investidores" — convidado externo real ou simulação entre os próprios alunos.
+**Objetivo:** fechar a eletiva retomando os grandes conceitos do semestre e produzindo uma reflexão final individual sobre a jornada de cada aluno.
 
 **Materiais de apoio**
-- *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`)
-- *Desta aula:* protótipos e Canvas de cada projeto · cartões de perguntas para simulação (se não houver convidado)
-
-## Preparação prévia (antes da aula)
-- Opção A (preferível): convidar um empreendedor, ex-aluno, familiar da comunidade ou profissional ligado a inovação/investimento para fazer perguntas curtas aos projetos, em clima leve (não é mais avaliação com nota — já ocorreu na Aula 11).
-- Opção B (sem convidado): preparar cartões com perguntas típicas de investidor ("quem pagaria por isso?", "qual seu maior concorrente?", "como isso cresce daqui a 1 ano?") para os próprios alunos se revezarem fazendo essas perguntas uns aos outros.
+- Mural das Ideias (Aula 1) · Diário do Empreendedor de cada aluno (as 5 páginas preenchidas nas Aulas 1 a 5) · demais materiais produzidos ao longo do semestre, se possível expostos na sala
 
 ## Roteiro (90 min)
 
-1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Êxodo 18:19: *"Ouve agora a minha voz, e aconselhar-te-ei, e D'us seja contigo."* Explicar que essa é uma segunda chance de apresentar, sem pressão de nota — foco em receber perguntas difíceis e pensar rápido.
-2. **Rodada de mini-pitches (45 min)** — Cada aluno/dupla faz um pitch bem curto (1 min) para o convidado/mini-banca de colegas, seguido de 2 perguntas usando os cartões ou perguntas livres do convidado.
-3. **Registro das respostas (15 min)** — Cada aluno anota, por escrito, a pergunta mais difícil que recebeu e como respondeu (ou como responderia agora, com calma).
-4. **Roda de aprendizados (10 min)** — Compartilhar em voz alta: qual pergunta pegou todo mundo de surpresa?
-5. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos releem no Diário a citação de Êxodo 18:19 e respondem 1) a pergunta ligada ao trecho (por que ouvir perguntas difíceis de uma banca pode fortalecer a ideia) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Agradecer o convidado (se houver) e anunciar a Aula 15 como encerramento do semestre. Texto completo em `ferramentas/diario-do-empreendedor.md`.
+1. **Linha do tempo do semestre (15 min)** — Em roda, o professor retoma rapidamente cada bloco: Fundamentos (abertura, evoluções tecnológicas, chutzpah, Estado/Exército com a conferência do João Gus), Ecossistema (tikun olam), Meu Projeto (mapa de empatia, canvas, protótipo, pitch), Avaliação e Fechamento.
+2. **Revisita ao Mural e ao Diário (15 min)** — Alunos vão até o Mural das Ideias (post-it da Aula 1) e releem o próprio Diário — comparar com onde o projeto chegou.
+3. **Reflexão final escrita (30 min)** — Cada aluno escreve uma carta para si mesmo (formato livre, pode ser bilhete curto) respondendo: *O que eu sabia sobre empreendedorismo/Israel no início do semestre? O que eu sei agora? Qual valor da Startup Nation (chutzpah, tikun olam) eu quero levar comigo? O que eu faria diferente se começasse esse projeto de novo?*
+4. **Compartilhamento voluntário (20 min)** — Quem quiser, lê um trecho da carta em voz alta. Sem obrigar ninguém.
+5. **Roda de agradecimento (5 min)** — Cada aluno diz uma palavra que resume o semestre.
+6. **Encerramento formal (5 min)** — Fechar a eletiva agradecendo a turma.
 
 ## Produto da aula
-Diário do Empreendedor preenchido + ficha "pergunta mais difícil + minha resposta" preenchida.
+Carta final de reflexão — pode compor a nota de participação/processo do semestre, junto com a nota do Pitch Day (Aula 10).
+
+## Observação para o professor
+Guardar as cartas (com autorização dos alunos) — são um ótimo material para abrir a eletiva do próximo semestre, mostrando aos novos alunos o que turmas anteriores escreveram.

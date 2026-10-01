@@ -1,4 +1,4 @@
-# Ferramenta — Cartões de Argumentos para o Debate (Aula 4)
+# Ferramenta — Cartões de Argumentos para o Debate (material reserva da Aula 4)
 
 Material de apoio impresso, sem celular, para preparar o debate "O governo deveria investir pesado em ideias de jovens/startups" x "O mercado deve decidir sozinho". Distribuir um bloco para cada lado da sala.
 

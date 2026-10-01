@@ -7,9 +7,12 @@ enquadramento de página (borda) extraído de PAUTA PEQUENA.pdf.
 Cada página traz uma citação livre da Torá (Tanach, foco nos 5 livros
 de Moshé), centralizada e enquadrada, seguida de duas perguntas: a
 Pergunta 1 é sempre ligada ao trecho (diferente em cada aula) e a
-Pergunta 2 é fixa em todas as 15 páginas: "O que eu aprendi na aula de
+Pergunta 2 é fixa em todas as 5 páginas: "O que eu aprendi na aula de
 hoje?". A capa traz o título, o escudo do colégio e uma caixa grande
 em branco para o aluno desenhar.
+
+O Diário cobre só o bloco de conteúdo (Aulas 1 a 5, até Tikun olam);
+da Aula 6 em diante as aulas são só de trabalho nos projetos.
 """
 import os
 from reportlab.lib.pagesizes import A4
@@ -85,56 +88,6 @@ aulas = [
      "Êxodo 3:9-10",
      "“E agora, eis que o clamor dos filhos de Israel chegou a mim [...] Vem, pois, agora, e enviar-te-ei a Faraó, para que tires do Egito o meu povo.”",
      "D'us chamou Moshé para agir agora, sem esperar mais. Por que agora é um bom momento para você começar seu próprio projeto?"),
-
-    (6, "Mapa de Empatia: entendendo o problema de verdade",
-     "Levítico 19:18",
-     "“Não te vingarás, nem guardarás ira [...]; mas amarás o teu próximo como a ti mesmo.”",
-     "Amar o próximo como a si mesmo pede que você se coloque de verdade no lugar do outro. Como isso se conecta com a empatia que você praticou hoje?"),
-
-    (7, "Canvas do Projeto Pessoal: primeira ideia",
-     "Gênesis 1:27",
-     "“E criou D'us o homem à sua imagem; à imagem de D'us o criou; homem e mulher os criou.”",
-     "Se cada pessoa é única, criada à imagem de D'us, por que sua ideia (mesmo parecida com outras) também pode ser única?"),
-
-    (8, "Protótipo: tirando a ideia do papel",
-     "Êxodo 24:7",
-     "“Tudo o que o Senhor tem dito faremos, e obedeceremos.”",
-     "O povo disse “faremos” antes mesmo de entender tudo direito. Por que agir e testar pode ensinar mais do que só planejar?"),
-
-    (9, "Roteiro de Pitch: contando minha ideia em 2 min",
-     "Êxodo 4:11-12",
-     "“Quem fez a boca do homem? [...] Vai, pois, agora, e eu serei com a tua boca, e te ensinarei o que hás de falar.”",
-     "Moshé tinha medo de não saber falar direito, e D'us prometeu as palavras certas. Como preparar bem o que vai dizer pode te dar mais confiança no pitch?"),
-
-    (10, "Ensaio geral + ajustes finais",
-     "Deuteronômio 6:6-7",
-     "“E estas palavras [...] as intimarás a teus filhos, e delas falarás assentado em tua casa, e andando pelo caminho, e deitando-te, e levantando-te.”",
-     "A Torá manda repetir e ensinar as palavras o tempo todo, em qualquer lugar. Por que repetir o pitch várias vezes muda como você o apresenta?"),
-
-    (11, "PITCH DAY — Semana Avaliativa EF2",
-     "Números 13:30",
-     "“Subamos, subamos, e a possuiremos, pois totalmente poderemos com ela.” (Calebe)",
-     "Calebe disse isso mesmo com outros espiões com medo. De onde você tira coragem para apresentar hoje?"),
-
-    (12, "Devolutivas + Feira de Ideias",
-     "Levítico 19:15",
-     "“Não farás injustiça no juízo [...] com justiça julgarás o teu próximo.”",
-     "A Torá pede para julgar com justiça, sem favorecer ninguém. Como isso ajuda a dar (e a receber) feedback de verdade hoje?"),
-
-    (13, "E depois do pitch? Da ideia ao negócio de verdade",
-     "Gênesis 2:15",
-     "“E tomou o Senhor D'us o homem, e pô-lo no jardim do Éden para o lavrar e o guardar.”",
-     "O primeiro trabalho do ser humano foi cuidar de um jardim que continuaria crescendo. Que “jardim” você estaria cultivando com essa ideia, mesmo sem ver todo o resultado agora?"),
-
-    (14, "Banca de investidores (convidado ou simulação)",
-     "Êxodo 18:19",
-     "“Ouve agora a minha voz, e aconselhar-te-ei, e D'us seja contigo.”",
-     "Yitro ofereceu um conselho de fora, e Moshé ouviu. Por que ouvir perguntas difíceis de uma banca pode fortalecer sua ideia, em vez de enfraquecê-la?"),
-
-    (15, "Encerramento do semestre",
-     "Deuteronômio 8:2",
-     "“E te lembrarás de todo o caminho pelo qual o Senhor teu D'us te guiou [...] para saber o que estava no teu coração.”",
-     "A Torá pede para lembrar todo o caminho percorrido, não só o destino final. Olhando para trás nas páginas deste diário, o que você aprendeu sobre você mesmo?"),
 ]
 
 c = canvas.Canvas("Diario do Empreendedor - Caderno do Aluno.pdf", pagesize=A4)

@@ -1,37 +1,44 @@
 # Calendário — Eletiva StartUp Nation (EF2)
 
 **Horário:** segundas-feiras, 14h às 15h30 (90 min)
-**Total de aulas letivas no semestre:** 15 (revisado em 01/09 — ver "Histórico da revisão" abaixo)
-**Semana avaliativa das Eletivas EF2:** 23 a 27/11/2026 — a aula de 23/11 é letiva e é a data oficial de avaliação valendo nota (Pitch Day), auditório já reservado.
+**Total de aulas no semestre:** 14, em 15 encontros (revisado em 01/10, ver "Histórico das revisões" abaixo)
+**Semana avaliativa das Eletivas EF2:** 23 a 27/11/2026 — a aula de 23/11 é letiva e é a data oficial de avaliação valendo nota (Pitch Day), no auditório já reservado.
 
 | # | Data | Bloco | Tema | Plano de aula |
 |---|---|---|---|---|
 | 1 | 03/08 | Fundamentos | Abertura: além do que você já sabe sobre Israel | [`aulas/aula-01.md`](aulas/aula-01.md) |
 | 2 | 10/08 | Fundamentos | Evoluções tecnológicas de Israel | [`aulas/aula-02.md`](aulas/aula-02.md) |
 | 3 | 31/08 | Fundamentos | Chutzpah: da palavra à atitude empreendedora | [`aulas/aula-03.md`](aulas/aula-03.md) |
-| 4 | 14/09 | Fundamentos | O papel do Estado e do Exército (convidado confirmado) | [`aulas/aula-04.md`](aulas/aula-04.md) |
-| 5 | 28/09 | Ecossistema | Tikun olam + lançamento do desafio final | [`aulas/aula-05.md`](aulas/aula-05.md) |
-| 6 | 05/10 | Meu Projeto | Mapa de Empatia: entendendo o problema de verdade | [`aulas/aula-06.md`](aulas/aula-06.md) |
-| 7 | 19/10 | Meu Projeto | Canvas do Projeto Pessoal: primeira ideia | [`aulas/aula-07.md`](aulas/aula-07.md) |
-| 8 | 26/10 | Meu Projeto | Protótipo: tirando a ideia do papel | [`aulas/aula-08.md`](aulas/aula-08.md) |
-| 9 | 09/11 | Meu Projeto | Roteiro de Pitch: contando minha ideia em 2 min | [`aulas/aula-09.md`](aulas/aula-09.md) |
-| 10 | 16/11 | Meu Projeto | Ensaio geral + ajustes finais | [`aulas/aula-10.md`](aulas/aula-10.md) |
-| 11 | **23/11** | **Avaliação** | **PITCH DAY — Semana Avaliativa EF2** | [`aulas/aula-11.md`](aulas/aula-11.md) |
-| 12 | 30/11 | Fechamento | Devolutivas + Feira de Ideias | [`aulas/aula-12.md`](aulas/aula-12.md) |
-| 13 | 07/12 | Fechamento | E depois do pitch? Da ideia ao negócio de verdade | [`aulas/aula-13.md`](aulas/aula-13.md) |
-| 14 | 14/12 | Fechamento | Banca de investidores (convidado ou simulação) | [`aulas/aula-14.md`](aulas/aula-14.md) |
-| 15 | 21/12 | Fechamento | Encerramento do semestre | [`aulas/aula-15.md`](aulas/aula-15.md) |
+| 4 | 14/09 | Fundamentos | O papel do Estado e do Exército (1º encontro: David cards + Google Classroom) | [`aulas/aula-04.md`](aulas/aula-04.md) |
+| 4 | 28/09 | Fundamentos | O papel do Estado e do Exército (2º encontro: Aliot, Tnuot Noar e conferência com João Gus, IDF) | [`aulas/aula-04.md`](aulas/aula-04.md) |
+| 5 | 05/10 | Ecossistema | Tikun olam + lançamento do desafio final (última aula com o Diário) | [`aulas/aula-05.md`](aulas/aula-05.md) |
+| 6 | 19/10 | Meu Projeto | Mapa de Empatia + Canvas do Projeto Pessoal | [`aulas/aula-06.md`](aulas/aula-06.md) |
+| 7 | 26/10 | Meu Projeto | Protótipo: tirando a ideia do papel | [`aulas/aula-07.md`](aulas/aula-07.md) |
+| 8 | 09/11 | Meu Projeto | Roteiro de Pitch: contando minha ideia em 2 min | [`aulas/aula-08.md`](aulas/aula-08.md) |
+| 9 | 16/11 | Meu Projeto | Ensaio geral + ajustes finais | [`aulas/aula-09.md`](aulas/aula-09.md) |
+| 10 | **23/11** | **Avaliação** | **PITCH DAY — Semana Avaliativa EF2 (auditório)** | [`aulas/aula-10.md`](aulas/aula-10.md) |
+| 11 | 30/11 | Fechamento | Devolutivas + Feira de Ideias | [`aulas/aula-11.md`](aulas/aula-11.md) |
+| 12 | 07/12 | Fechamento | E depois do pitch? Da ideia ao negócio de verdade | [`aulas/aula-12.md`](aulas/aula-12.md) |
+| 13 | 14/12 | Fechamento | Banca de investidores (convidado ou simulação) | [`aulas/aula-13.md`](aulas/aula-13.md) |
+| 14 | 21/12 | Fechamento | Encerramento do semestre | [`aulas/aula-14.md`](aulas/aula-14.md) |
 
-## Histórico da revisão (01/09)
+## Histórico das revisões
 
-O calendário original previa 17 aulas. Na prática:
+O calendário original previa 17 aulas.
 
-- **17/08 e 24/08** — aulas perdidas, sem reposição.
-- **31/08** — deu a aula de Chutzpah (antiga Aula 3), sem a aula de Tolerância ao erro que estava prevista para 24/08.
-- A aula de **Tolerância ao erro** (antiga Aula 4) foi cortada do curso — inclusive a página correspondente do Diário do Empreendedor.
-- A aula de **Estudos de caso: empresas que uso todo dia** (antiga Aula 6) também foi cortada — o conteúdo já havia sido coberto nas aulas iniciais — e seu lugar em 14/09 foi ocupado pela aula de Estado e Exército (antiga Aula 5), que já tem convidado confirmado.
-- A partir daí, todas as datas seguintes coincidem com o calendário original: o desafio final continua sendo lançado em 28/09, e o Pitch Day segue em 23/11 sem qualquer aperto — ainda sobram 6 aulas de bloco "Meu Projeto" (05/10 a 16/11) antes dele.
-- Resultado: **15 aulas** no total (3 já dadas, 12 pela frente), todas renumeradas nos planos de aula em [`aulas/`](aulas/) para não deixar buracos na sequência.
+**Revisão de 01/09**
+
+- **17/08 e 24/08:** aulas perdidas, sem reposição.
+- **31/08:** aula de Chutzpah.
+- A aula de **Tolerância ao erro** foi cortada do curso, inclusive a página correspondente do Diário do Empreendedor.
+- A aula de **Estudos de caso: empresas que uso todo dia** também foi cortada, porque o conteúdo já havia sido coberto nas aulas iniciais.
+
+**Revisão de 01/10**
+
+- A Aula 4 (Estado e Exército) aconteceu em dois encontros: **14/09** (David cards + atividade no Google Classroom) e **28/09** (Aliot, Tnuot Noar e conferência com o João Gus, das IDF). Em 21/09 não houve aula (Iom Kipur).
+- **Tikun olam** passou para 05/10 e é a **última aula com o Diário do Empreendedor**, que fica com 5 páginas.
+- A partir de **19/10**, as aulas são só de trabalho nos projetos. Mapa de Empatia e Canvas viraram uma aula só, para caber tudo antes do Pitch Day, que continua em 23/11.
+- Resultado: **14 aulas** (15 encontros, contando os dois da Aula 4), renumeradas nos planos de aula em [`aulas/`](aulas/).
 
 ## Datas que não contam (feriados / aulas suspensas)
 
@@ -45,7 +52,7 @@ O calendário original previa 17 aulas. Na prática:
 
 Turma agitada → **nenhuma aula é só exposição**. Todo plano de aula deste calendário reserva a maior parte dos 90 minutos para atividade prática, em grupo ou individual, com um produto concreto entregue ao final (ficha, canvas, ensaio, apresentação) — nunca mais de 20–25 min seguidos de fala do professor.
 
-Duas regras fixas, válidas nas 15 aulas:
+Duas regras fixas:
 
 - **Sem celular.** Nenhuma atividade depende de celular do aluno — pesquisas usam fichas informativas já preparadas pelo professor (`ferramentas/fichas-*.md`). Em semanas com sala de informática disponível, isso é indicado como opcional no plano daquela aula específica.
-- **Diário do Empreendedor em toda aula.** Todas fecham (10 min, individual e silenciosa) com uma citação da Torá diferente, uma pergunta ligada ao trecho e a pergunta fixa "O que eu aprendi na aula de hoje?", no mesmo caderno contínuo — ver `ferramentas/diario-do-empreendedor.md`. É a tarefa que se repete nas 15 aulas, dando à turma uma rotina fixa no fechamento de cada encontro.
+- **Diário do Empreendedor nas Aulas 1 a 5.** As aulas do bloco de conteúdo fecham (10 min, individual e silenciosa) com uma citação da Torá diferente, uma pergunta ligada ao trecho e a pergunta fixa "O que eu aprendi na aula de hoje?", no mesmo caderno contínuo — ver `ferramentas/diario-do-empreendedor.md`. Da Aula 6 em diante, o tempo todo vai para os projetos.

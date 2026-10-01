@@ -1,10 +1,9 @@
-# Aula 6 — 05/10 — Mapa de Empatia: entendendo o problema de verdade
+# Aula 6 — 19/10 — Mapa de Empatia + Canvas do Projeto Pessoal
 
-**Objetivo:** cada aluno/dupla escolhe uma pessoa real que sofre o problema identificado na Aula 5 e preenche o Mapa de Empatia sobre ela.
+**Objetivo:** cada aluno/dupla usa o Mapa de Empatia para entender de verdade a pessoa que sofre o problema escolhido na Aula 5 e, a partir disso, preenche a primeira versão completa do Canvas do Projeto Pessoal.
 
 **Materiais de apoio**
-- *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`)
-- *Desta aula:* cópias de `ferramentas/mapa-de-empatia.md` · lápis/caneta
+- cópias de `ferramentas/mapa-de-empatia.md` e de `ferramentas/canvas-projeto-pessoal.md` · lápis/caneta (rascunho, não caneta definitiva)
 
 ## Decisão prévia do professor
 Definir se o projeto será individual ou em duplas/trios (recomendação: duplas, para facilitar o Pitch Day e manter a turma engajada em par).
@@ -12,14 +11,14 @@ Definir se o projeto será individual ou em duplas/trios (recomendação: duplas
 ## Roteiro (90 min)
 
 1. **Retomada (5 min)** — Reler em voz alta 2–3 fichas-síntese da Aula 5 (com autorização dos alunos), para reaquecer o grupo.
-2. **Explicação do Mapa de Empatia (10 min)** — Apresentar as 6 caixas (pensa/sente, vê, ouve, diz/faz, dores, ganhos) com um exemplo rápido feito junto com a turma no quadro.
-3. **Trabalho prático: preenchendo o mapa (35 min)** — Cada aluno/dupla escolhe a pessoa real e preenche as 6 caixas. Quem terminar rápido faz um segundo mapa de outra pessoa, para comparar pontos de vista.
-4. **Entrevista relâmpago, se possível (15 min)** — Sempre que der (ex: a "pessoa real" for um colega de outra dupla presente na sala), fazer uma entrevista de verdade de 3 min para completar o mapa com respostas reais, não só suposições.
-5. **Fechamento em grupo (15 min)** — Em grupos de 4, cada aluno/dupla lê a linha "dores" para os colegas — é normalmente ali que a ideia de negócio fica mais clara. Colher 1 comentário de cada grupo.
-6. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos leem no Diário a citação de Levítico 19:18 (*"Amarás o teu próximo como a ti mesmo"*) e respondem 1) a pergunta ligada ao trecho (como isso se conecta com a empatia praticada hoje) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
+2. **Mapa de Empatia relâmpago (25 min)** — Apresentar as 6 caixas (pensa/sente, vê, ouve, diz/faz, dores, ganhos) com um exemplo rápido no quadro (5 min). Depois, cada aluno/dupla escolhe uma pessoa real que sofre o problema e preenche as 6 caixas (20 min). Se a "pessoa real" for um colega presente, vale fazer uma entrevista de 3 min para trocar suposição por resposta de verdade.
+3. **Da dor à solução (5 min)** — Cada aluno/dupla circula a principal "dor" do mapa, escreve 3 possíveis soluções para ela (sem filtrar, quantidade importa mais que qualidade agora) e escolhe a que mais gostou.
+4. **Explicação do Canvas (10 min)** — Apresentar as 8 caixas com um exemplo rápido no quadro (pode reaproveitar uma das empresas do jogo dos 10 cartões, Aula 1). Mostrar que as caixas "Problema" e "Para quem" saem direto do Mapa de Empatia que acabaram de fazer.
+5. **Trabalho prático: preenchendo o Canvas (30 min)** — Cada aluno/dupla preenche as 8 caixas com a ideia escolhida. Professor circula pela sala, sentando 2–3 min com cada grupo para desafiar com perguntas ("isso é mesmo um problema real?", "quem compraria/usaria isso?").
+6. **Troca entre pares (15 min)** — Cada aluno/dupla troca o Canvas com outra dupla por 5 min: o colega lê e escreve, em um post-it colado no Canvas, 1 pergunta e 1 elogio. Devolver.
 
 ## Produto da aula
-Diário do Empreendedor preenchido + Mapa de Empatia preenchido (uma pessoa real, no mínimo).
+Mapa de Empatia preenchido (uma pessoa real, no mínimo) + primeira versão completa do Canvas do Projeto Pessoal, com post-it de feedback de um colega.
 
 ## Tarefa de casa
-Se possível, fazer uma pergunta real para a pessoa do mapa (ou outra parecida) sobre o problema, e trazer a resposta anotada para a próxima aula.
+Revisar o Canvas em casa considerando o feedback recebido e, se possível, fazer uma pergunta real para a pessoa do Mapa de Empatia. Chegar na próxima aula com a versão 2 do Canvas.

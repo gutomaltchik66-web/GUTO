@@ -14,7 +14,7 @@ from reportlab.lib import colors
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.enums import TA_LEFT
 from reportlab.platypus import (
-    SimpleDocTemplate, Table, TableStyle, Paragraph, Spacer,
+    SimpleDocTemplate, Table, TableStyle, Paragraph, Spacer, KeepTogether,
 )
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
@@ -40,34 +40,38 @@ GREY = colors.HexColor("#8C8C8C")
 LIGHTGREY = colors.HexColor("#EDEDED")
 HEADER_TOP_GAP = 22 * mm  # espaço reservado no topo de cada página para o cabeçalho
 
-# (numero, data, bloco, tema) — mantido em sincronia com calendario.md
+# (numero, data, bloco, tema, status) — mantido em sincronia com calendario.md.
+# A Aula 4 aparece em duas linhas (dois encontros).
 AULAS = [
-    (1, "03/08", "Fundamentos", "Abertura: além do que você já sabe sobre Israel"),
-    (2, "10/08", "Fundamentos", "Evoluções tecnológicas de Israel"),
-    (3, "31/08", "Fundamentos", "Chutzpah: da palavra à atitude empreendedora"),
-    (4, "14/09", "Fundamentos", "O papel do Estado e do Exército (convidado confirmado)"),
-    (5, "28/09", "Ecossistema", "Tikun olam + lançamento do desafio final"),
-    (6, "05/10", "Meu Projeto", "Mapa de Empatia: entendendo o problema de verdade"),
-    (7, "19/10", "Meu Projeto", "Canvas do Projeto Pessoal: primeira ideia"),
-    (8, "26/10", "Meu Projeto", "Protótipo: tirando a ideia do papel"),
-    (9, "09/11", "Meu Projeto", "Roteiro de Pitch: contando minha ideia em 2 min"),
-    (10, "16/11", "Meu Projeto", "Ensaio geral + ajustes finais"),
-    (11, "23/11", "Avaliação", "PITCH DAY — Semana Avaliativa EF2"),
-    (12, "30/11", "Fechamento", "Devolutivas + Feira de Ideias"),
-    (13, "07/12", "Fechamento", "E depois do pitch? Da ideia ao negócio de verdade"),
-    (14, "14/12", "Fechamento", "Banca de investidores (convidado ou simulação)"),
-    (15, "21/12", "Fechamento", "Encerramento do semestre"),
+    (1, "03/08", "Fundamentos", "Abertura: além do que você já sabe sobre Israel", "Dada"),
+    (2, "10/08", "Fundamentos", "Evoluções tecnológicas de Israel", "Dada"),
+    (3, "31/08", "Fundamentos", "Chutzpah: da palavra à atitude empreendedora", "Dada"),
+    (4, "14/09", "Fundamentos", "O papel do Estado e do Exército (1º encontro: David cards + Google Classroom)", "Dada"),
+    (4, "28/09", "Fundamentos", "O papel do Estado e do Exército (2º encontro: Aliot, Tnuot Noar e conferência com João Gus, IDF)", "Dada"),
+    (5, "05/10", "Ecossistema", "Tikun olam + lançamento do desafio final (última aula com o Diário)", ""),
+    (6, "19/10", "Meu Projeto", "Mapa de Empatia + Canvas do Projeto Pessoal", ""),
+    (7, "26/10", "Meu Projeto", "Protótipo: tirando a ideia do papel", ""),
+    (8, "09/11", "Meu Projeto", "Roteiro de Pitch: contando minha ideia em 2 min", ""),
+    (9, "16/11", "Meu Projeto", "Ensaio geral + ajustes finais", ""),
+    (10, "23/11", "Avaliação", "PITCH DAY — Semana Avaliativa EF2 (auditório)", "Pitch Day"),
+    (11, "30/11", "Fechamento", "Devolutivas + Feira de Ideias", ""),
+    (12, "07/12", "Fechamento", "E depois do pitch? Da ideia ao negócio de verdade", ""),
+    (13, "14/12", "Fechamento", "Banca de investidores (convidado ou simulação)", ""),
+    (14, "21/12", "Fechamento", "Encerramento do semestre", ""),
 ]
 
-DADAS = {1, 2, 3}  # aulas já dadas até 01/09
-
+# (titulo, itens) — uma entrada por revisão do calendário.
 HISTORICO = [
-    "17/08 e 24/08 — aulas perdidas, sem reposição.",
-    "31/08 — deu a aula de Chutzpah (antiga Aula 3), sem a aula de Tolerância ao erro que estava prevista para 24/08.",
-    "A aula de Tolerância ao erro (antiga Aula 4) foi cortada do curso, inclusive a página correspondente do Diário do Empreendedor.",
-    "A aula de Estudos de caso: empresas que uso todo dia (antiga Aula 6) também foi cortada, o conteúdo já havia sido coberto nas aulas iniciais, e seu lugar em 14/09 foi ocupado pela aula de Estado e Exército (antiga Aula 5), que já tem convidado confirmado.",
-    "A partir daí, todas as datas seguintes coincidem com o calendário original: o desafio final continua sendo lançado em 28/09, e o Pitch Day segue em 23/11 sem qualquer aperto, ainda sobram 6 aulas de bloco “Meu Projeto” (05/10 a 16/11) antes dele.",
-    "Resultado: 15 aulas no total (3 já dadas, 12 pela frente), todas renumeradas nos planos de aula para não deixar buracos na sequência.",
+    ("Revisão de 01/09", [
+        "17/08 e 24/08: aulas perdidas, sem reposição.",
+        "Cortadas do plano original de 17 aulas: Tolerância ao erro e Estudos de caso (o conteúdo das empresas já tinha sido coberto nas aulas iniciais).",
+    ]),
+    ("Revisão de 01/10", [
+        "A Aula 4 aconteceu em dois encontros: 14/09 (David cards + atividade no Google Classroom) e 28/09 (conferência com o João Gus, das IDF). Em 21/09 não houve aula (Iom Kipur).",
+        "Tikun olam passou para 05/10 e é a última aula com o Diário do Empreendedor, que fica com 5 páginas.",
+        "A partir de 19/10, as aulas são só de trabalho nos projetos. Mapa de Empatia e Canvas viraram uma aula só, para caber tudo antes do Pitch Day, que segue em 23/11 no auditório.",
+        "Resultado: 14 aulas (15 encontros, contando os dois da Aula 4).",
+    ]),
 ]
 
 DATAS_FORA = [
@@ -136,8 +140,8 @@ def build():
         "Colégio Israelita Brasileiro (CIB) · 8º/9º ano EF2 · segundas-feiras, 14h às 15h30 (90 min)",
         styles["meta"]))
     story.append(Paragraph(
-        "Revisado em 01/09/2026 — 15 aulas letivas no semestre. Pitch Day em 23/11 "
-        "(semana avaliativa das eletivas EF2), auditório já reservado.",
+        "Revisado em 01/10/2026: 14 aulas (15 encontros). Pitch Day em 23/11 "
+        "(semana avaliativa das eletivas EF2), no auditório já reservado.",
         styles["meta"]))
     story.append(Spacer(1, 4 * mm))
 
@@ -147,10 +151,9 @@ def build():
         Paragraph("Status", styles["headCell"]),
     ]
     rows = [header_row]
-    for n, data, bloco, tema in AULAS:
-        status = "Dada" if n in DADAS else ("Pitch Day" if n == 11 else "")
+    for n, data, bloco, tema, status in AULAS:
         style_num = styles["cellNum"]
-        style_tema = styles["cellBold"] if n == 11 else styles["cell"]
+        style_tema = styles["cellBold"] if status == "Pitch Day" else styles["cell"]
         rows.append([
             Paragraph(str(n), style_num),
             Paragraph(data, styles["cell"]),
@@ -171,20 +174,20 @@ def build():
         ("LEFTPADDING", (0, 0), (-1, -1), 2 * mm),
         ("RIGHTPADDING", (0, 0), (-1, -1), 2 * mm),
     ]
-    for i, (n, *_rest) in enumerate(AULAS, start=1):
-        if n in DADAS:
+    for i, (*_rest, status) in enumerate(AULAS, start=1):
+        if status == "Dada":
             table_style.append(("BACKGROUND", (0, i), (-1, i), LIGHTGREY))
-        if n == 11:
+        if status == "Pitch Day":
             table_style.append(("BACKGROUND", (0, i), (-1, i), colors.HexColor("#F5E6D8")))
     table.setStyle(TableStyle(table_style))
     story.append(table)
 
-    story.append(Paragraph("Histórico da revisão (01/09)", styles["h2"]))
-    story.append(Paragraph(
-        "O calendário original previa 17 aulas. Na prática:", styles["body"]))
-    story.append(Spacer(1, 1.5 * mm))
-    for item in HISTORICO:
-        story.append(Paragraph(f"•&nbsp;&nbsp;{item}", styles["bullet"]))
+    story.append(Paragraph("Histórico das revisões", styles["h2"]))
+    story.append(Paragraph("O calendário original previa 17 aulas.", styles["body"]))
+    for titulo, itens in HISTORICO:
+        bloco = [Spacer(1, 2 * mm), Paragraph(titulo, styles["cellBold"]), Spacer(1, 1 * mm)]
+        bloco += [Paragraph(f"•&nbsp;&nbsp;{item}", styles["bullet"]) for item in itens]
+        story.append(KeepTogether(bloco))
 
     story.append(Paragraph("Datas que não contam (feriados / aulas suspensas)", styles["h2"]))
     for item in DATAS_FORA:

@@ -1,25 +1,19 @@
-# Aula 11 — 23/11 — PITCH DAY (Semana Avaliativa EF2)
+# Aula 11 — 30/11 — Devolutivas + Feira de Ideias
 
-**Objetivo:** cada aluno/dupla apresenta seu projeto pessoal de empreendedorismo. Esta é a data oficial de avaliação da eletiva (semana avaliativa EF2, 23–27/11).
+**Objetivo:** os alunos recebem a devolutiva formal do Pitch Day e expõem seus projetos em formato de feira para outras turmas/comunidade escolar.
 
 **Materiais de apoio**
-- *Fixo (toda aula):* Diário do Empreendedor (`ferramentas/diario-do-empreendedor.md`)
-- *Desta aula:* cópias de `ferramentas/rubrica-avaliacao.md` (uma ficha por apresentação) · cronômetro físico · protótipos dos alunos
-
-## Preparação prévia (antes da aula)
-- Convidar, se possível, 1–2 avaliadores externos (outro professor, coordenação, alguém da comunidade ligado a empreendedorismo) — reforça o clima de "banca real".
-- Organizar a sala em formato de plateia + "palco", com mesa para expor os protótipos.
-- Imprimir as fichas de rubrica (uma por grupo).
+- fichas de rubrica preenchidas na Aula 10 · protótipos · mesas/espaço comum (pátio ou corredor, se possível combinar com a coordenação)
 
 ## Roteiro (90 min)
 
-1. **Abertura com a frase do dia (5 min)** — Ler em voz alta: Números 13:30 (Calebe): *"Subamos, subamos, e a possuiremos, pois totalmente poderemos com ela."* Retomar em 1 minuto a jornada do semestre: da história de Israel até a ideia de cada um. Relembrar as regras: 2 min de fala + 1 min de pergunta, silêncio e respeito durante a fala dos colegas.
-2. **Apresentações (55–60 min)** — Cada grupo apresenta seu pitch com protótipo em mãos (2 min de fala + até 1 min de pergunta da banca/turma). Professor (e avaliadores, se houver) preenchem a rubrica durante cada apresentação. Com turmas maiores, considerar dividir em dois dias/turnos se não couber no horário — ajustar conforme número real de grupos.
-3. **Devolutiva coletiva (10 min)** — Sem citar nomes, comentar 2–3 pontos fortes que apareceram repetidamente entre os projetos.
-4. **Diário — Citação + Perguntas (10 min)** — Para fechar, os alunos releem no Diário a citação de Números 13:30 (Calebe) e respondem 1) a pergunta ligada ao trecho (de onde tiraram coragem para apresentar hoje) e 2) a pergunta fixa *"O que eu aprendi na aula de hoje?"*. Texto completo em `ferramentas/diario-do-empreendedor.md`.
+1. **Devolutiva individual (15 min)** — Devolver a ficha de rubrica de cada aluno/dupla, com nota e comentário. Dar tempo para leitura silenciosa e reação.
+2. **Roda de leitura de devolutivas (15 min)** — Em grupos de 4, cada aluno lê para os colegas 1 elogio e 1 sugestão que recebeu, sem constrangimento — normalizar que toda apresentação tem pontos a melhorar.
+3. **Montagem da Feira de Ideias (20 min)** — Cada aluno/dupla organiza uma "banquinha" com o protótipo e um cartaz resumo do projeto (problema + solução + 1 frase de impacto), no formato de feira de ciências.
+4. **Feira aberta (40 min)** — Convidar outra turma, a coordenação ou os pais (se houver combinação prévia) para circular pela feira; alunos explicam seus projetos a quem passa.
 
 ## Produto da aula
-Diário do Empreendedor preenchido + pitch apresentado + fichas de rubrica preenchidas (nota oficial da avaliação EF2).
+Banquinha montada + participação ativa na feira.
 
-## Depois da aula
-Devolver a ficha de rubrica com nota e comentário para cada aluno/dupla antes da Aula 12.
+## Observação para o professor
+Se não for possível abrir a feira para fora da sala nesta data, adaptar para uma "feira interna", só entre os alunos da própria turma — o valor pedagógico (expor, explicar, receber feedback de quem não viu o processo) se mantém.
