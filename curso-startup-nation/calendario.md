@@ -11,7 +11,7 @@
 | 3 | 31/08 | Fundamentos | Chutzpah: da palavra à atitude empreendedora | [`aulas/aula-03.md`](aulas/aula-03.md) |
 | 4 | 14/09 | Fundamentos | O papel do Estado e do Exército (1º encontro: David cards + Google Classroom) | [`aulas/aula-04.md`](aulas/aula-04.md) |
 | 4 | 28/09 | Fundamentos | O papel do Estado e do Exército (2º encontro: Aliot, Tnuot Noar e conferência com João Gus, IDF) | [`aulas/aula-04.md`](aulas/aula-04.md) |
-| 5 | 05/10 | Ecossistema | Tikun olam + lançamento do desafio final (última aula com o Diário) | [`aulas/aula-05.md`](aulas/aula-05.md) |
+| 5 | 05/10 | Ecossistema | Tikun olam: inovação com propósito (última aula com o Diário) | [`aulas/aula-05.md`](aulas/aula-05.md) |
 | 6 | 19/10 | Meu Projeto | Mapa de Empatia + Canvas do Projeto Pessoal | [`aulas/aula-06.md`](aulas/aula-06.md) |
 | 7 | 26/10 | Meu Projeto | Protótipo: tirando a ideia do papel | [`aulas/aula-07.md`](aulas/aula-07.md) |
 | 8 | 09/11 | Meu Projeto | Roteiro de Pitch: contando minha ideia em 2 min | [`aulas/aula-08.md`](aulas/aula-08.md) |
@@ -37,7 +37,7 @@ O calendário original previa 17 aulas.
 
 - A Aula 4 (Estado e Exército) aconteceu em dois encontros: **14/09** (David cards + atividade no Google Classroom) e **28/09** (Aliot, Tnuot Noar e conferência com o João Gus, das IDF). Em 21/09 não houve aula (Iom Kipur).
 - **Tikun olam** passou para 05/10 e é a **última aula com o Diário do Empreendedor**, que fica com 5 páginas.
-- A partir de **19/10**, as aulas são só de trabalho nos projetos. Mapa de Empatia e Canvas viraram uma aula só, para caber tudo antes do Pitch Day, que continua em 23/11.
+- A partir de **19/10**, as aulas são só de trabalho nos projetos que os alunos fizeram no primeiro semestre (por isso a Aula 5 não lança mais um desafio novo). Mapa de Empatia e Canvas viraram uma aula só, para caber tudo antes do Pitch Day, que continua em 23/11.
 - Resultado: **14 aulas** (15 encontros, contando os dois da Aula 4), renumeradas nos planos de aula em [`aulas/`](aulas/).
 
 ## Datas que não contam (feriados / aulas suspensas)

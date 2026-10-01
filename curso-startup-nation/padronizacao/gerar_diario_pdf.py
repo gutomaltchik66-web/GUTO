@@ -84,10 +84,10 @@ aulas = [
      "“Procura dentre o povo homens capazes [...] e põe estes sobre eles por chefes de mil, chefes de cem, chefes de cinquenta e chefes de dez.”",
      "Yitro ajudou Moshé a organizar o povo em grupos, com líderes definidos. Por que até o maior líder precisa de uma boa estrutura/instituição ao seu redor?"),
 
-    (5, "Tikun olam + lançamento do desafio final",
+    (5, "Tikun olam: inovação com propósito",
      "Êxodo 3:9-10",
      "“E agora, eis que o clamor dos filhos de Israel chegou a mim [...] Vem, pois, agora, e enviar-te-ei a Faraó, para que tires do Egito o meu povo.”",
-     "D'us chamou Moshé para agir agora, sem esperar mais. Por que agora é um bom momento para você começar seu próprio projeto?"),
+     "D'us ouviu o sofrimento do povo e chamou Moshé para agir. Que “clamor” (um problema de alguém) você escuta ao seu redor e poderia ajudar a resolver?"),
 ]
 
 c = canvas.Canvas("Diario do Empreendedor - Caderno do Aluno.pdf", pagesize=A4)

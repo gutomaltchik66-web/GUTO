@@ -45,7 +45,7 @@ Calendário com as datas reais do semestre (segundas-feiras letivas) em [`calend
 | 3 | 31/08 | Fundamentos | Chutzpah: da palavra à atitude empreendedora | [`aulas/aula-03.md`](aulas/aula-03.md) |
 | 4 | 14/09 | Fundamentos | O papel do Estado e do Exército (1º encontro: David cards + Google Classroom) | [`aulas/aula-04.md`](aulas/aula-04.md) |
 | 4 | 28/09 | Fundamentos | O papel do Estado e do Exército (2º encontro: Aliot, Tnuot Noar e conferência com João Gus, IDF) | [`aulas/aula-04.md`](aulas/aula-04.md) |
-| 5 | 05/10 | Ecossistema | Tikun olam + lançamento do desafio final (última aula com o Diário) | [`aulas/aula-05.md`](aulas/aula-05.md) |
+| 5 | 05/10 | Ecossistema | Tikun olam: inovação com propósito (última aula com o Diário) | [`aulas/aula-05.md`](aulas/aula-05.md) |
 | 6 | 19/10 | Meu Projeto | Mapa de Empatia + Canvas do Projeto Pessoal | [`aulas/aula-06.md`](aulas/aula-06.md) |
 | 7 | 26/10 | Meu Projeto | Protótipo: tirando a ideia do papel | [`aulas/aula-07.md`](aulas/aula-07.md) |
 | 8 | 09/11 | Meu Projeto | Roteiro de Pitch: contando minha ideia em 2 min | [`aulas/aula-08.md`](aulas/aula-08.md) |
