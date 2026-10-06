@@ -69,6 +69,7 @@ Templates prontos para imprimir/copiar em [`ferramentas/`](ferramentas/):
 - [`ferramentas/fichas-debate-estado.md`](ferramentas/fichas-debate-estado.md) — argumentos para o debate, material reserva da Aula 4 (não usado nesta turma)
 
 **Meu Projeto (Aulas 6–10)**
+- [`ferramentas/modelo-entrega-final.md`](ferramentas/modelo-entrega-final.md) — modelo de 10 slides que todos os grupos seguem na versão final do projeto (Pitch Day)
 - [`ferramentas/mapa-de-empatia.md`](ferramentas/mapa-de-empatia.md) — entender a pessoa real por trás do problema (apoio na Aula 6)
 - [`ferramentas/canvas-projeto-pessoal.md`](ferramentas/canvas-projeto-pessoal.md) — Canvas de 8 caixas, usado como checklist do projeto (apoio nas Aulas 6 e 7)
 - [`ferramentas/prototipo-rapido.md`](ferramentas/prototipo-rapido.md) — protótipo tangível da solução (Aula 7)

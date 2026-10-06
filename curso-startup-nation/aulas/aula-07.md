@@ -4,7 +4,7 @@
 
 **Materiais de apoio**
 - os trabalhos dos alunos (sala de informática ou notebooks, se possível)
-- checklist do projeto (ver Aula 6)
+- modelo da entrega final (`ferramentas/modelo-entrega-final.md`)
 - apoio: `ferramentas/prototipo-rapido.md` e `ferramentas/canvas-projeto-pessoal.md` (caixas "Como as pessoas vão saber", "O que eu preciso" e "Maior risco")
 
 ## Roteiro (90 min)
@@ -14,4 +14,4 @@
 3. **Check-out (15 min)** — Cada grupo mostra o protótipo para outro grupo em 2 min e ouve 1 pergunta.
 
 ## Produto da aula
-Protótipo pronto + slide de modelo de negócio e concorrência (itens 3, 4 e 5 do checklist).
+Solução, protótipo, concorrentes e modelo de negócio prontos (slides 4 a 7 do modelo).

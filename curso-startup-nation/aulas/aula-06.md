@@ -4,17 +4,11 @@
 
 **Materiais de apoio**
 - os trabalhos dos alunos (são slides: se possível, reservar sala de informática ou notebooks)
-- checklist do projeto (abaixo) e `ferramentas/rubrica-avaliacao.md`
+- modelo da entrega final, que serve de checklist (`ferramentas/modelo-entrega-final.md`), e `ferramentas/rubrica-avaliacao.md`
 - apoio para quem precisar: `ferramentas/mapa-de-empatia.md`
 
 ## Checklist do projeto (vale para as 3 oficinas)
-1. Problema claro, com um dado ou exemplo concreto
-2. Público-alvo específico (não "qualquer pessoa")
-3. Solução: o que é e como funciona
-4. Protótipo: algo que dá para ver (tela, post, desenho, maquete)
-5. Como ganha dinheiro (ou como se sustenta) e quem são os concorrentes
-6. Conexão com valores judaicos (chutzpah, tikun olam ou outro)
-7. Pitch de 2 min, com gancho no início e pedido claro no fim
+Os 10 slides do modelo da entrega final (`ferramentas/modelo-entrega-final.md`): capa, problema com dado, público-alvo, solução, protótipo, concorrentes e diferencial, como se sustenta, valores judaicos, por que nós e o que precisamos, encerramento.
 
 ## Roteiro (90 min)
 
@@ -23,4 +17,4 @@
 3. **Check-out (15 min)** — Cada grupo diz em 1 frase o que avançou hoje e o que vai fazer na próxima oficina.
 
 ## Produto da aula
-Projeto com problema, público e evidência resolvidos (itens 1 e 2 do checklist).
+Projeto com capa, problema (com evidência) e público-alvo resolvidos (slides 1 a 3 do modelo).

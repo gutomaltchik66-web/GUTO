@@ -4,7 +4,7 @@
 
 **Materiais de apoio**
 - os trabalhos dos alunos (sala de informática ou notebooks, se possível)
-- checklist do projeto (ver Aula 6) · `ferramentas/roteiro-pitch.md` · `ferramentas/rubrica-avaliacao.md` · cronômetro
+- modelo da entrega final (`ferramentas/modelo-entrega-final.md`) · `ferramentas/roteiro-pitch.md` · `ferramentas/rubrica-avaliacao.md` · cronômetro
 
 ## Roteiro (90 min)
 
@@ -14,4 +14,4 @@
 4. **Combinados (5 min)** — Relembrar que o Pitch Day é dia 23/11, no auditório, e que 16/11 é o ensaio geral.
 
 ## Produto da aula
-Projeto completo (checklist inteiro) + roteiro de pitch de 2 min, já ensaiado uma vez.
+Projeto completo (os 10 slides do modelo) + roteiro de pitch de 2 min, já ensaiado uma vez.
