@@ -1,15 +1,46 @@
 # Normas do artigo de conclusão (TCC da especialização)
 
-Resumo das regras do modelo enviado pelo curso (`Artigo_TCC_Modelo_2024_Revisado_Bibliotecarias30-04-2024.doc`, padrão UFRGS / ABNT). Usar como checklist ao escrever e revisar o artigo.
+**Curso:** Especialização EAD em Relações Internacionais: Geopolítica & Defesa, UFRGS, VIII edição (2026), 390 h/a.
 
-**Atenção:** o modelo foi feito para o TCC de Ciências Contábeis da UFRGS. Os exemplos são de contabilidade, e a nota de rodapé do título fala em "Bacharel em Ciências Contábeis". Adaptar para o nome do curso de especialização, a instituição, o semestre e o título de Especialista. Algumas regras do Resumo remetem ao Moodle do curso: conferir lá.
+Este guia junta duas fontes:
+1. **Normas do curso** (`NORMAS PARA A ELABORAÇÃO DO TRABALHO DE CONCLUSÃO DE CURSO.pdf`): são as regras oficiais e **têm prioridade**.
+2. **Modelo de artigo da Biblioteca da UFRGS** (`Artigo_TCC_Modelo_2024_Revisado_Bibliotecarias30-04-2024.doc`): mostra como escrever cada seção.
+
+## Regras oficiais do curso (prioridade)
+1. O TCC é um **artigo científico**.
+2. O texto deve ser **inédito** e estar **dentro das temáticas do curso** (relações internacionais, geopolítica e defesa).
+3. Título e subtítulo (se houver). **Resumo de 200 a 300 palavras**, com objetivos, problematização ou hipóteses (se houver), metodologia e resultados.
+4. **Entre 35 mil e 50 mil caracteres com espaços**, contando notas de rodapé e referências.
+5. As **referências** ocupam **no máximo 20%** das páginas de conteúdo. Informar URLs quando necessário.
+6. Referências no padrão **ABNT**, listadas no fim do texto.
+7. **Notas de rodapé** só para esclarecimentos adicionais.
+8. **Espaçamento 1,5, Times New Roman 12, papel A4.**
+9. Entregar em **Microsoft Word**.
+10. Imagens (fluxogramas, mapas, tabelas, figuras) só quando forem essenciais ao argumento.
+
+**Onde o modelo e o curso divergem:**
+- **Resumo:** o modelo pede 150 a 250 palavras, e o curso pede 200 a 300. Mirar em **200 a 250 palavras**, que atende aos dois.
+- **Nota de rodapé do título:** o modelo enviado fala em "Bacharel em Ciências Contábeis". Trocar por algo como "Artigo apresentado como requisito parcial para obtenção do título de Especialista em Relações Internacionais: Geopolítica & Defesa, UFRGS, 2026". Vale conferir se há uma versão própria do modelo na aba "Especialização" de https://www.ufrgs.br/bibeco/ferramentas/modelos/.
+
+**Ferramentas indicadas pelo curso:**
+- MORE (https://more.ufsc.br/), gerador de referências ABNT.
+- Proxy UFRGS, que dá acesso ao Portal de Periódicos CAPES.
+- LUME (repositório da UFRGS).
+- SABI (bibliotecas da UFRGS).
+- Revista Austral (estratégia e RI) e Revista Brasileira de Estudos Africanos (RBEA).
+
+---
+
+## Como escrever cada seção (modelo da Biblioteca)
+
+Os exemplos do modelo são de contabilidade; as regras de estrutura valem para qualquer área. Algumas regras do Resumo remetem ao Moodle do curso: conferir lá.
 
 ## Estrutura e tamanho
 
 | Seção | Tamanho sugerido |
 |---|---|
 | Título (português) + título em inglês + nomes do aluno e do orientador | — |
-| Resumo + palavras-chave / Abstract + keywords | 150 a 250 palavras |
+| Resumo + palavras-chave / Abstract + keywords | 200 a 250 palavras (atende curso e modelo) |
 | 1 Introdução | cerca de 1 página |
 | 2 Referencial teórico (inclui 2.x Estudos relacionados) | cerca de 5 páginas |
 | 3 Procedimentos metodológicos | cerca de 1 página |
@@ -17,7 +48,7 @@ Resumo das regras do modelo enviado pelo curso (`Artigo_TCC_Modelo_2024_Revisado
 | 5 Considerações finais | cerca de 1 página |
 | Referências | — |
 
-Total do corpo: cerca de 14 páginas.
+Total do corpo: cerca de 14 páginas. O limite oficial é o do curso: **35 mil a 50 mil caracteres com espaços** (no Word: Revisão → Contar palavras → "Caracteres (com espaços)").
 
 ## Elementos iniciais
 - **Título:** tamanho 12. Não apagar o asterisco ao lado do título: ele gera a nota de rodapé com as informações do trabalho.
@@ -109,7 +140,7 @@ Entre as Considerações finais e as Referências, só um enter (o artigo é seq
 - Não usar "______" para repetir o autor: sempre repetir o sobrenome.
 - O modelo traz exemplos de cada tipo: livro, capítulo, legislação federal e estadual, entidade como autor, dissertação/tese, congresso, periódico e texto para discussão.
 
-## Formatação (o que deu para extrair do .doc)
-- Fonte do corpo: provavelmente Times New Roman (é o estilo de texto do modelo). Confirmar no Word.
-- Título tamanho 12. Fontes de tabelas, quadros e notas de rodapé em tamanho 10.
-- Margens, espaçamento entre linhas e recuo de parágrafo não puderam ser lidos aqui. Usar o próprio arquivo do modelo como base no Word.
+## Formatação
+- **Times New Roman 12, espaçamento 1,5, A4** (norma do curso).
+- Título tamanho 12. Fontes de tabelas, quadros e notas de rodapé em tamanho 10, com espaço simples.
+- Margens e recuo de parágrafo: usar o próprio arquivo do modelo como base no Word. Não foi possível ler essas medidas aqui.
